@@ -12,3 +12,5 @@ for solving non-standard reasoning problems, and extend knowledge
 represenation formalisms (in particular Description Logics) to handle 
 meta-knowledge. I like to explore new challenges, and have worked in
 many different topics.</p>
+
+<p> This page is currently being updated </p>
