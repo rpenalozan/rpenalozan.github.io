@@ -5,6 +5,11 @@ permalink: /pubs/
 ---
 
 {% assign year_grouped = site.data.pubs | sort: 'year' | group_by: 'year' %}
+
+<p>
+I have {{ site.data.pubs.size }} publications in different venues.
+</p>
+
 <p>
 {% for group in year_grouped reversed %}
   <a href="#{{ group.name }}">{{ group.name }}</a>&nbsp;
