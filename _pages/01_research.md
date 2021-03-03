@@ -7,7 +7,18 @@ permalink: /research/
 <h3>PC Memberships</h3>
 
 <div id='pc'>
+
 {% assign year_grouped = site.data.pc | sort: 'year' | reverse %}
+
+<p>
+
+{% assign total = 0 %}
+{% for group in year_grouped %}
+  {% assign total = total | plus: group.venues.size %}
+{% endfor %}
+
+I have served in {{ total }} Programme Committees.
+</p>
 
 {% for group in year_grouped limit:2 %}
   <h3 id="{{ group.year }}">{{ group.year }}</h3>
