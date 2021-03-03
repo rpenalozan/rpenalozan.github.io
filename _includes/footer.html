@@ -1,0 +1,38 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>
+            <a href="{{ site.url }}">
+              {{ site.author | escape }}
+            </a>
+            </li>
+	    <li><a href="http://www.ir.disco.unimib.it/">IKR3 Lab</a>
+	    <li><a href="http://www.disco.unimib.it/">DISCO</a>
+	    <li><a href="http://www.unimib.it/">University of Milano-Bicocca</a>
+            {% if site.email %}
+            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {% endif %}
+            <li>Phone: +39 XXX XXXX</li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          <li>
+            {% include image.html file="/img/unimib.png" url="http://www.unimib.it/" %}
+          </li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+	Last update: {{ "now" | date: "%Y-%m-%d" }}.
+      </div>
+    </div>
+
+  </div>
+
+</footer>

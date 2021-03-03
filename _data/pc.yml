@@ -1,0 +1,160 @@
+- year: 2010
+  venues:
+  - name: First International Workshop on Uncertainty in Description Logics (UniDL'10)
+    note: PC Chair
+
+- year: 2011
+  venues:
+  - name: 7th International Workshop on Uncertainty Reasoning for the Semantic Web (URSW 2011)
+  - name: 22nd International Joint Conference on Artificial Intelligence (IJCAI'11)
+  - name: 24th International Workshop on Description Logics (DL 2011)
+
+- year: 2012
+  venues:
+  - name: First International Workshop on Debugging Ontologies and Ontology Mappings (WoDOOM 2012)
+  - name: 8th International Workshop on Uncertainty Reasoning for the Semantic Web (URSW 2012)
+  - name: 6th International Conference on Web Reasoning and Rule Systems (RR 2012)
+  - name: 9th Extended Semantic Web Conference (ESWC 2012)
+  - name: 25th International Workshop on Description Logics (DL 2012)
+  - name: 4th International Workshop on Acquisition, Representation and Reasoning with Contextualized Knowledge (ARCOE'12)
+  - name: AI on the Web Workshop 2012
+
+- year: 2013
+  venues:
+  - name: 27th AAAI Conference on Artificial Intelligence (AAAI'13)
+    note: Senior PC Member
+  - name: 26th International Workshop on Description Logics (DL 2013)
+  - name: Second International Workshop on Debugging Ontologies and Ontology Mappings (WoDOOM 2013)
+  - name: 9th International Workshop on Uncertainty Reasoning for the Semantic Web (URSW 2013)
+  - name: 15th Conference of the Spanish Association for Artificial Intelligence (CAEPIA 2013)
+  - name: 4th Conference on Knowledge Engineering and Sematic Web (KESW 2013)
+  - name: 5th International Workshop on Acquisition, Representation and Reasoning with Contextualized Knowledge (ARCOE'13)
+
+- year: 2014
+  venues:
+  - name: First International Workshop on Logics for Reasoning about Preferences, Uncertainty and Vagueness (PRUV 2014)
+    note: PC Chair
+  - name: 8th International Conference on Scalable Uncertainty Management (SUM 2014)
+  - name: 5th Conference on Knowledge Engineering and Sematic Web (KESW 2014)
+  - name: 27th International Workshop on Description Logics (DL 2014)
+  - name: Third International Workshop on Debugging Ontologies and Ontology Mappings (WoDOOM 2014)
+  - name: 11th Extended Semantic Web Conference (ESWC 2014)
+  - name: 14th International Conference on Principles of Knowledge Representation and Reasoning (KR 2014)
+  - name: 6th International Workshop on Acquisition, Representation and Reasoning with Contextualized Knowledge (ARCOE'14)
+  - name: 10th International Workshop on Uncertainty Reasoning for the Semantic Web (URSW 2014)
+
+- year: 2015
+  venues:
+  - name: 38th German Conference on Artificial Intelligence (KI 2015)
+    note: Doctoral Consortium Chair
+  - name: 24th International Joint Conference on Artificial Intelligence (IJCAI'15)
+  - name: 11th International Workshop on Uncertainty Reasoning for the Semantic Web (URSW 2015)
+  - name: 6th Conference on Knowledge Engineering and Sematic Web (KESW 2015)
+  - name: First Joint Ontology Workshop (JOWO 2015)
+  - name: 16th Conference of the Spanish Association for Artificial Intelligence (CAEPIA 2015)
+  - name: 4th International Workshop on Debugging Ontologies and Ontology Mappings (WoDOOM 2015)
+
+- year: 2016
+  venues:
+  - name: 29th International Workshop of Description Logics (DL 2016)
+    note: PC Chair
+  - name: 10th International Conference on Web Reasoning and Rule Systems (RR 2016)
+    note: Doctoral Consortium Chair
+  - name: 18th IEEE Conference on Business informatics (CBI 2016)
+    note: Track Chair (Semantic Web and Conceptual Modelling)
+  - name: 12th International Workshop on Uncertainty Reasoning for the Semantic Web (URSW 2016)
+  - name: "15th International Semantic Web Conference - Posters and Demos (ISWC 2016 P&D)"
+  - name: 15th International Conference on Principles of Knowledge Representation and Reasoning (KR 2016)
+  - name: 25th International Joint Conference on Artificial Intelligence (IJCAI'16)
+  - name: International Workshop on Ontology Modularity, Contextuality, and Evolution (WOMoCoE 2016)
+  - name: Tenth International Conference on Scalable Uncertainty Management (SUM 2016)
+  - name: 7th Conference on Knowledge Engineering and Sematic Web (KESW 2016)
+  - name: First International Workshop on Completing and Debugging the Semantic Web (CoDeS'16)
+  - name: V Congreso Español de Informática (CEDI 2016)
+  - name: 22nd European Conference on Artificial Intelligence (ECAI 2016)
+
+- year: 2017
+  venues:
+  - name: 30th International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems
+    note: Track Chair (Novel Approaches to Ontological Reasoning)
+  - name: Debugging and Evaluation Workshop (DEW@JOWO)
+    note: PC Chair
+  - name: 30th International FLAIRS Conference
+  - name: 30th International Workshop on Description Logics (DL 2017)
+  - name: 2nd Workshop on Cognition and Ontologies (CAOS 2017)
+  - name: 14th Extended Semantic Web Conference (ESWC 2017)
+  - name: 26th International Joint Conference on Artificial Intelligence (IJCAI'17)
+  - name: 8th Conference on Knowledge Engineering and Sematic Web (KESW 2017)
+  - name: "First International Workshop on Generalizing knowledge: from Machine Learning and Knowledge Representation to the Semantic Web (GenSW2017)"
+  - name: 1st International Workshop on Epistemology in Ontologies (EPINON)
+  - name: 16th International Semantic Web Conference (ISWC 2017)
+  - name: "16th International Semantic Web Conference - Posters and Demos (ISWC 2017 P&D)"
+  - name: "14th Extended Semantic Web Conference - Posters and Demos (ESWC 2017 P&D)"
+  - name: Comprehensibility and Explanation in AI and ML (CEx 2017)
+  - name: Workshop on Managing Changes in the Semantic Web (MaCSeW2017)
+  - name: 11th International Conference on Scalable Uncertainty Management (SUM 2017)
+  - name: International Joint Conference on Rules and Reasoning RuleML+RR 2017 Doctoral Consortium
+  - name: 40th German Conference on Artificial Intelligence (KI 2017)
+
+- year: 2018
+  venues:
+  - name: 32nd AAAI Conference on Artificial Intelligence (AAAI'18)
+    url: https://aaai.org/Conferences/AAAI-18/
+  - name: 27th International Joint Conference on Artificial Intelligence (IJCAI'18)
+    url: https://www.ijcai-18.org/
+  - name: 31st International FLAIRS Conference
+    url: http://w3.uqo.ca/allimo01/UR/ur18.html
+  - name: Second International Workshop on Logics for Reasoning about Preferences, Uncertainty and Vagueness (PRUV 2018)
+    url: http://pruv18.inf.unibz.it/
+    note: PC Chair
+  - name: 3rd International Workshop on Ontology Modularity, Contextuality, and Evolution (WOMoCoE 2018)
+    url: http://dai.fmph.uniba.sk/events/womocoe2018/
+  - name: 33rd Italian Conference on Computational Logic (CILC 2018)
+    url: https://cilc2018.events.unibz.it/
+  - name: 12th International Conference on Scalable Uncertainty Management (SUM 2018)
+    url: http://www.ir.disco.unimib.it/sum2018/
+  - name: 16th International Conference on Principles of Knowledge Representation and Reasoning (KR 2018)
+    url: http://reasoning.eas.asu.edu/kr2018/
+  - name: The Bad Ontology Workshop (BOG@JOWO)
+    url: http://bog.inf.unibz.it/
+    note: PC Chair
+  - name: Seminar on Ontology Research in Brazil (ONTOBRAS 2018) 
+    url: http://cleilaclo2018.mackenzie.br/ontobras-2018
+  - name: 15th Extended Semantic Web Conference (ESWC 2018)
+    url: https://2018.eswc-conferences.org/
+  - name: "15th Extended Semantic Web Conference - Posters and Demos (ESWC 2018 P&D)"
+    url: https://2018.eswc-conferences.org/
+  - name: 31st International Workshop on Description Logics (DL 2018)
+    url: http://www.dcs.bbk.ac.uk/~michael/dl2018/
+  - name: Artificial Intelligence for Question Answering (AI*QA)
+    url: http://aiqa2018.icar.cnr.it/
+  - name: "17th International Semantic Web Conference - Posters and Demos (ISWC 2018 P&D)"
+  - name: 41st German Conference on Artificial Intelligence (KI 2018)
+    url: http://ki2018.dai-labor.de/
+
+- year: 2019
+  venues:
+  - name: 33rd AAAI Conference on Artificial Intelligence (AAAI'19)
+    url: https://aaai.org/Conferences/AAAI-19/
+  - name: 16th European Conference on Logics in Artificial Intelligence (JELIA'19)
+    url: https://jelia2019.mat.unical.it/
+  - name: 32nd International FLAIRS Conference
+    url: https://sites.google.com/view/flairs-32homepage/home
+  - name: 15th European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty (ECSQARU'19)
+    url: https://ls1-www.cs.tu-dortmund.de/ecsqaru2019/
+  - name: "16th Extended Semantic Web Conference - Posters and Demos (ESWC 2019 P&D)"
+    url: https://2019.eswc-conferences.org/
+  - name: 42nd German Conference on Artificial Intelligence (KI 2019)
+    url: https://www.ki2019.de/
+  - name: 32nd International Workshop on Description Logics (DL 2019)
+    url: http://dl2019.ifi.uio.no/home.html
+  - name: 28th International Joint Conference on Artificial Intelligence (IJCAI'19)
+    url: https://ijcai19.org/
+    note: Senior PC Member
+  - name: 13th International Conference on Scalable Uncertainty Management (SUM 2019)
+    url: https://sum2019.hds.utc.fr/
+  - name: 18th International Semantic Web Conference (ISWC 2019)
+    url: https://iswc2019.semanticweb.org/
+  - name: 19th EPIA Conference on Artificial Intelligence (EPIA 2019)
+    url: https://epia2019.utad.pt/
+    note: Knowledge Representation and Reasoning Track Chair

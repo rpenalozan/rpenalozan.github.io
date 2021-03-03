@@ -1,0 +1,3168 @@
+- key: PenaGI09
+  type: 0
+  author: Rafael Peñaloza
+  title: "Wie findet man die verantwortliche Axiome? Axiom-Pinpointing in Beschreibungslogiken"
+  venue: "Ausgezeichnete Informatikdissertationen 2009"
+  year: 2010
+  bib: | 
+    @InProceedings{PenaGI09,
+      author = {Rafael Pe{\~n}aloza},
+      title = {Wie findet man die verantwortliche {A}xiome? {A}xiom-{P}inpointing in {B}eschreibungslogiken},
+      booktitle = {Ausgezeichnete Informatikdissertationen 2009},
+      year = 2010,
+      volume = {D10},
+      series = {Lecture Notes in Informatics},
+      publisher = {Gesellschaft f\"ur Informatik},
+      address = {Germany},
+      pages = {181--190},
+      note = {In german},
+    }
+- key: PenaLinz14
+  type: 0
+  author: Rafael Peñaloza
+  title: "Automata-based Reasoning in Fuzzy Description Logics"
+  year: 2014
+  venue: "Proceedings of the 35th Linz Seminar on Fuzzy Set Theory"
+  bib: | 
+    @inproceedings{PenaLinz14,
+      author = {Rafael Pe{\~n}aloza},
+      title = {Automata-based Reasoning in Fuzzy Description Logics},
+      year = 2014,
+      booktitle = {Proceedings of the 35th Linz Seminar on Fuzzy Set Theory},
+      editor = {Tommaso Flaminio and Lluis Godo and Siegfried Gottlob and Erich Peter Klement },
+      pages = {103--106},
+    }
+- key: PenaMV15
+  type: 0
+  author: Rafael Peñaloza
+  title: "Feeding Many Values to Lightweight Description Logics"
+  year: 2015
+  venue: "Proceedings of ManyVal 2015"
+  bib: | 
+    @inproceedings{PenaMV15,
+      author = {Rafael Pe{\~n}aloza},
+      title = {Feeding Many Values to Lightweight Description Logics},
+      year = 2015,
+      booktitle = {Proceedings of ManyVal 2015},
+      editor = {George Metcalfe},
+      pages = {13--14},
+    }
+- key: HKPR-KI15
+  type: 1
+  author: Steffen Hölldobler,  Markus Krötzsch,  Rafael Peñaloza and Sebastian Rudolph (eds.) 
+  title: "Proceedings of the 38th Annual German Conference on AI (KI 2015)"
+  year: 2015
+  doi: 10.1007/978-3-319-24489-1
+  bib: | 
+    @proceedings{HKPR-KI15,
+      editor    = {Steffen H{\"{o}}lldobler and
+                   Markus Kr{\"{o}}tzsch and
+                   Rafael Pe{\~{n}}aloza and
+                   Sebastian Rudolph},
+      title     = {Proceedings of the 38th Annual German Conference on AI ({KI} 2015)},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {9324},
+      publisher = {Springer},
+      year      = {2015},
+      url       = {http://dx.doi.org/10.1007/978-3-319-24489-1},
+      note       = {doi: http://dx.doi.org/10.1007/978-3-319-24489-1},
+      doi       = {10.1007/978-3-319-24489-1},
+      isbn      = {978-3-319-24488-4},
+    }
+- key: JOWO17
+  type: 1
+  author: Stefano Borgo,  Oliver Kutz,  Frank Loebe,  Fabian Neuhaus,  Kemo Adrian,  Mihailo Antovic,  Valerio Basile,  Martin Boeker,  Diego Calvanese,  Tommaso Caselli,  Giorgio Colombo,  Roberto Confalonieri,  Laura Daniele,  Jérôme Euzenat,  Antony Galton,  Dagmar Gromann,  Maria M. Hedblom,  Heinrich Herre,  Inge Hinterwaldner,  Andrea Janes,  Ludger Jansen,  Kris Krois,  Antonio Lieto,  Claudio Masolo,  Rafael Peñaloza,  Daniele Porello,  Daniele P. Radicioni,  Emilio M. Sanfilippo,  Daniel Schober,  Rossella Stufano,  Amanda Vizedom (eds.) 
+  title: "Proceedings of the Joint Ontology Workshops 2017 Episode 3: The Tyrolean Autumn of Ontology"
+  year: 2018
+  bib: | 
+    @proceedings{JOWO17,
+      editor    = {Stefano Borgo and
+                   Oliver Kutz and
+                   Frank Loebe and
+                   Fabian Neuhaus and
+                   Kemo Adrian and
+                   Mihailo Antovic and
+                   Valerio Basile and
+                   Martin Boeker and
+                   Diego Calvanese and
+                   Tommaso Caselli and
+                   Giorgio Colombo and
+                   Roberto Confalonieri and
+                   Laura Daniele and
+                   J{\'{e}}r{\^{o}}me Euzenat and
+                   Antony Galton and
+                   Dagmar Gromann and
+                   Maria M. Hedblom and
+                   Heinrich Herre and
+                   Inge Hinterwaldner and
+                   Andrea Janes and
+                   Ludger Jansen and
+                   Kris Krois and
+                   Antonio Lieto and
+                   Claudio Masolo and
+                   Rafael Pe{\~{n}}aloza and
+                   Daniele Porello and
+                   Daniele P. Radicioni and
+                   Emilio M. Sanfilippo and
+                   Daniel Schober and
+                   Rossella Stufano and
+                   Amanda Vizedom},
+      title     = {Proceedings of the Joint Ontology Workshops 2017 Episode 3: The Tyrolean
+                   Autumn of Ontology},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {2050},
+      publisher = {CEUR-WS.org},
+      year      = {2018},
+      url       = {http://ceur-ws.org/Vol-2050},
+    }
+- key: LePe-DL16
+  type: 1
+  author: Maurizio Lenzerini and Rafael Peñaloza (eds.) 
+  title: "Proceedings of the 29th International Workshop on Description Logics"
+  year: 2016
+  bib: | 
+    @proceedings{LePe-DL16,
+      editor    = {Maurizio Lenzerini and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Proceedings of the 29th International Workshop on Description Logics},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {1577},
+      publisher = {CEUR-WS.org},
+      year      = {2016},
+      url       = {http://ceur-ws.org/Vol-1577},
+    }
+- key: LuPT-UniDL10
+  type: 1
+  author: Thomas Lukasiewicz,  Rafael Peñaloza and Anni-Yasmin Turhan (eds.) 
+  title: "Proceedings of the First International Workshop on Uncertainty in Description Logics"
+  year: 2010
+  bib: | 
+    @proceedings{LuPT-UniDL10,
+      editor    = {Thomas Lukasiewicz and
+                   Rafael Pe{\~{n}}aloza and
+                   Anni{-}Yasmin Turhan},
+      title     = {Proceedings of the First International Workshop on Uncertainty in
+                   Description Logics},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {613},
+      publisher = {CEUR-WS.org},
+      year      = {2010},
+      url       = {http://ceur-ws.org/Vol-613},
+    }
+- key: LuPT-PRUV14
+  type: 1
+  author: Thomas Lukasiewicz,  Rafael Peñaloza and Anni-Yasmin Turhan (eds.) 
+  title: "Proceedings of the First Workshop on Logics for Reasoning about Preferences"
+  year: 2014
+  bib: | 
+    @proceedings{LuPT-PRUV14,
+      editor    = {Thomas Lukasiewicz and
+                   Rafael Pe{\~{n}}aloza and
+                   Anni{-}Yasmin Turhan},
+      title     = {Proceedings of the First Workshop on Logics for Reasoning about Preferences,
+                   Uncertainty, and Vagueness ({PRUV} 2014)},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {1205},
+      publisher = {CEUR-WS.org},
+      year      = {2014},
+      url       = {http://ceur-ws.org/Vol-1205},
+    }
+- key: LuPT-PRUV18
+  type: 1
+  author: Thomas Lukasiewicz,  Rafael Peñaloza and Anni-Yasmin Turhan (eds.) 
+  title: "Proceedings of the Second Workshop on Logics for Reasoning about Preferences"
+  year: 2018
+  bib: | 
+    @proceedings{LuPT-PRUV18,
+      editor    = {Thomas Lukasiewicz and
+                   Rafael Pe{\~{n}}aloza and
+                   Anni{-}Yasmin Turhan},
+      title     = {Proceedings of the Second Workshop on Logics for Reasoning about Preferences,
+                   Uncertainty, and Vagueness ({PRUV} 2018)},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {2157},
+      publisher = {CEUR-WS.org},
+      year      = {2018},
+      url       = {http://ceur-ws.org/Vol-2157},
+    }
+- key: MoPe-RRDC16
+  type: 1
+  author: Marco Montali and Rafael Peñaloza (eds.) 
+  title: "Proceedings of the Doctoral Consortia for the 9th,  10th International Conference on Web Reasoning and Rule Systems"
+  year: 2016
+  bib: | 
+    @proceedings{MoPe-RRDC16,
+      editor    = {Marco Montali and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Proceedings of the Doctoral Consortia for the 9th and 10th International Conference on Web Reasoning and Rule Systems},
+      year      = 2016,
+      note      = {To appear},
+    }
+- key: PenaITAM
+  type: 2
+  author: Rafael Peñaloza
+  title: "Sistemas basados en conocimiento, redes probabilistas y KAMET"
+  year: 2003
+  bib: | 
+    @MastersThesis{PenaITAM,
+      author = {Rafael Pe{\~n}aloza},
+      title = {Sistemas basados en conocimiento, redes probabilistas y {KAMET}},
+      school = {Instituto Tecnol{\'o}gico Autonomo de M{\'e}xico},
+      year = 2003,
+      type = {Bachelor's Thesis},
+      address = {Mexico},
+      note = {In spanish}
+  bib: | 
+    @MastersThesis{PenaITAM,
+      author = {Rafael Pe{\~n}aloza},
+      title = {Sistemas basados en conocimiento, redes probabilistas y {KAMET}},
+      school = {Instituto Tecnol{\'o}gico Autonomo de M{\'e}xico},
+      year = 2003,
+      type = {Bachelor's Thesis},
+      address = {Mexico},
+      note = {In spanish}
+    }
+- key: PenaCL
+  type: 2
+  author: Rafael Peñaloza
+  title: "Optimization of Emptiness Test of Büchi Automata on Infinite Trees"
+  year: 2006
+  bib: | 
+    @MASTERSTHESIS{PenaCL,
+      author = {Rafael Pe{\~n}aloza},
+      title = {Optimization of Emptiness Test of {B{\"u}chi} Automata on Infinite Trees},
+      school = {Dresden University of Technology},
+      year = {2006},
+      type = {Master's thesis},
+      address = {Germany}
+  bib: | 
+    @MASTERSTHESIS{PenaCL,
+      author = {Rafael Pe{\~n}aloza},
+      title = {Optimization of Emptiness Test of {B{\"u}chi} Automata on Infinite Trees},
+      school = {Dresden University of Technology},
+      year = {2006},
+      type = {Master's thesis},
+      address = {Germany}
+    }
+- key: PenaPhD
+  type: 2
+  author: Rafael Peñaloza
+  title: "Axiom-Pinpointing in Description Logics and Beyond"
+  year: 2009
+  bib: | 
+    @PhDThesis{PenaPhD,
+      author = {Rafael Pe{\~n}aloza},
+      title = {Axiom-Pinpointing in Description Logics and Beyond},
+      school = {Dresden University of Technology},
+      year = {2009},
+      address = {Germany}
+  bib: | 
+    @PhDThesis{PenaPhD,
+      author = {Rafael Pe{\~n}aloza},
+      title = {Axiom-Pinpointing in Description Logics and Beyond},
+      school = {Dresden University of Technology},
+      year = {2009},
+      address = {Germany}
+    }
+- key: PenaHabil
+  type: 2
+  author: Rafael Peñaloza
+  title: "Reasoning with Annotated Description Logic Ontologies"
+  year: 2015
+  bib: | 
+    @MastersThesis{PenaHabil,
+      author = {Rafael Pe{\~n}aloza},
+      title = {Reasoning with Annotated Description Logic Ontologies},
+      school = {Dresden University of Technology},
+      year = 2015,
+      type = {Habilitation Thesis},
+      address = {Germany},
+      note = {Cumulative habilitation report}
+  bib: | 
+    @MastersThesis{PenaHabil,
+      author = {Rafael Pe{\~n}aloza},
+      title = {Reasoning with Annotated Description Logic Ontologies},
+      school = {Dresden University of Technology},
+      year = 2015,
+      type = {Habilitation Thesis},
+      address = {Germany},
+      note = {Cumulative habilitation report}
+    }
+- key: AFPS-SEBD17
+  type: 3
+  author: Alessandro Artale,  Enrico Franconi,  Rafael Peñaloza,  Francesco Sportelli
+  title: "A Decidable Very Expressive Description Logic for Databases (Extended Abstract)"
+  venue: "Proceedings of the 25th Italian Symposium on Advanced Database Systems (SEBD 2017)"
+  year: 2017
+  bib: | 
+    @inproceedings{AFPS-SEBD17,
+      author    = {Alessandro Artale and
+                   Enrico Franconi and
+                   Rafael Pe{\~{n}}aloza and
+                   Francesco Sportelli},
+      title     = {A Decidable Very Expressive Description Logic for Databases (Extended Abstract)},
+      booktitle = {Proceedings of the 25th Italian Symposium on Advanced Database Systems (SEBD 2017)},
+      year      = {2017},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {2037},
+      publisher = {CEUR-WS.org},
+      editor    = {Sergio Flesca and
+                   Sergio Greco and
+                   Elio Masciari and
+                   Domenico Sacc{\`{a}}},
+    }
+- key: BaHP07
+  type: 3
+  author: Franz Baader,  Jan Hladik and Rafael Peñaloza
+  title: "Blocking Automata for PSPACE DLs"
+  venue: "Proceedings of the 2007 International Workshop on Description Logics (DL'07)"
+  year: 2007
+  bib: | 
+    @InProceedings{BaHP07,
+      author = 	 {Franz Baader and Jan Hladik and Rafael Pe{\~n}aloza},
+      title = 	 {Blocking Automata for {PSPACE} {DLs}},
+      booktitle = 	 {Proceedings of the 2007 International Workshop on Description Logics ({DL'07})},
+      year =	 2007,
+      volume =	250,
+      editor =	 {Diego Calvanese and Enrico Franconi and Volker Haarslev and Domenico Lembo
+      		and Boris Motik and Anni-Yasmin Turhan and Sergio Tessaris},
+      series =	 {CEUR-WS},
+      address =	"Brixen-Bressanone, Italy",
+    }
+- key: BaPe-DL11
+  type: 3
+  author: Franz Baader and Rafael Peñaloza
+  title: "GCIs Make Reasoning in Fuzzy DL with the Product T-norm Undecidable"
+  venue: "Proceedings of the 2011 International Workshop on Description Logics (DL'11)"
+  year: 2011
+  bib: | 
+    @inproceedings{BaPe-DL11,
+      author    = {Franz Baader and Rafael Pe{\~n}aloza},
+      title     = {{GCIs} Make Reasoning in Fuzzy {DL} with the Product T-norm Undecidable},
+      booktitle = {Proceedings of the 2011 International Workshop on Description Logics ({DL'11})},
+      year      = 2011,
+      series    = {CEUR-WS},
+      address   = {Barcelona, Spain},
+      editor    = {Riccardo Rosati and Sebastian Rudolph and Michael Zakharyaschev},
+      volume    = 745,
+    }
+- key: BaPS07b
+  type: 3
+  author: Franz Baader,  Rafael Peñaloza and Boontawee Suntisrivaraporn
+  title: "Pinpointing in the Description Logic EL"
+  venue: "Proceedings of the 2007 International Workshop on Description Logics (DL'07)"
+  year: 2007
+  bib: | 
+    @InProceedings{BaPS07b,
+      author =	"Franz Baader and Rafael Pe{\~n}aloza and Boontawee Suntisrivaraporn",
+      title  =	"Pinpointing in the Description Logic $\mathcal{EL}$",
+      booktitle = 	"Proceedings of the 2007 International Workshop on Description Logics ({DL'07})",
+      year	 =	"2007",
+      series = 	"CEUR-WS",
+      volume = 	250,
+      pages  =	"",
+      editor =	"Diego Calvanese and Enrico Franconi and Volker Haarslev and Domenico Lembo
+      		and Boris Motik and Anni-Yasmin Turhan and Sergio Tessaris",
+      address =	"Brixen-Bressanone, Italy",
+    }
+- key: BBGP-FOUST17
+  type: 3
+  author: Alessander Botti Benevides,  Jean-Rémi Bourguet,  Giancarlo Guizzardi,  Rafael Peñaloza
+  title: "Representing the UFO-B Foundational Ontology of Events in SROIQ"
+  venue: "Proceedings of the Joint Ontology Workshops 2017 Episode 3: The Tyrolean Autumn of Ontology"
+  year: 2017
+  bib: | 
+    @inproceedings{BBGP-FOUST17,
+      author = {Alessander {Botti Benevides} and Jean-R\'emi Bourguet and Giancarlo Guizzardi and 
+      		Rafael Pe{\~n}aloza},
+      title = {Representing the {UFO-B} Foundational Ontology of Events in {SROIQ}},
+      booktitle = {Proceedings of the Joint Ontology Workshops 2017 Episode 3: The Tyrolean
+                   Autumn of Ontology},
+      year = 2017,
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {2050},
+      publisher = {CEUR-WS.org},
+    }
+- key: BKNP18
+  type: 3
+  author: Franz Baader,  Francesco Kriegel,  Adrian Nuradiansyah and Rafael Peñaloza
+  title: "Making Repairs in Description Logics More Gentle (Extended Abstract)"
+  venue: "Proceedings of the 31st International Workshop on Description Logics (DL 2018)"
+  year: 2018
+  bib: | 
+    @inproceedings{BKNP18,
+      author    = {Franz Baader and
+                   Francesco Kriegel and
+                   Adrian Nuradiansyah and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Making Repairs in Description Logics More Gentle (Extended Abstract)},
+      booktitle = {Proceedings of the 31st International Workshop on Description Logics
+                   (DL 2018)},
+      year      = {2018},
+      url       = {http://ceur-ws.org/Vol-2211/paper-39.pdf},
+      editor    = {Magdalena Ortiz and
+                   Thomas Schneider},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {2211},
+      publisher = {CEUR-WS.org},
+    }
+- key: BMPT-DL15
+  type: 3
+  author: Stefan Borgwardt,  Theofilos P. Mailis,  Rafael Peñaloza and Anni-Yasmin Turhan
+  title: "Conjunctive Query Answering with Finitely Many Truth Degrees"
+  venue: "Proceedings of the 28th International Workshop on Description Logics"
+  year: 2015
+  arxiv: http://arxiv.org/abs/1508.02626
+  bib: | 
+    @inproceedings{BMPT-DL15,
+      author    = {Stefan Borgwardt and
+                   Theofilos P. Mailis and
+                   Rafael Pe{\~{n}}aloza and
+                   Anni{-}Yasmin Turhan},
+      title     = {Conjunctive Query Answering with Finitely Many Truth Degrees},
+      booktitle = {Proceedings of the 28th International Workshop on Description Logics},
+      year      = {2015},
+      url       = {http://ceur-ws.org/Vol-1350/paper-45.pdf},
+      editor    = {Diego Calvanese and
+                   Boris Konev},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {1350},
+      publisher = {CEUR-WS.org},
+      arxiv     = {http://arxiv.org/abs/1508.02626},
+    }
+- key: BoCP-PRUV14
+  type: 3
+  author: Stefan Borgwardt,  Marco Cerami and Rafael Peñaloza
+  venue: "Proceedings of the 1st International Workshop on Logics for Reasoning about Preferences, Uncertainty, and Vagueness (PRUV'14)"
+  title: "Many-Valued Horn Logic is Hard"
+  year: 2014
+  bib: | 
+    @inproceedings{ BoCP-PRUV14,
+      address = {Vienna, Austria},
+      author = {Stefan {Borgwardt} and Marco {Cerami} and Rafael {Pe{\~n}aloza}},
+      booktitle = {Proceedings of the 1st International Workshop on Logics for Reasoning about Preferences, Uncertainty, and Vagueness ({PRUV'14})},
+      editor = {Thomas {Lukasiewicz} and Rafael {Pe{\~n}aloza} and Anni-Yasmin {Turhan}},
+      pages = {52--58},
+      series = {CEUR Workshop Proceedings},
+      title = {Many-Valued Horn Logic is Hard},
+      volume = {1205},
+      year = {2014},
+    }
+- key: BoCP-DL17
+  type: 3
+  author: Stefan Borgwardt,  Marco Cerami and Rafael Peñaloza
+  title: "Lukasiewicz Fuzzy EL is Undecidable"
+  venue: "Proceedings of the 30th International Workshop on Description Logics (DL 2017)"
+  year: 2017
+  bib: | 
+    @inproceedings{BoCP-DL17,
+      author    = {Stefan Borgwardt and
+                   Marco Cerami and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {{\L}ukasiewicz Fuzzy {EL} is Undecidable},
+      booktitle = {Proceedings of the 30th International Workshop on Description Logics (DL 2017)},
+      year      = {2017},
+      url       = {http://ceur-ws.org/Vol-1879/paper27.pdf},
+      editor    = {Alessandro Artale and
+                   Birte Glimm and
+                   Roman Kontchakov},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {1879},
+      publisher = {CEUR-WS.org},
+    }
+- key: BoDP-DL12
+  type: 3
+  author: Stefan Borgwardt,  Felix Distel and Rafael Peñaloza
+  title: "Gödel Negation Makes Unwitnessed Consistency Crisp"
+  venue: "Proceedings of the 2012 International Workshop on Description Logics (DL'12)"
+  year: 2012
+  bib: | 
+    @inproceedings{BoDP-DL12,
+      author    = {Stefan Borgwardt and Felix Distel and Rafael Pe{\~n}aloza},
+      title     = {{G\"o}del Negation Makes Unwitnessed Consistency Crisp},
+      booktitle = {Proceedings of the 2012 International Workshop on Description Logics ({DL'12})},
+      year      = 2012,
+      series    = {CEUR-WS},
+      address   = {Rome, Italy},
+      volume    = 846,
+      editor    = {Yevgeny Kazakov and Domenico Lembo and Frank Wolter},
+    }
+- key: BoDP-DL14
+  type: 3
+  author: Stefan Borgwardt,  Felix Distel and Rafael Peñaloza
+  venue: "Proceedings of the 27th International Workshop on Description Logics (DL'14)"
+  title: "Gödel Description Logics with General Models"
+  year: 2014
+  bib: | 
+    @inproceedings{ BoDP-DL14,
+      address = {Vienna, Austria},
+      author = {Stefan {Borgwardt} and Felix {Distel} and Rafael {Pe{\~n}aloza}},
+      booktitle = {Proceedings of the 27th International Workshop on Description Logics ({DL'14})},
+      editor = {Meghyn {Bienvenu} and Magdalena {Ortiz} and Riccardo {Rosati} and Mantas {Simkus}},
+      pages = {391--403},
+      series = {CEUR Workshop Proceedings},
+      title = {G\"odel Description Logics with General Models},
+      volume = {1193},
+      year = {2014},
+    }
+- key: BoLP-DL14
+  type: 3
+  author: Stefan Borgwardt,  José A. Leyva Galano and Rafael Peñaloza
+  venue: "Proceedings of the 27th International Workshop on Description Logics (DL'14)"
+  title: "Gödel FL0 with Greatest Fixed-Point Semantics"
+  year: 2014
+  bib: | 
+    @inproceedings{ BoLP-DL14,
+      address = {Vienna, Austria},
+      author = {Stefan {Borgwardt} and Jos{\'e} A. {Leyva Galano} and Rafael {Pe{\~n}aloza}},
+      booktitle = {Proceedings of the 27th International Workshop on Description Logics ({DL'14})},
+      editor = {Meghyn {Bienvenu} and Magdalena {Ortiz} and Riccardo {Rosati} and Mantas {Simkus}},
+      pages = {71--82},
+      series = {CEUR Workshop Proceedings},
+      title = {G{\"o}del {$\mathcal{FL}_0$} with Greatest Fixed-Point Semantics},
+      volume = {1193},
+      year = {2014},
+    }
+- key: BoMP18
+  type: 3
+  author: Leonard Botha,  Thomas Meyer and Rafael Peñaloza
+  title: "The Bayesian Description Logic BALC"
+  venue: "Proceedings of the 31st International Workshop on Description Logics (DL 2018)"
+  year: 2018
+  bib: | 
+    @inproceedings{BoMP18,
+      author    = {Leonard Botha and
+                   Thomas Meyer and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {The Bayesian Description Logic {BALC}},
+      booktitle = {Proceedings of the 31st International Workshop on Description Logics
+                   (DL 2018)},
+      year      = {2018},
+      url       = {http://ceur-ws.org/Vol-2211/paper-09.pdf},
+      editor    = {Magdalena Ortiz and
+                   Thomas Schneider},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {2211},
+      publisher = {CEUR-WS.org},
+    }
+- key: BoPe-DL11
+  type: 3
+  author: Stefan Borgwardt and Rafael Peñaloza
+  title: "Fuzzy Ontologies over Lattices with T-norms"
+  venue: "Proceedings of the 2011 International Workshop on Description Logics (DL'11)"
+  year: 2011
+  bib: | 
+    @inproceedings{BoPe-DL11,
+      author    = {Stefan Borgwardt and Rafael Pe{\~n}aloza},
+      title     = {Fuzzy Ontologies over Lattices with T-norms},
+      booktitle = {Proceedings of the 2011 International Workshop on Description Logics ({DL'11})},
+      year      = 2011,
+      series    = {CEUR-WS},
+      address   = {Barcelona, Spain},
+      editor    = {Riccardo Rosati and Sebastian Rudolph and Michael Zakharyaschev},
+      volume    = 745,
+    }
+- key: BoPe-DL12
+  type: 3
+  author: Stefan Borgwardt and Rafael Peñaloza
+  title: "Non Gödel Negation Makes Unwitnessed Consistency Undecidable"
+  venue: "Proceedings of the 2012 International Workshop on Description Logics (DL'12)"
+  year: 2012
+  bib: | 
+    @inproceedings{BoPe-DL12,
+      author    = {Stefan Borgwardt and Rafael Pe{\~n}aloza},
+      title     = {Non {G\"o}del Negation Makes Unwitnessed Consistency Undecidable},
+      booktitle = {Proceedings of the 2012 International Workshop on Description Logics ({DL'12})},
+      year      = 2012,
+      series    = {CEUR-WS},
+      address   = {Rome, Italy},
+      volume    = 846,
+      editor    = {Yevgeny Kazakov and Domenico Lembo and Frank Wolter},
+    }
+- key: BoPe-DL13
+  type: 3
+  author: Stefan Borgwardt and Rafael Peñaloza
+  venue: "Proceedings of the 2013 International Workshop on Description Logics (DL'13)"
+  title: "About Subsumption in Fuzzy EL"
+  year: 2013
+  bib: | 
+    @inproceedings{ BoPe-DL13,
+      address = {Ulm, Germany},
+      author = {Stefan {Borgwardt} and Rafael {Pe{\~n}aloza}},
+      booktitle = {Proceedings of the 2013 International Workshop on Description Logics ({DL'13})},
+      editor = {Thomas Eiter and Birte Glimm and Yevgeny Kazakov and Markus Kr{\"o}tzsch},
+      series = {CEUR-WS},
+      volume = 1014,
+      pages = {526--538},
+      title = {About Subsumption in Fuzzy $\mathcal{EL}$},
+      year = {2013},
+    }
+- key: BoPe-DL16
+  type: 3
+  author: Stefan Borgwardt and Rafael Peñaloza
+  venue: "Proceedings of the 2016 International Workshop on Description Logics (DL'16)"
+  title: "Reasoning in Expressive Gödel Description Logics"
+  year: 2016
+  bib: | 
+    @inproceedings{ BoPe-DL16,
+      address = {Cape Town, South Africa},
+      author = {Stefan {Borgwardt} and Rafael {Pe{\~n}aloza}},
+      booktitle = {Proceedings of the 2016 International Workshop on Description Logics ({DL'16})},
+      editor = {Maurizio Lenzerini and Rafael {Pe{\~n}aloza}},
+      series = {CEUR-WS},
+      title = {Reasoning in Expressive {G{\"o}del} Description Logics},
+      year = {2016},
+      volume    = {1577},
+      publisher = {CEUR-WS.org},
+    }
+- key: BoPe-URSW11
+  type: 3
+  author: Stefan Borgwardt and Rafael Peñaloza
+  title: "Finite Lattices Do Not Make Reasoning in ALCI Harder"
+  venue: "Proceedings of the 7th International Workshop on Uncertainty Reasoning for the Semantic Web (URSW'11)"
+  year: 2011
+  bib: | 
+    @inproceedings{BoPe-URSW11,
+      author    = {Stefan Borgwardt and Rafael Pe{\~n}aloza},
+      title     = {Finite Lattices Do Not Make Reasoning in $\mathcal{ALCI}$ Harder},
+      booktitle = {Proceedings of the 7th International Workshop on Uncertainty Reasoning for the Semantic Web ({URSW'11})},
+      year      = 2011,
+      series    = {CEUR-WS},
+      address   = {Bonn, Germany},
+      editor    = {Fernando Bobillo et.al.},
+      volume    = 778,
+      pages     = {51--62},
+    }
+- key: BoPe-WL4AI15
+  type: 3
+  author: Stefan Borgwardt and Rafael Peñaloza
+  venue: "Workshop on Weighted Logics for AI (WL4AI-15)"
+  title: "Reasoning in Infinitely Valued G-IALCQ"
+  year: 2015
+  arxiv: https://arxiv.org/abs/1509.08761
+  bib: | 
+    @inproceedings{ BoPe-WL4AI15,
+      author = {Stefan Borgwardt and Rafael Pe{\~n}aloza},
+      booktitle = {Workshop on {W}eighted {L}ogics for {AI} (WL4AI-15)},
+      title = {Reasoning in Infinitely Valued {G-IALCQ}},
+      year = {2015},
+      arxiv = {https://arxiv.org/abs/1509.08761},
+    }
+- key: CeLP-DL15
+  type: 3
+  author: Ismail Ilkan Ceylan,  Thomas Lukasiewicz and Rafael Peñaloza
+  title: "Answering EL Queries in the Presence of Preferences"
+  venue: "Proceedings of the 28th International Workshop on Description Logics"
+  year: 2015
+  bib: | 
+    @inproceedings{CeLP-DL15,
+      author    = {{\.I}smail {\.I}lkan Ceylan and
+                   Thomas Lukasiewicz and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Answering {EL} Queries in the Presence of Preferences},
+      booktitle = {Proceedings of the 28th International Workshop on Description Logics},
+      year      = {2015},
+      url       = {http://ceur-ws.org/Vol-1350/paper-47.pdf},
+      editor    = {Diego Calvanese and
+                   Boris Konev},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {1350},
+      publisher = {CEUR-WS.org},
+    }
+- key: CeMP-ORE15
+  type: 3
+  author: Ismail Ilkan Ceylan,  Julian Mendez and Rafael Peñaloza
+  title: "The Bayesian Ontology Reasoner is BORN!"
+  venue: "Informal Proceedings of the 4th International Workshop on OWL Reasoner Evaluation (ORE-2015)"
+  year: 2015
+  bib: | 
+    @inproceedings{CeMP-ORE15,
+      author    = {{\.I}smail {\.I}lkan Ceylan and
+                   Julian Mendez and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {The Bayesian Ontology Reasoner is BORN!},
+      booktitle = {Informal Proceedings of the 4th International Workshop on {OWL} Reasoner
+                   Evaluation {(ORE-2015)}},
+      pages     = {8--14},
+      year      = {2015},
+      url       = {http://ceur-ws.org/Vol-1387/paper_5.pdf},
+      editor    = {Michel Dumontier and
+                   Birte Glimm and
+                   Rafael S. Gon{\c{c}}alves and
+                   Matthew Horridge and
+                   Ernesto Jim{\'{e}}nez{-}Ruiz and
+                   Nicolas Matentzoglu and
+                   Bijan Parsia and
+                   Giorgos B. Stamou and
+                   Giorgos Stoilos},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {1387},
+      publisher = {CEUR-WS.org},
+    }
+- key: CePe-DL14
+  type: 3
+  author: Ismail Ilkan Ceylan and Rafael Peñaloza
+  venue: "Proceedings of the 27th International Workshop on Description Logics (DL'14)"
+  title: "Bayesian Description Logics"
+  year: 2014
+  bib: | 
+    @inproceedings{ CePe-DL14,
+      author = {Ismail Ilkan {Ceylan} and Rafael {Pe{\~n}aloza}},
+      booktitle = {Proceedings of the 27th International Workshop on Description Logics (DL'14)},
+      editor = {Meghyn {Bienvenu} and Magdalena {Ortiz} and Riccardo {Rosati} and Mantas {Simkus}},
+      pages = {447--458},
+      publisher = {CEUR-WS},
+      series = {CEUR Workshop Proceedings},
+      title = {{Bayesian Description Logics}},
+      volume = {1193},
+      year = {2014},
+    }
+- key: CePe-DL15
+  type: 3
+  author: Ismail Ilkan Ceylan and Rafael Peñaloza
+  title: "Dynamic Bayesian Description Logics"
+  venue: "Proceedings of the 28th International Workshop on Description Logics"
+  year: 2015
+  bib: | 
+    @inproceedings{CePe-DL15,
+      author    = {{\.I}smail {\.I}lkan Ceylan and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Dynamic Bayesian Description Logics},
+      booktitle = {Proceedings of the 28th International Workshop on Description Logics},
+      year      = {2015},
+      url       = {http://ceur-ws.org/Vol-1350/paper-48.pdf},
+      editor    = {Diego Calvanese and
+                   Boris Konev},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {1350},
+      publisher = {CEUR-WS.org},
+    }
+- key: CePe-starAI14
+  type: 3
+  author: Ismail Ilkan Ceylan and Rafael Peñaloza
+  venue: "Proceedings of the 4th International Workshop on Statistical Relational AI (starAI 2014)"
+  title: "Reasoning in the Description Logic BEL using Bayesian Networks"
+  year: 2014
+  bib: | 
+    @inproceedings{ CePe-starAI14,
+      author = {Ismail Ilkan {Ceylan} and Rafael {Pe{\~n}aloza}},
+      editor = {Guy Van den {Broeck} and Kristian {Kersting} and Sriraam {Natarajan} and David {Poole}},
+      pages = {15--21},
+      booktitle = {Proceedings of the 4th International Workshop on Statistical Relational AI (starAI 2014)},
+      publisher = {AAAI Press},
+      series = {AAAI Workshops},
+      title = {Reasoning in the Description Logic BEL using Bayesian Networks},
+      volume = {WS-14-13},
+      year = {2014},
+    }
+- key: CePe-starAI15
+  type: 3
+  author: Ismail Ilkan Ceylan and Rafael Peñaloza
+  venue: "Proceedings of the 5th International Workshop on Statistical Relational AI (starAI 2015)"
+  title: "Dynamic Bayesian Ontology Languages"
+  year: 2015
+  arxiv: http://arxiv.org/abs/1506.08030
+  bib: | 
+    @inproceedings{ CePe-starAI15,
+      author    = {{\.I}smail {\.I}lkan Ceylan and
+                   Rafael Pe{\~{n}}aloza},
+      booktitle = {Proceedings of the 5th International Workshop on Statistical Relational AI (starAI 2015)},
+      title     = {Dynamic Bayesian Ontology Languages},
+      year      = {2015},
+      url       = {http://arxiv.org/abs/1506.08030},
+      arxiv       = {http://arxiv.org/abs/1506.08030},
+    }
+- key: CES+-LPQA15
+  type: 3
+  author: Roberto Confalonieri,  Manfred Eppe,  Marco Schorlemmer,  Oliver Kutz,  Rafael Peñaloza and Enric Plaza
+  venue: "Proceedings of the International Workshop on Ontologies and Logic Programming for Query Answering"
+  title: "Upward Refinement for Conceptual Blending in Description Logic: An ASP-based Approach and Case Study in EL++"
+  year: 2015
+  bib: | 
+    @inproceedings{ CES+-LPQA15,
+      author = {Roberto Confalonieri and Manfred Eppe and Marco Schorlemmer and 
+      		Oliver Kutz and Rafael Pe{\~n}aloza and Enric Plaza},
+      booktitle = {Proceedings of the International Workshop on Ontologies and Logic Programming 
+      			for Query Answering},
+      title = {Upward Refinement for Conceptual Blending in Description Logic: 
+      		An {ASP}-based Approach and Case Study in {EL++}},
+      year = {2015},
+    }
+- key: CES+-DL16
+  type: 3
+  author: Roberto Confalonieri,  Marco Schorlemmer,  Oliver Kutz,  Rafael Peñaloza,  Enric Plaza and Manfred Eppe
+  venue: "Proceedings of the 2016 International Workshop on Description Logics (DL'16)"
+  title: "Conceptual Blending in EL++"
+  year: 2016
+  bib: | 
+    @inproceedings{ CES+-DL16,
+      address = {Cape Town, South Africa},
+      author = {Roberto Confalonieri and Marco Schorlemmer and 
+      		Oliver Kutz and Rafael Pe{\~n}aloza and Enric Plaza and Manfred Eppe},
+      booktitle = {Proceedings of the 2016 International Workshop on Description Logics ({DL'16})},
+      editor = {Maurizio Lenzerini and Rafael {Pe{\~n}aloza}},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {1577},
+      publisher = {CEUR-WS.org},  
+      title = {Conceptual Blending in {EL++}},
+      year = {2016},
+    }
+- key: CKG+17
+  type: 3
+  author: Roberto Confalonieri,  Oliver Kutz,  Pietro Galliani,  Rafael Peñaloza,  Daniele Porello,  Marco Schorlemmer and Nicolas Troquard
+  title: "Coherence, Similarity, and Concept Generalisation"
+  venue: "Proceedings of the 30th International Workshop on Description Logics (DL 2017)"
+  year: 2017
+  bib: | 
+    @inproceedings{CKG+17,
+      author    = {Roberto Confalonieri and
+                   Oliver Kutz and
+                   Pietro Galliani and
+                   Rafael Pe{\~{n}}aloza and
+                   Daniele Porello and
+                   Marco Schorlemmer and
+                   Nicolas Troquard},
+      title     = {Coherence, Similarity, and Concept Generalisation},
+      booktitle = {Proceedings of the 30th International Workshop on Description Logics (DL 2017)},
+      year      = {2017},
+      url       = {http://ceur-ws.org/Vol-1879/paper45.pdf},
+      editor    = {Alessandro Artale and
+                   Birte Glimm and
+                   Roman Kontchakov},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {1879},
+      publisher = {CEUR-WS.org},
+    }
+- key: CTGKPP17
+  type: 3
+  author: Roberto Confalonieri,  Nicolas Troquard,  Pietro Galliani,  Oliver Kutz,  Rafael Peñaloza and Daniele Porello
+  title: "Two Applications of Concept Refinement"
+  venue: "Proceedings of the First International Workshop on Comprehensibility,  Explanation in AI and ML 2017"
+  year: 2017
+  bib: | 
+    @inproceedings{CTGKPP17,
+      author    = {Roberto Confalonieri and
+                   Nicolas Troquard and
+                   Pietro Galliani and
+                   Oliver Kutz and
+                   Rafael Pe{\~{n}}aloza and
+                   Daniele Porello},
+      title     = {Two Applications of Concept Refinement},
+      booktitle = {Proceedings of the First International Workshop on Comprehensibility
+                   and Explanation in {AI} and {ML} 2017},
+      year      = {2017},
+      url       = {http://ceur-ws.org/Vol-2071/CExAIIA_2017_paper_4.pdf},
+      editor    = {Tarek R. Besold and
+                   Oliver Kutz},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {2071},
+      publisher = {CEUR-WS.org},
+    }
+- key: DVPe-DL14
+  type: 3
+  author: Chiara Del Vescovo and Rafael Peñaloza
+  venue: "Proceedings of the 27th International Workshop on Description Logics (DL'14)"
+  title: "DeaLing with Ontologies using CODs"
+  year: 2014
+  bib: | 
+    @inproceedings{ DVPe-DL14,
+      address = {Vienna, Austria},
+      author = {Chiara {Del Vescovo} and Rafael {Pe{\~n}aloza}},
+      booktitle = {Proceedings of the 27th International Workshop on Description Logics ({DL'14})},
+      editor = {Meghyn {Bienvenu} and Magdalena {Ortiz} and Riccardo {Rosati} and Mantas {Simkus}},
+      pages = {157--168},
+      series = {CEUR Workshop Proceedings},
+      title = {DeaLing with Ontologies using CODs},
+      volume = {1193},
+      year = {2014},
+    }
+- key: EcPT-DL13
+  type: 3
+  author: Andreas Ecke,  Rafael Peñaloza and Anni-Yasmin Turhan
+  venue: "Proceedings of the 26th International Workshop on Description Logics (DL-2013)"
+  title: "Role-depth bounded Least Common Subsumer in Prob-EL with Nominals"
+  year: 2013
+  bib: | 
+    @inproceedings{ EcPT-DL13,
+      address = {Ulm, Germany},
+      author = {Andreas {Ecke} and Rafael {Pe{\~n}aloza} and Anni-Yasmin {Turhan}},
+      booktitle = {Proceedings of the 26th International Workshop on Description Logics ({DL-2013})},
+      month = {July},
+      editor = {Thomas Eiter and Birte Glimm and Yevgeny Kazakov and Markus Kr{\"o}tzsch},
+      series = {CEUR-WS},
+      volume = 1014,
+      pages = {670--688},
+      title = {Role-depth bounded Least Common Subsumer in Prob-{$\mathcal{EL}$} with Nominals},
+      year = {2013},
+    }
+- key: EcPT-DL14
+  type: 3
+  author: Andreas Ecke,  Rafael Peñaloza and Anni-Yasmin Turhan
+  venue: "Proceedings of the 27th International Workshop on Description Logics (DL'14)"
+  title: "Mary, What's Like All Cats?"
+  year: 2014
+  bib: | 
+    @inproceedings{ EcPT-DL14,
+      address = {Vienna, Austria},
+      author = {Andreas {Ecke} and Rafael {Pe{\~n}aloza} and Anni-Yasmin {Turhan}},
+      booktitle = {Proceedings of the 27th International Workshop on Description Logics ({DL'14})},
+      editor = {Meghyn {Bienvenu} and Magdalena {Ortiz} and Riccardo {Rosati} and Mantas {Simkus}},
+      pages = {526--529},
+      series = {CEUR Workshop Proceedings},
+      title = {Mary, What's Like All Cats?},
+      volume = {1193},
+      year = {2014},
+    }
+- key: EcPT-WL4AI13
+  type: 3
+  author: Andreas Ecke,  Rafael Peñaloza and Anni-Yasmin Turhan
+  venue: "Workshop on Weighted Logics for AI (in conjunction with IJCAI'13)"
+  title: "Towards Instance Query Answering for Concepts Relaxed by Similarity Measures"
+  year: 2013
+  bib: | 
+    @inproceedings{ EcPT-WL4AI13,
+      address = {Beijing, China},
+      author = {Andreas {Ecke} and Rafael {Pe{\~n}aloza} and Anni-Yasmin {Turhan}},
+      booktitle = {Workshop on {W}eighted {L}ogics for {AI} (in conjunction with IJCAI'13)},
+      title = {Towards Instance Query Answering for Concepts Relaxed by Similarity Measures},
+      year = {2013},
+    }
+- key: ElKP-DL11
+  type: 3
+  author: Eldora,  Martin Knechtel and Rafael Peñaloza
+  title: "Correcting Access Restrictions to a Consequence More Flexibly"
+  venue: "Proceedings of the 2011 International Workshop on Description Logics (DL'11)"
+  year: 2011
+  bib: | 
+    @inproceedings{ElKP-DL11,
+      author    = {Eldora and Martin Knechtel and Rafael Pe{\~n}aloza},
+      title     = {Correcting Access Restrictions to a Consequence More Flexibly},
+      booktitle = {Proceedings of the 2011 International Workshop on Description Logics ({DL'11})},
+      year      = 2011,
+      series    = {CEUR-WS},
+      address   = {Barcelona, Spain},
+      editor    = {Riccardo Rosati and Sebastian Rudolph and Michael Zakharyaschev},
+      volume    = 745,
+    }
+- key: FuPe-DL12
+  type: 3
+  author: Weili Fu and Rafael Peñaloza
+  title: "Adding Context to Tableaux for DLs"
+  venue: "Proceedings of the 2012 International Workshop on Description Logics (DL'12)"
+  year: 2012
+  bib: | 
+    @inproceedings{FuPe-DL12,
+      author    = {Weili Fu and Rafael Pe{\~n}aloza},
+      title     = {Adding Context to Tableaux for {DLs}},
+      booktitle = {Proceedings of the 2012 International Workshop on Description Logics ({DL'12})},
+      year      = 2012,
+      series    = {CEUR-WS},
+      address   = {Rome, Italy},
+      volume    = 846,
+      editor    = {Yevgeny Kazakov and Domenico Lembo and Frank Wolter},
+    }
+- key: HlPe06
+  type: 3
+  author: Jan Hladik and Rafael Peñaloza
+  title: "PSPACE Automata for Description Logics"
+  venue: "Proceedings of the 2006 International Workshop on Description Logics (DL'06)"
+  year: 2006
+  bib: | 
+    @InProceedings{HlPe06,
+      author = 	 {Jan Hladik and Rafael Pe{\~n}aloza},
+      title = 	 {{PSPACE} Automata for Description Logics},
+      booktitle = 	 {Proceedings of the 2006 International Workshop on Description Logics ({DL'06})},
+      year =	 2006,
+      editor =	 {Bijan Parsia and Ulrike Sattler and David Toman},
+      volume =	 189,
+      series =	 {{CEUR-WS}},
+      address =	 {The Lake District, UK},
+    }
+- key: IMMP17
+  type: 3
+  author: Alexey Ignatiev,  Joao Marques-Silva,  Carlos Mencía and Rafael Peñaloza
+  title: "Debugging EL+ Ontologies through Horn MUS Enumeration"
+  venue: "Proceedings of the 30th International Workshop on Description Logics (DL 2017)"
+  year: 2017
+  bib: | 
+    @inproceedings{IMMP17,
+      author    = {Alexey Ignatiev and
+                   Joao Marques{-}Silva and
+                   Carlos Menc{\'{\i}}a and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Debugging {EL+} Ontologies through Horn {MUS} Enumeration},
+      booktitle = {Proceedings of the 30th International Workshop on Description Logics (DL 2017)},
+      year      = {2017},
+      url       = {http://ceur-ws.org/Vol-1879/paper54.pdf},
+      editor    = {Alessandro Artale and
+                   Birte Glimm and
+                   Roman Kontchakov},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {1879},
+      publisher = {CEUR-WS.org},
+    }
+- key: KnPe-DL10
+  type: 3
+  author: Martin Knechtel and Rafael Peñaloza
+  title: "Correcting Access Restrictions to a Consequence"
+  venue: "Proceedings of the 2010 International Workshop on Description Logics (DL'10)"
+  year: 2010
+  bib: | 
+    @InProceedings{KnPe-DL10,
+      author = 	 {Martin Knechtel and Rafael Pe{\~n}aloza},
+      title = 	 {Correcting Access Restrictions to a Consequence},
+      booktitle = 	 {Proceedings of the 2010 International Workshop on Description Logics ({DL'10})},
+      year =	 2010,
+      editor =	 {Volker Haarslev and David Toman and Grant Weddell},
+      volume =	 573,
+      series =	 {{CEUR-WS}},
+      address =	 {Waterloo, Canada},
+    }
+- key: KoPe-DL18
+  type: 3
+  author: Alisa Kovtunova and Rafael Peñaloza
+  title: "Cutting Diamonds: Temporal DLs with Probabilistic Distributions over Data"
+  venue: "Proceedings of the 31st International Workshop on Description Logics (DL 2018)"
+  year: 2018
+  arxiv: http://arxiv.org/abs/1810.01516
+  bib: | 
+    @inproceedings{KoPe-DL18,
+      author    = {Alisa Kovtunova and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Cutting Diamonds: Temporal DLs with Probabilistic Distributions over
+                   Data},
+      booktitle = {Proceedings of the 31st International Workshop on Description Logics
+                   (DL 2018)},
+      year      = {2018},
+      url       = {http://ceur-ws.org/Vol-2211/paper-23.pdf},
+      editor    = {Magdalena Ortiz and
+                   Thomas Schneider},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {2211},
+      publisher = {CEUR-WS.org},
+      arxiv = {http://arxiv.org/abs/1810.01516},
+    }
+- key: LePe12
+  type: 3
+  author: Karsten Lehmann and Rafael Peñaloza
+  title: "The Complexity of Computing the Behaviour of Weighted Büchi Automata over Lattices"
+  venue: "Proceedings of the 6th International Workshop Weighted Automata: Theory and Applications (WATA'12)"
+  year: 2012
+  bib: | 
+    @InProceedings{LePe12,
+      author = 	 {Karsten Lehmann and Rafael Pe{\~n}aloza},
+      title = 	 {The Complexity of Computing the Behaviour of Weighted B\"uchi Automata over Lattices},
+      booktitle = 	 {Proceedings of the 6th International Workshop Weighted Automata: Theory and Applications ({WATA'12})},
+      year =	 2012,
+      editor =	 {Heiko Vogler and Manfred Droste},
+    }
+- key: LuPe-DL14
+  type: 3
+  author: Michel Ludwig and Rafael Peñaloza
+  venue: "Proceedings of the 27th International Workshop on Description Logics (DL'14)"
+  title: "Brave and Cautious Reasoning in EL"
+  year: 2014
+  bib: | 
+    @inproceedings{ LuPe-DL14,
+      address = {Vienna, Austria},
+      author = {Michel {Ludwig} and Rafael {Pe{\~n}aloza}},
+      booktitle = {Proceedings of the 27th International Workshop on Description Logics ({DL'14})},
+      editor = {Meghyn {Bienvenu} and Magdalena {Ortiz} and Riccardo {Rosati} and Mantas {Simkus}},
+      pages = {274--286},
+      series = {CEUR Workshop Proceedings},
+      title = {Brave and Cautious Reasoning in EL},
+      volume = {1193},
+      year = {2014},
+    }
+- key: MaPe-DL14
+  type: 3
+  author: Yue Ma and Rafael Peñaloza
+  venue: "Proceedings of the 27th International Workshop on Description Logics (DL'14)"
+  title: "Towards Parallel Repair: An Ontology Decomposition-based Approach"
+  year: 2014
+  bib: | 
+    @inproceedings{ MaPe-DL14,
+      address = {Vienna, Austria},
+      author = {Yue {Ma} and Rafael {Pe{\~n}aloza}},
+      booktitle = {Proceedings of the 27th International Workshop on Description Logics ({DL'14})},
+      editor = {Meghyn {Bienvenu} and Magdalena {Ortiz} and Riccardo {Rosati} and Mantas {Simkus}},
+      pages = {633--645},
+      series = {CEUR Workshop Proceedings},
+      title = {Towards Parallel Repair: An Ontology Decomposition-based Approach},
+      volume = {1193},
+      year = {2014},
+    }
+- key: MaPR-DL16
+  type: 3
+  author: Norbert Manthey,  Rafael Peñaloza and Sebastian Rudolph
+  venue: "Proceedings of the 2016 International Workshop on Description Logics (DL'16)"
+  title: "Efficient Axiom Pinpointing in EL using SAT Technology"
+  year: 2016
+  bib: | 
+    @inproceedings{ MaPR-DL16,
+      address = {Cape Town, South Africa},
+      author = {Norbert Manthey and Rafael {Pe{\~n}aloza} and Sebastian Rudolph},
+      booktitle = {Proceedings of the 2016 International Workshop on Description Logics ({DL'16})},
+      editor = {Maurizio Lenzerini and Rafael {Pe{\~n}aloza}},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {1577},
+      publisher = {CEUR-WS.org},  
+      title = {Efficient Axiom Pinpointing in {EL} using {SAT} Technology},
+      year = {2016},
+    }
+- key: OzPe-DL18
+  type: 3
+  author: Ana Ozaki and Rafael Peñaloza
+  title: "Provenance in Ontology-based Data Access"
+  venue: "Proceedings of the 31st International Workshop on Description Logics (DL 2018)"
+  year: 2018
+  bib: | 
+    @inproceedings{OzPe-DL18,
+      author    = {Ana Ozaki and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Provenance in Ontology-based Data Access},
+      booktitle = {Proceedings of the 31st International Workshop on Description Logics
+                   (DL 2018)},
+      year      = {2018},
+      url       = {http://ceur-ws.org/Vol-2211/paper-28.pdf},
+      editor    = {Magdalena Ortiz and
+                   Thomas Schneider},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {2211},
+      publisher = {CEUR-WS.org},
+    }
+- key: Pena08
+  type: 3
+  author: Rafael Peñaloza
+  title: "Automata-based Pinpointing for DLs"
+  venue: "Proceedings of the 2008 International Workshop on Description Logics (DL'08)"
+  year: 2008
+  bib: | 
+    @InProceedings{Pena08,
+      author =	"Rafael Pe{\~n}aloza",
+      title = 	"Automata-based Pinpointing for {DLs}",
+      booktitle = 	"Proceedings of the 2008 International Workshop on Description Logics ({DL'08})",
+      editor =	"Franz Baader and Carsten Lutz and Boris Motik",
+      volume =	353,
+      year =	2008,
+      series =	{CEUR-WS},
+      address =	"Dresden, Germany",
+    }
+- key: Pena09
+  type: 3
+  author: Rafael Peñaloza
+  title: "Using Tableaux and Automata for Pinpointing in EL"
+  venue: "TABLEAUX 2009 Wokshop on Tableaux versus Automata as Logical Decision Methods (AutoTab'09)"
+  year: 2009
+  bib: | 
+    @inproceedings{Pena09,
+      author    = {Rafael Pe{\~n}aloza},
+      title     = {Using Tableaux and Automata for Pinpointing in EL},
+      booktitle = {TABLEAUX 2009 Wokshop on Tableaux versus Automata as Logical
+                   Decision Methods ({AutoTab'09})},
+      editor   =  {Valentin Goranko},
+      year      = {2009},
+    }
+- key: Pena09b
+  type: 3
+  author: Rafael Peñaloza
+  title: "Reasoning With Weighted Ontologies"
+  venue: "Proceedings of the 2009 International Workshop on Description Logics (DL'09)"
+  year: 2009
+  bib: | 
+    @inproceedings{Pena09b,
+      author    = {Rafael Pe{\~n}aloza},
+      title     = {Reasoning With Weighted Ontologies},
+      booktitle = {Proceedings of the 2009 International Workshop on Description
+                   Logics ({DL'09})},
+      editor   =  {Bernardo Cuenca Grau and Ian Horrocks and Boris Motik and 
+                   Ulrike Sattler},
+      year      = {2009},
+      series    = {CEUR-WS},
+      volume    = 477,
+    }
+- key: PeSe09
+  type: 3
+  author: Rafael Peñaloza and Baris Sertkaya
+  title: "Axiom Pinpointing is Hard"
+  venue: "Proceedings of the 2009 International Workshop on Description Logics (DL'09)"
+  year: 2009
+  bib: | 
+    @inproceedings{PeSe09,
+      author    = {Rafael Pe{\~n}aloza and Bar\i{}\c{s} Sertkaya},
+      title     = {Axiom Pinpointing is Hard},
+      booktitle = {Proceedings of the 2009 International Workshop on Description
+                   Logics ({DL'09})},
+      editor   =  {Bernardo Cuenca Grau and Ian Horrocks and Boris Motik and 
+                   Ulrike Sattler},
+      year      = {2009},
+      series    = {CEUR-WS},
+      volume    = 477,
+    }
+- key: PeSe-DL10
+  type: 3
+  author: Rafael Peñaloza and Baris Sertkaya
+  title: "Complexity of Axiom Pinpointing in the DL-Lite Family"
+  venue: "Proceedings of the 2010 International Workshop on Description Logics (DL'10)"
+  year: 2010
+  bib: | 
+    @InProceedings{PeSe-DL10,
+      author = 	 {Rafael Pe{\~n}aloza and Bar\i{}\c{s} Sertkaya},
+      title = 	 {Complexity of Axiom Pinpointing in the {DL-Lite} Family},
+      booktitle = 	 {Proceedings of the 2010 International Workshop on Description Logics ({DL'10})},
+      year =	 2010,
+      editor =	 {Volker Haarslev and David Toman and Grant Weddell},
+      volume =	 573,
+      series =	 {{CEUR-WS}},
+      address =	 {Waterloo, Canada},
+    }
+- key: PeTh-OWLED14
+  type: 3
+  author: Rafael Peñaloza and Aparna Saisree Thuluva
+  venue: "Proceedings of the 11th International Workshop on OWL: Experiences and Directions (OWLED 2014)"
+  title: "COBRA, a Demo"
+  year: 2014
+  bib: | 
+    @inproceedings{ PeTh-OWLED14,
+      author = {Rafael {Pe{\~n}aloza} and Aparna Saisree {Thuluva}},
+      booktitle = {Proceedings of the 11th International Workshop on OWL: Experiences and Directions (OWLED 2014)},
+      editor = {C. Maria {Keet} and Valentina {Tamma}},
+      series = {CEUR Workshop Proceedings},
+      title = {COBRA, a Demo},
+      volume = {1265},
+      year = {2014},
+    }
+- key: PeTh-OC15
+  type: 3
+  author: Rafael Peñaloza and Aparna Saisree Thuluva
+  venue: "Proceedings of the International Workshop on Belief Change,  NMR in Ontologies and Databases"
+  title: "Iterative Ontology Updates Using Context Labels"
+  year: 2015
+  bib: | 
+    @inproceedings{PeTh-OC15,
+      author = {Rafael {Pe{\~n}aloza} and Aparna Saisree {Thuluva}},
+      booktitle = {Proceedings of the International Workshop on Belief Change and NMR in Ontologies and Databases},
+      title = {Iterative Ontology Updates Using Context Labels},
+      year = {2015},
+    }
+- key: PeTu-DL10
+  type: 3
+  author: Rafael Peñaloza and Anni-Yasmin Turhan
+  title: "Role-depth Bounded Least Common Subsumers by Completion for EL- and Prob-EL-TBoxes"
+  venue: "Proceedings of the 2010 International Workshop on Description Logics (DL'10)"
+  year: 2010
+  bib: | 
+    @InProceedings{PeTu-DL10,
+      author = 	 {Rafael Pe{\~n}aloza and Anni-Yasmin Turhan},
+      title = 	 {Role-depth Bounded Least Common Subsumers by Completion for EL- and Prob-EL-TBoxes},
+      booktitle = 	 {Proceedings of the 2010 International Workshop on Description Logics ({DL'10})},
+      year =	 2010,
+      editor =	 {Volker Haarslev and David Toman and Grant Weddell},
+      volume =	 573,
+      series =	 {{CEUR-WS}},
+      address =	 {Waterloo, Canada},
+    }
+- key: PeTu-UniDL10
+  type: 3
+  author: Rafael Peñaloza and Anni-Yasmin Turhan
+  title: "Towards Approximative Most Specific Concepts by Completion for EL with Subjective Probabilities"
+  venue: "Proceedings of the First International Workshop on Uncertainty in Description Logics (UniDL'10)"
+  year: 2010
+  bib: | 
+    @InProceedings{PeTu-UniDL10,
+      author = 	 {Rafael Pe{\~n}aloza and Anni-Yasmin Turhan},
+      title = 	 {Towards Approximative Most Specific Concepts by Completion for EL with Subjective Probabilities},
+      booktitle = 	 {Proceedings of the First International Workshop on Uncertainty in Description Logics ({UniDL'10})},
+      year =	 2010,
+      editor =	 {Thomas Lukasiewicz and Rafael Pe{\~n}aloza and Anni-Yasmin Turhan},
+      volume =	 613,
+      series =	 {{CEUR-WS}},
+      address =	 {Edinburgh, UK},
+    }
+- key: PeTT-DL14
+  type: 3
+  author: Rafael Peñaloza,  Veronika Thost and Anni-Yasmin Turhan
+  venue: "Proceedings of the 27th International Workshop on Description Logics (DL'14)"
+  title: "Certain Answers in a Rough World"
+  year: 2014
+  bib: | 
+    @inproceedings{ PeTT-DL14,
+      address = {Vienna, Austria},
+      author = {Rafael {Pe{\~n}aloza} and Veronika {Thost} and Anni-Yasmin {Turhan}},
+      booktitle = {Proceedings of the 27th International Workshop on Description Logics ({DL'14})},
+      editor = {Meghyn {Bienvenu} and Magdalena {Ortiz} and Riccardo {Rosati} and Mantas {Simkus}},
+      pages = {709--712},
+      series = {CEUR Workshop Proceedings},
+      title = {Certain Answers in a Rough World},
+      volume = {1193},
+      year = {2014},
+    }
+- key: PeZo-DL13
+  type: 3
+  author: Rafael Peñaloza and Tingting Zou
+  venue: "Proceedings of the 2013 International Workshop on Description Logics (DL'13)"
+  title: "Rough EL Classification"
+  year: 2013
+  bib: | 
+    @inproceedings{PeZo-DL13,
+      address = {Ulm, Germany},
+      author = {Rafael {Pe{\~n}aloza} and Tingting {Zou}},
+      booktitle = {Proceedings of the 2013 International Workshop on Description Logics ({DL'13})},
+      series = {CEUR-WS},
+      title = {Rough $\mathcal{EL}$ Classification},
+      year = {2013},
+      editor = {Thomas Eiter and Birte Glimm and Yevgeny Kazakov and Markus Kr{\"o}tzsch},
+      volume = 1014,
+      pages = {415--427},
+    }
+- key: PMIM-DL17
+  type: 3
+  author: Rafael Peñaloza,  Carlos Mencía,  Alexey Ignatiev and Joao Marques-Silva
+  title: "Lean Kernels in DLs"
+  venue: "Proceedings of the 30th International Workshop on Description Logics (DL 2017)"
+  year: 2017
+  bib: | 
+    @inproceedings{PMIM-DL17,
+      author    = {Rafael Pe{\~{n}}aloza and
+                   Carlos Menc{\'{\i}}a and
+                   Alexey Ignatiev and
+                   Joao Marques{-}Silva},
+      title     = {Lean Kernels in DLs},
+      booktitle = {Proceedings of the 30th International Workshop on Description Logics (DL 2017)},
+      year      = {2017},
+      url       = {http://ceur-ws.org/Vol-1879/paper10.pdf},
+      editor    = {Alessandro Artale and
+                   Birte Glimm and
+                   Roman Kontchakov},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {1879},
+      publisher = {CEUR-WS.org},
+    }
+- key: VKC+-16
+  type: 3
+  author: Marcus Völp,  Sascha Klüppelholz,  Jeronimo Castrillon,  Hermann Härtig,  Nils Asmussen,  Uwe Assmann,  Franz Baader,  Christel Baier,  Gerhard Fettweis,  Jochen Fröhlich,  Andres Goens,  Sebastian Haas,  Dirk Habich,  Mattis Hasler,  Immo Huismann,  Tomas Karnagel,  Sven Karol,  Wolfgang Lehner,  Linda Leuschner,  Matthias Lieber,  Siqi Ling,  Steffen Märcker,  Johannes Mey,  Wolfgang Nagel,  Benedikt Nöthen,  Rafael Peñaloza,  Michael Raitza,  Jörg Stiller,  Annett Ungethüm and Axel Voigt
+  title: "The Orchestration Stack: The Impossible Task of Designing Software for Unknown Future Post-CMOS Hardware"
+  venue: "Proceedings of the 1st International Workshop on Post-Moore's Era Supercomputing (PMES)"
+  year: 2016
+  bib: | 
+    @InProceedings{VKC+-16,
+      author = {Marcus V{\"o}lp and Sascha Kl{\"u}ppelholz and Jeronimo Castrillon and Hermann H{\"a}rtig and Nils Asmussen and Uwe Assmann and Franz Baader and Christel Baier and Gerhard Fettweis and Jochen Fr{\"o}hlich and Andres Goens and Sebastian Haas and Dirk Habich and Mattis Hasler and Immo Huismann and Tomas Karnagel and Sven Karol and Wolfgang Lehner and Linda Leuschner and Matthias Lieber and Siqi Ling and Steffen M{\"a}rcker and Johannes Mey and Wolfgang Nagel and Benedikt N{\"o}then and Rafael Pe{\~n}aloza and Michael Raitza and J{\"o}rg Stiller and Annett Ungeth{\"u}m and Axel Voigt},
+      title = {The Orchestration Stack: The Impossible Task of Designing Software for Unknown Future Post-CMOS Hardware},
+      booktitle = {Proceedings of the 1st International Workshop on Post-Moore's Era Supercomputing (PMES)},
+      year = {2016},
+      address = {Salt Lake City, USA},
+      month = {nov},
+      url = {https://cfaed.tu-dresden.de/files/user/jcastrillon/publications/1611_Voelp_PMES.pdf},
+    }
+- key: AFPS17
+  type: 4
+  author: Alessandro Artale,  Enrico Franconi,  Rafael Peñaloza,  Francesco Sportelli
+  title: "A Decidable Very Expressive Description Logic for Databases"
+  venue: "Proceedings of the 16th International Semantic Web Conference ISWC 2017"
+  year: 2017
+  doi: 10.1007/978-3-319-68288-4_3
+  arxiv: http://arxiv.org/abs/1707.08468
+  bib: | 
+    @inproceedings{AFPS17,
+      author    = {Alessandro Artale and
+                   Enrico Franconi and
+                   Rafael Pe{\~{n}}aloza and
+                   Francesco Sportelli},
+      title     = {A Decidable Very Expressive Description Logic for Databases},
+      booktitle = {Proceedings of the 16th International Semantic Web Conference {ISWC} 2017, 
+                        Part {I}},
+      pages     = {37--52},
+      year      = {2017},
+      doi       = {10.1007/978-3-319-68288-4_3},
+      note       = {doi: \url{https://doi.org/10.1007/978-3-319-68288-4_3}},
+      editor    = {Claudia d'Amato and
+                   Miriam Fern{\'{a}}ndez and
+                   Valentina A. M. Tamma and
+                   Freddy L{\'{e}}cu{\'{e}} and
+                   Philippe Cudr{\'{e}}{-}Mauroux and
+                   Juan F. Sequeda and
+                   Christoph Lange and
+                   Jeff Heflin},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {10587},
+      publisher = {Springer},
+      arxiv     = {http://arxiv.org/abs/1707.08468},
+    }
+- key: AlAP17
+  type: 4
+  author: Mario Alviano,  Giovanni Amendola and Rafael Peñaloza
+  title: "Minimal Undefinedness for Fuzzy Answer Sets"
+  venue: "Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence"
+  year: 2017
+  bib: | 
+    @inproceedings{AlAP17,
+      author    = {Mario Alviano and
+                   Giovanni Amendola and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Minimal Undefinedness for Fuzzy Answer Sets},
+      booktitle = {Proceedings of the Thirty-First {AAAI} Conference on Artificial Intelligence},
+      pages     = {3694--3700},
+      year      = {2017},
+      url       = {http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14309},
+      editor    = {Satinder P. Singh and
+                   Shaul Markovitch},
+      publisher = {{AAAI} Press},
+    }
+- key: AMIMPM16
+  type: 4
+  author: M. Fareed Arif,  Carlos Mencía,  Alexey Ignatiev,  Norbert Manthey,  Rafael Peñaloza and Joao Marques-Silva
+  title: "BEACON: An Efficient SAT-Based Tool for Debugging EL+ Ontologies"
+  venue: "Proceedings of the 19th International Conference on Theory and Applications of Satisfiability Testing (SAT 2016)"
+  year: 2016
+  doi: 10.1007/978-3-319-40970-2_32
+  bib: | 
+    @inproceedings{AMIMPM16,
+      author    = {M. Fareed Arif and
+                   Carlos Menc{\'{\i}}a and
+                   Alexey Ignatiev and
+                   Norbert Manthey and
+                   Rafael Pe{\~{n}}aloza and
+                   Joao Marques{-}Silva},
+      title     = {{BEACON:} An Efficient SAT-Based Tool for Debugging \emph{EL}{\^{}}+
+                   Ontologies},
+      booktitle = {Proceedings of the 19th International Conference on Theory and 
+                   Applications of Satisfiability Testing ({SAT} 2016)},
+      pages     = {521--530},
+      year      = {2016},
+      url       = {http://dx.doi.org/10.1007/978-3-319-40970-2_32},
+      note       = {doi: \url{http://dx.doi.org/10.1007/978-3-319-40970-2_32}},
+      doi       = {10.1007/978-3-319-40970-2_32},
+      editor    = {Nadia Creignou and
+                   Daniel Le Berre},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {9710},
+      publisher = {Springer},
+    }
+- key: BaHP07b
+  type: 4
+  author: Franz Baader,  Jan Hladik and Rafael Peñaloza
+  title: "SI! Automata Can Show PSPACE Results for Description Logics"
+  venue: "Proceedings of the First International Conference on Language,  Automata Theory and Applications (LATA'07)"
+  year: 2007
+  bib: | 
+    @InProceedings{BaHP07b,
+      author = 	 {Franz Baader and Jan Hladik and Rafael Pe{\~n}aloza},
+      title = 	 {{SI}! Automata Can Show {PSPACE} Results for Description Logics},
+      booktitle = 	 {Proceedings of the First International Conference on Language and 
+      		  Automata Theory and Applications ({LATA'07})},
+      year =	 2007,
+      editor =	 {Remco Loos and Szil{\'a}rd Zsolt Fazekas and Carlos Martin-Vide},
+      address =	 {Tarragona, Spain},
+    }
+- key: BaKP09
+  type: 4
+  author: Franz Baader,  Martin Knechtel and Rafael Peñaloza
+  title: "A Generic Approach for Large-Scale Ontological Reasoning in the Presence of Access Restrictions to the Ontology's Axioms"
+  venue: "Proceedings of the 8th International Semantic Web Conference (ISWC 2009)"
+  year: 2009
+  doi: 10.1007/978-3-642-04930-9_4
+  bib: | 
+    @INPROCEEDINGS{BaKP09,
+      author = {Franz Baader and Martin Knechtel and Rafael Pe{\~n}aloza},
+      title = {A Generic Approach for Large-Scale Ontological Reasoning in the Presence of Access Restrictions to the Ontology's Axioms},
+      booktitle = {Proceedings of the 8th International Semantic Web Conference (ISWC 2009)},
+      year = {2009},
+      editor = {Abraham Bernstein et al.},
+      pages = {49-64},
+      volume = {5823},
+      series = {Lecture Notes in Computer Science},
+      springer = {yes},
+      address = {Washington, DC},
+      doi = {10.1007/978-3-642-04930-9_4},
+    }
+- key: BaPe07
+  type: 4
+  author: Franz Baader and Rafael Peñaloza
+  title: "Axiom Pinpointing in General Tableaux"
+  venue: "Proceedings of the 16th International Conference on Analytic Tableaux and Related Methods (TABLEAUX 2007)"
+  year: 2007
+  bib: | 
+    @InProceedings{BaPe07,
+      author = 	"Franz Baader and Rafael Pe{\~n}aloza",
+      title =	"Axiom Pinpointing in General Tableaux",
+      booktitle =	"Proceedings of the 16th International Conference on Analytic Tableaux and
+      		 Related Methods ({TABLEAUX~2007})",
+      editor =	"Nicola Olivetti",
+      publisher =	"Springer-Verlag",
+      volume =	4548,
+      series =	"Lecture Notes in Artificial Intelligence",
+      pages =	"11--27",
+      address =	"Aix-en-Provence, France",
+      year =	2007,
+    }
+- key: BaPe08
+  type: 4
+  author: Franz Baader and Rafael Peñaloza
+  title: "Automata-based Axiom Pinpointing"
+  venue: "Proceedings of the International Joint Conference on Automated Reasoning (IJCAR 2008)"
+  year: 2008
+  doi: 10.1007/978-3-540-71070-7_19
+  bib: | 
+    @InProceedings{BaPe08,
+      author =       {Franz Baader and Rafael Pe{\~n}aloza},
+      title =        {Automata-based Axiom Pinpointing},
+      booktitle =    {Proceedings of the International Joint Conference on Automated Reasoning (IJCAR~2008)},
+      year =         2008,
+      address =      {Sydney, Australia},
+      publisher =    "Springer-Verlag",
+      series =       {Lecture Notes in Artificial Intelligence},
+      volume =	 4667,
+      pages =	 {226--241},
+      editor =	 {Alessandro Armando and Peter Baumgartner and Gilles Dowek},
+      springer =     {yes},
+      doi = {10.1007/978-3-540-71070-7_19},
+    }
+- key: BaPe-FroCoS11
+  type: 4
+  author: Franz Baader and Rafael Peñaloza
+  title: "On the Undecidability of Fuzzy Description Logics with GCIs and Product t-norm"
+  venue: "Proceedings of 8th International Symposium Frontiers of Combining Systems (FroCoS 2011)"
+  year: 2011
+  bib: | 
+    @inproceedings{BaPe-FroCoS11,
+      author    = {Franz Baader and Rafael Pe{\~n}aloza},
+      title     = {On the Undecidability of Fuzzy Description Logics with GCIs and Product t-norm},
+      booktitle = {Proceedings of 8th International Symposium Frontiers of Combining Systems ({FroCoS 2011})},
+      year      = 2011,
+      publisher = {Springer-Verlag},
+      address   = {Saarbr{\"u}cken, Germany},
+      editor    = {Cesare Tinelli and Viorica Sofronie-Stokkermans},
+      series    = {Lecture Notes in Aritificial Intelligence},
+      volume    = 6989,
+      pages     = {55--70},
+      springer  = {yes}
+  bib: | 
+    @inproceedings{BaPe-FroCoS11,
+      author    = {Franz Baader and Rafael Pe{\~n}aloza},
+      title     = {On the Undecidability of Fuzzy Description Logics with GCIs and Product t-norm},
+      booktitle = {Proceedings of 8th International Symposium Frontiers of Combining Systems ({FroCoS 2011})},
+      year      = 2011,
+      publisher = {Springer-Verlag},
+      address   = {Saarbr{\"u}cken, Germany},
+      editor    = {Cesare Tinelli and Viorica Sofronie-Stokkermans},
+      series    = {Lecture Notes in Aritificial Intelligence},
+      volume    = 6989,
+      pages     = {55--70},
+      springer  = {yes}
+    }
+- key: BaPe-FuzzIEEE11
+  type: 4
+  author: Franz Baader and Rafael Peñaloza
+  title: "Are Fuzzy Description Logics with General Concept Inclusion Axioms Decidable?"
+  venue: "Proceedings of 2011 IEEE International Conference on Fuzzy Systems (Fuzz-IEEE 2011)"
+  year: 2011
+  bib: | 
+    @inproceedings{BaPe-FuzzIEEE11,
+      author    = {Franz Baader and Rafael Pe{\~n}aloza},
+      title     = {Are Fuzzy Description Logics with General Concept Inclusion Axioms Decidable?},
+      booktitle = {Proceedings of 2011 IEEE International Conference on Fuzzy Systems ({Fuzz-IEEE 2011})},
+      year      = 2011,
+      publisher = {IEEE Press},
+      pages     = {1735--1742},
+      address   = {Taipei, Taiwan},
+    }
+- key: BaPS07
+  type: 4
+  author: Franz Baader,  Rafael Peñaloza and Boontawee Suntisrivaraporn
+  title: "Pinpointing in the Description Logic EL^+"
+  venue: "Proceedings of the 30th German Annual Conference on Artificial Intelligence (KI'07)"
+  year: 2007
+  bib: | 
+    @InProceedings{BaPS07,
+      author =	"Franz Baader and Rafael Pe{\~n}aloza and Boontawee Suntisrivaraporn",
+      title  =	"Pinpointing in the Description Logic $\mathcal{EL}^+$",
+      booktitle =	"Proceedings of the 30th German Annual Conference on Artificial Intelligence
+      		 ({KI'07})",
+      year	 =	"2007",
+      address =	"Osnabr{\"u}ck, Germany",
+      publisher = 	"Springer-Verlag",
+      series = 	"Lecture Notes in Artificial Intelligence",
+      volume = 	4667,
+      pages  =	"52--67",
+      editor =	{Joachim Hertzberg and Michael Beetz and Roman Englert},
+    }
+- key: BKNP-KR18
+  type: 4
+  author: Franz Baader,  Francesco Kriegel,  Adrian Nuradiansyah and Rafael Peñaloza
+  title: "Making Repairs in Description Logics More Gentle"
+  venue: "Proceedings of the Sixteenth International Conference on Principles of Knowledge Representation and Reasoning (KR 2018)"
+  year: 2018
+  arxiv: http://arxiv.org/abs/1808.00248
+  bib: | 
+    @inproceedings{BKNP-KR18,
+      author    = {Franz Baader and
+                   Francesco Kriegel and
+                   Adrian Nuradiansyah and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Making Repairs in Description Logics More Gentle},
+      booktitle = {Proceedings of the Sixteenth International Conference on
+      		Principles of Knowledge Representation and Reasoning ({KR} 2018)},
+      pages     = {319--328},
+      year      = {2018},
+      url       = {https://aaai.org/ocs/index.php/KR/KR18/paper/view/18056},
+      editor    = {Michael Thielscher and
+                   Francesca Toni and
+                   Frank Wolter},
+      publisher = {{AAAI} Press},
+      isbn      = {978-1-57735-803-9},
+      arxiv = {http://arxiv.org/abs/1808.00248},
+    }
+- key: BoCP-IJCAI15
+  type: 4
+  author: Stefan Borgwardt,  Marco Cerami and Rafael Peñaloza
+  title: "The Complexity of Subsumption in Fuzzy EL"
+  venue: "Proceedings of the Twenty-Fourth International Joint Conference on Artificial Intelligence, IJCAI 2015"
+  year: 2015
+  bib: | 
+    @inproceedings{BoCP-IJCAI15,
+      author    = {Stefan Borgwardt and
+                   Marco Cerami and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {The Complexity of Subsumption in Fuzzy {EL}},
+      booktitle = {Proceedings of the Twenty-Fourth International Joint Conference on
+                   Artificial Intelligence, {IJCAI} 2015},
+      pages     = {2812--2818},
+      year      = {2015},
+      url       = {http://ijcai.org/papers15/Abstracts/IJCAI15-398.html},
+      editor    = {Qiang Yang and
+                   Michael Wooldridge},
+      publisher = {{AAAI} Press},
+    }
+- key: BoDP-IJCAR12
+  type: 4
+  author: Stefan Borgwardt,  Felix Distel and Rafael Peñaloza
+  title: "How Fuzzy is my Fuzzy Description Logic?"
+  venue: "Proceedings of the 6th International Joint Conference on Automated Reasoning (IJCAR'12)"
+  year: 2012
+  bib: | 
+    @InProceedings{BoDP-IJCAR12,
+      author = {Stefan Borgwardt and Felix Distel and Rafael Pe{\~n}aloza},
+      title = {How Fuzzy is my Fuzzy Description Logic?},
+      booktitle = {Proceedings of the 6th International Joint Conference on Automated Reasoning (IJCAR'12)},
+      year = 2012,
+      address = {Manchester, UK},
+      publisher = {Springer-Verlag},
+      series = {Lecture Notes in Artificial Intelligence},
+      volume = 7364,
+      pages = {82--96},
+      editor = {Bernhard Gramlich and Dale Miller and Ulrike Sattler},
+      springer = {yes},
+    }
+- key: BoDP-KR14
+  type: 4
+  author: Stefan Borgwardt,  Felix Distel and Rafael Peñaloza
+  venue: "Proceedings of the 14th International Conference on Principles of Knowledge Representation and Reasoning (KR'14)"
+  title: "Decidable Gödel description logics without the finitely-valued model property"
+  year: 2014
+  bib: | 
+    @inproceedings{BoDP-KR14,
+      address = {Vienna, Austria},
+      author = {Stefan {Borgwardt} and Felix {Distel} and Rafael {Pe{\~n}aloza}},
+      booktitle = {Proceedings of the 14th International Conference on Principles of Knowledge Representation and Reasoning (KR'14)},
+      editor = {Chitta {Baral} and Giuseppe {De Giacomo} and Thomas {Eiter}},
+      pages = {228--237},
+      publisher = {AAAI Press},
+      title = {Decidable {G}{\"o}del description logics without the finitely-valued model property},
+      year = {2014},
+    }
+- key: BoLP-JELIA14
+  type: 4
+  author: Stefan Borgwardt,  José A. Leyva Galano and Rafael Peñaloza
+  venue: "Proceedings of the 14th European Conference on Logics in Artificial Intelligence (JELIA'14)"
+  title: "The Fuzzy Description Logic G-FL0 with Greatest Fixed-Point Semantics"
+  year: 2014
+  bib: | 
+    @inproceedings{ BoLP-JELIA14,
+      address = {Funchal, Portugal},
+      author = {Stefan {Borgwardt} and Jos{\'e} A. {Leyva Galano} and Rafael {Pe{\~n}aloza}},
+      booktitle = {Proceedings of the 14th European Conference on Logics in Artificial Intelligence (JELIA'14)},
+      editor = {Eduardo {Ferm{\'e}} and Jo{\~a}o {Leite}},
+      pages = {62--76},
+      publisher = {Springer-Verlag},
+      series = {Lecture Notes in Artificial Intelligence},
+      title = {The Fuzzy Description Logic {\textsf{G}}-{$\mathcal{FL}_0$} with Greatest Fixed-Point Semantics},
+      volume = {8761},
+      year = {2014},
+    }
+- key: BoPe-AFL11
+  type: 4
+  author: Stefan Borgwardt and Rafael Peñaloza
+  title: "The Inclusion Problem for Weighted Automata on Infinite Trees"
+  venue: "Proceedings of the 13th International Conference on Automata and Formal Languages (AFL'11)"
+  year: 2011
+  bib: | 
+    @inproceedings{BoPe-AFL11,
+      author    = {Stefan Borgwardt and Rafael Pe{\~n}aloza},
+      title     = {The Inclusion Problem for Weighted Automata on Infinite Trees},
+      booktitle = {Proceedings of the 13th International Conference on Automata and Formal Languages (AFL'11)},
+      year      = 2011,
+      publisher = {Institute of Mathematics and Computer Science of Ny{\'i}regyh{\'a}za College},
+      editor    = {P. D{\"o}m{\"o}si and Sz. Iv{\'a}n},
+      pages     = {108--122},
+      address   = {Debrecen, Hungary},
+    }
+- key: BoPe-IJCAI11
+  type: 4
+  author: Stefan Borgwardt and Rafael Peñaloza
+  title: "Description Logics over Lattices with Multi-valued Ontologies"
+  venue: "Proceedings of the Twenty-Second International Joint Conference on Artificial Intelligence (IJCAI'11)"
+  year: 2011
+  bib: | 
+    @inproceedings{BoPe-IJCAI11,
+      author    = {Stefan Borgwardt and Rafael Pe{\~n}aloza},
+      title     = {Description Logics over Lattices with Multi-valued Ontologies},
+      booktitle = {Proceedings of the Twenty-Second International Joint 
+    		Conference on Artificial Intelligence ({IJCAI'11})},
+      year      = 2011,
+      editor    = {Toby Walsh},
+      publisher = {AAAI Press},
+      pages     = {768--773},
+      address   = {Barcelona, Spain},
+    }
+- key: BoPe-KR12
+  type: 4
+  author: Stefan Borgwardt and Rafael Peñaloza
+  title: "Undecidability of Fuzzy Description Logics"
+  venue: "Proceedings of the 13th International Conference on Principles of Knowledge Representation and Reasoning (KR'12)"
+  year: 2012
+  bib: | 
+    @inproceedings{BoPe-KR12,
+      author    = {Stefan Borgwardt and Rafael Pe{\~n}aloza},
+      title     = {Undecidability of Fuzzy Description Logics},
+      booktitle = {Proceedings of the 13th International Conference on
+    		Principles of Knowledge Representation and Reasoning ({KR'12})},
+      year      = 2012,
+      publisher = {AAAI Press},
+      address   = {Rome, Italy},
+      pages     = {232--242},
+      editor    = {Gerhard Brewka and Thomas Eiter and Sheila A. McIlraith},
+    }
+- key: BoPe-RR12
+  type: 4
+  author: Stefan Borgwardt and Rafael Peñaloza
+  title: "A Tableau Algorithm for Fuzzy Description Logics over Residuated De Morgan Lattices"
+  venue: "Proceedings of the 6th International Conference on Web Reasoning and Rule Systems (RR 2012)"
+  year: 2012
+  bib: | 
+    @inproceedings{BoPe-RR12,
+      author    = {Stefan Borgwardt and Rafael Pe{\~n}aloza},
+      title     = {A Tableau Algorithm for Fuzzy Description Logics over Residuated De Morgan Lattices},
+      booktitle = {Proceedings of the 6th International Conference on Web Reasoning and Rule Systems
+                   (RR 2012)},
+      year      = {2012},
+      pages     = {9--24},
+      publisher = {Springer},
+      volume    = 7497,
+      series    = {Lecture Notes in Computer Science},
+      editor    = {Markus Kr{\"o}tzsch and
+                   Umberto Straccia},
+      springer  = {yes},
+    }
+- key: BoPe-IJCAI13
+  type: 4
+  author: Stefan Borgwardt and Rafael Peñaloza
+  venue: "Proceedings of the 23rd International Joint Conference on Artificial Intelligence (IJCAI'13)"
+  title: "Positive Subsumption in Fuzzy EL with General t-norms"
+  year: 2013
+  bib: | 
+    @inproceedings{ BoPe-IJCAI13,
+      address = {Beijing, China},
+      author = {Stefan {Borgwardt} and Rafael {Pe{\~n}aloza}},
+      booktitle = {Proceedings of the 23rd International Joint Conference on Artificial Intelligence (IJCAI'13)},
+      editor = {Francesca {Rossi}},
+      pages = {789--795},
+      publisher = {AAAI Press},
+      title = {Positive Subsumption in Fuzzy $\mathcal{EL}$ with General t-norms},
+      year = {2013},
+    }
+- key: BoPe-FroCoS15
+  type: 4
+  author: Stefan Borgwardt and Rafael Peñaloza
+  title: "Reasoning in Expressive Description Logics under Infinitely Valued Gödel Semantics"
+  venue: "Proceedings of the 10th International Symposium on Frontiers of Combining Systems (FroCoS 2015)"
+  year: 2015
+  doi: 10.1007/978-3-319-24246-0_4
+  bib: | 
+    @inproceedings{BoPe-FroCoS15,
+      author    = {Stefan Borgwardt and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Reasoning in Expressive Description Logics under Infinitely Valued
+                   G{\"{o}}del Semantics},
+      booktitle = {Proceedings of the 10th International Symposium on Frontiers of Combining Systems {(FroCoS 2015)}},
+      pages     = {49--65},
+      year      = {2015},
+      url       = {http://dx.doi.org/10.1007/978-3-319-24246-0_4},
+      note       = {doi: \url{http://dx.doi.org/10.1007/978-3-319-24246-0_4}},
+      doi       = {10.1007/978-3-319-24246-0_4},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {9322},
+      publisher = {Springer},
+      editor    = {Carsten Lutz and
+                   Silvio Ranise},
+    }
+- key: BoPe-SUM17
+  type: 4
+  author: Stefan Borgwardt and Rafael Peñaloza
+  title: "Fuzzy Description Logics - A Survey"
+  venue: "Proceedings of the 11th International Conference on Scalable Uncertainty Management (SUM 2017)"
+  year: 2017
+  doi: 10.1007/978-3-319-67582-4_3
+  bib: | 
+    @inproceedings{BoPe-SUM17,
+      author    = {Stefan Borgwardt and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Fuzzy Description Logics - {A} Survey},
+      booktitle = {Proceedings of the 11th International Conference on Scalable Uncertainty Management
+      		({SUM} 2017)},
+      pages     = {31--45},
+      year      = {2017},
+      doi       = {10.1007/978-3-319-67582-4_3},
+      note       = {doi: \url{https://doi.org/10.1007/978-3-319-67582-4_3}},
+      editor    = {Seraf{\'{\i}}n Moral and
+                   Olivier Pivert and
+                   Daniel S{\'{a}}nchez and
+                   Nicol{\'{a}}s Mar{\'{\i}}n},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {10564},
+      publisher = {Springer},
+    }
+- key: BoPW-ICFCA14
+  type: 4
+  author: Daniel Borchmann,  Rafael Peñaloza and Wenqian Wang
+  title: "Classifying Software Bug Reports Using Methods from Formal Concept Analysis"
+  venue: "Studia Universitatis Babes-Bolyai Informatica"
+  year: 2014
+  bib: | 
+    @Article{ BoPW-ICFCA14,
+      author = {Daniel Borchmann and Rafael Pe{\~n}aloza and Wenqian Wang},
+      title = {Classifying Software Bug Reports Using Methods from Formal Concept Analysis},
+      journal = {Studia Universitatis Babe{\c{s}}-Bolyai Informatica},
+      volume = 59,
+      month = {June},
+      year = 2014,
+      pages = {10--27},
+      note = {Suplemental proceedings of the 12th International Conference on Formal Concept Analysis (ICFCA'14)},
+    }
+- key: CaPe03
+  type: 4
+  author: Osvaldo Cairó and Rafael Peñaloza
+  title: "Creating a Bayesian Inference Engine for KAMET"
+  venue: "Proceedings of the X Conference of the Spanish Society of Artificial Intelligence (CAEPIA'03)"
+  year: 2003
+  bib: | 
+    @InProceedings{CaPe03,
+      author =	"Osvaldo Cair{\'o} and Rafael Pe{\~n}aloza",
+      title =	"Creating a {B}ayesian Inference Engine for {KAMET}",
+      booktitle =	"Proceedings of the X Conference of the Spanish Society of Artificial
+      		 Intelligence ({CAEPIA'03})",
+      address =	"Donostia-San Sebastian, Spain",
+      year =	2003,
+    }
+- key: CaPe03b
+  type: 4
+  author: Osvaldo Cairó and Rafael Peñaloza
+  title: "Using Bayesian Networks as an Inference Engine in KAMET"
+  venue: "Proceedings of the XXIII International Conference of the Chilean Computer Science Society (SCCC'03)"
+  year: 2003
+  bib: | 
+    @InProceedings{CaPe03b,
+      author =	"Osvaldo Cair{\'o} and Rafael Pe{\~n}aloza",
+      title =	"Using {B}ayesian Networks as an Inference Engine in {KAMET}",
+      booktitle =	"Proceedings of the XXIII International Conference of the Chilean Computer Science
+      		 Society ({SCCC'03})",
+      address =	"Chillan, Chile",
+      publisher =	"IEEE-Press",
+      year =	2003,
+    }
+- key: CeLP-ECAI16
+  type: 4
+  author: Ismail Ilkan Ceylan,  Thomas Lukasiewicz and Rafael Peñaloza
+  title: "Complexity Results for Probabilistic Datalog+-"
+  venue: "Proceedings of the 22nd European Conference on Artificial Intelligence (ECAI'16)"
+  year: 2016
+  bib: | 
+    @inproceedings{CeLP-ECAI16,
+      author    = {{\.I}smail {\.I}lkan Ceylan and
+                   Thomas Lukasiewicz and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Complexity Results for Probabilistic Datalog{+-}},
+      booktitle = {Proceedings of the 22nd European Conference on Artificial Intelligence (ECAI'16)},
+      year      = {2016},
+      editor    = {Gal A. Kaminka and
+                   Maria Fox and
+                   Paolo Bouquet and
+                   Eyke H{\"{u}}llermeier and
+                   Virginia Dignum and
+                   Frank Dignum and
+                   Frank van Harmelen},
+      series    = {Frontiers in Artificial Intelligence and Applications},
+      volume    = {285},  
+      publisher = {IOS Press},
+      pages     = {1414--1422},
+    }
+- key: CePe-IJCAR14
+  type: 4
+  author: Ismail Ilkan Ceylan and Rafael Peñaloza
+  title: "The Bayesian Description Logic BEL"
+  venue: "Proceedings of the 7th International Joint Conference on Automated Reasoning (IJCAR 2014)"
+  year: 2014
+  bib: | 
+    @InProceedings{ CePe-IJCAR14,
+      author = {{\.I}smail {\.I}lkan Ceylan and Rafael Pe{\~n}aloza},
+      title = {The {B}ayesian Description Logic {BEL}},
+      booktitle = {Proceedings of the 7th International Joint Conference on
+    		Automated Reasoning (IJCAR 2014)},
+      year = 2014,
+      editor = {Stephane Demri and Deepak Kapur and Christoph Weidenbach},
+      pages = {480--494},
+      publisher = {Springer},
+      series = {Lecture Notes in Computer Science},
+      volume = {8562},
+    }
+- key: CePe-JELIA14
+  type: 4
+  author: Ismail Ilkan Ceylan and Rafael Peñaloza
+  venue: "Proceedings of the 14th European Conference on Logics in Artificial Intelligence (JELIA 2014)"
+  title: "Tight Complexity Bounds for Reasoning in the Description Logic BEL"
+  year: 2014
+  bib: | 
+    @inproceedings{ CePe-JELIA14,
+      author = {Ismail Ilkan {Ceylan} and Rafael {Pe{\~n}aloza}},
+      booktitle = {Proceedings of the 14th European Conference on Logics in Artificial Intelligence (JELIA 2014)},
+      editor = {Eduardo {Ferm{\'e}} and Jo{\~a}o {Leite}},
+      pages = {77--91},
+      publisher = {Springer},
+      series = {Lecture Notes in Computer Science},
+      title = {Tight Complexity Bounds for Reasoning in the Description Logic {$\mathcal{BEL}$}},
+      volume = {8761},
+      year = {2014},
+    }
+- key: CePe-SUM15
+  type: 4
+  author: Ismail Ilkan Ceylan and Rafael Peñaloza
+  title: "Probabilistic Query Answering in the Bayesian Description Logic BEL"
+  venue: "Proceedings of the 9th International Conference on Scalable Uncertainty Management (SUM 2015)"
+  year: 2015
+  doi: 10.1007/978-3-319-23540-0_2
+  bib: | 
+    @inproceedings{CePe-SUM15,
+      author    = {{\.I}smail {\.I}lkan Ceylan and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Probabilistic Query Answering in the {Bayesian} Description Logic \emph{BEL}},
+      booktitle = {Proceedings of the 9th International Conference on Scalable Uncertainty 
+      			Management ({SUM} 2015)},
+      pages     = {21--35},
+      year      = {2015},
+      url       = {http://dx.doi.org/10.1007/978-3-319-23540-0_2},
+      note       = {doi: \url{http://dx.doi.org/10.1007/978-3-319-23540-0_2}},
+      doi       = {10.1007/978-3-319-23540-0_2},
+      editor    = {Christoph Beierle and
+                   Alex Dekhtyar},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {9310},
+      publisher = {Springer},
+    }
+- key: CLPT17
+  type: 4
+  author: Ismail Ilkan Ceylan,  Thomas Lukasiewicz,  Rafael Peñaloza and Oana Tifrea-Marciuska
+  title: "Query Answering in Ontologies under Preference Rankings"
+  venue: "Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017"
+  year: 2017
+  doi: 10.24963/ijcai.2017/131
+  bib: | 
+    @inproceedings{CLPT17,
+      author    = {{\.I}smail {\.I}lkan Ceylan and
+                   Thomas Lukasiewicz and
+                   Rafael Pe{\~{n}}aloza and
+                   Oana Tifrea{-}Marciuska},
+      title     = {Query Answering in Ontologies under Preference Rankings},
+      booktitle = {Proceedings of the Twenty-Sixth International Joint Conference on
+                   Artificial Intelligence, {IJCAI} 2017},
+      pages     = {943--949},
+      year      = {2017},
+      url       = {https://doi.org/10.24963/ijcai.2017/131},
+      note       = {doi: https://doi.org/10.24963/ijcai.2017/131},
+      doi       = {10.24963/ijcai.2017/131},
+      editor    = {Carles Sierra},
+      publisher = {ijcai.org},
+    }
+- key: DHPW-ACRI14
+  type: 4
+  author: Stathis Delivorias,  Haralampos Hatzikirou,  Rafael Peñaloza and Dirk Walther
+  title: "Detecting Emergent Phenomena in Cellular Automata Using Temporal Description Logics"
+  venue: "Proceedings of the 11th International Conference on Cellular Automata for Research and Industry, (ACRI 2014)"
+  year: 2014
+  doi: 10.1007/978-3-319-11520-7_37
+  year: 2014
+  bib: | 
+    @inproceedings{DHPW-ACRI14,
+      author    = {Stathis Delivorias and
+                   Haralampos Hatzikirou and
+                   Rafael Pe{\~{n}}aloza and
+                   Dirk Walther},
+      title     = {Detecting Emergent Phenomena in Cellular Automata Using Temporal Description
+                   Logics},
+      booktitle = {Proceedings of the 11th International Conference on Cellular Automata
+                   for Research and Industry, ({ACRI} 2014)},
+      year      = {2014},
+      pages     = {357--366},
+      doi       = {10.1007/978-3-319-11520-7_37},
+      note       = {doi: \url{https://doi.org/10.1007/978-3-319-11520-7_37}},
+      editor    = {Jaroslaw Was and
+                   Georgios Ch. Sirakoulis and
+                   Stefania Bandini},
+      series    = {Lecture Notes in Computer Science},
+      year      = {2014},
+      volume    = {8751},
+      publisher = {Springer},
+    }
+- key: EcPT-KI-13
+  type: 4
+  author: Andreas Ecke,  Rafael Peñaloza and Anni-Yasmin Turhan
+  venue: "Proceedings of the 36th German Conference on Artificial Intelligence (KI 2013)"
+  title: "Computing Role-depth Bounded Generalizations in the Description Logic ELOR"
+  year: 2013
+  bib: | 
+    @inproceedings{ EcPT-KI-13,
+      address = {Koblenz, Germany},
+      author = {Andreas {Ecke} and Rafael {Pe{\~n}aloza} and Anni-Yasmin {Turhan}},
+      booktitle = {Proceedings of the 36th German Conference on Artificial Intelligence (KI 2013)},
+      publisher = {Springer-Verlag},
+      series = {Lecture Notes in Artificial Intelligence},
+      title = {Computing Role-depth Bounded Generalizations in the Description Logic {$\mathcal{ELOR}$}},
+      volume = {8077},
+      year = {2013},
+      pages = {49--60},
+      editor = {Ingo J. Timm and Matthias Thimm},
+    }
+- key: EcPT-KR14
+  type: 4
+  author: Andreas Ecke,  Rafael Peñaloza and Anni-Yasmin Turhan
+  venue: "Proceedings of the Fourteenth International Conference on Principles of Knowledge Representation and Reasoning (KR'14)"
+  title: "Answering Instance Queries Relaxed by Concept Similarity"
+  year: 2014
+  bib: | 
+    @inproceedings{ EcPT-KR14,
+      address = {Vienna, Austria},
+      author = {Andreas {Ecke} and Rafael {Pe{\~n}aloza} and Anni-Yasmin {Turhan}},
+      booktitle = {Proceedings of the Fourteenth International Conference on Principles of Knowledge Representation and Reasoning ({KR'14})},
+      editor = {Chitta {Baral} and Giuseppe {De Giacomo} and Thomas {Eiter}},
+      pages = {248--257},
+      publisher = {AAAI Press},
+      title = {Answering Instance Queries Relaxed by Concept Similarity},
+      year = {2014},
+    }
+- key: GPHK18
+  type: 4
+  author: Giancarlo Guizzardi,  Rafael Peñaloza,  Maria M. Hedblom and Oliver Kutz
+  title: "Under the Super-Suit: What Superheroes Can Reveal About Inherited properties in Conceptual Blending"
+  venue: "Proceedings of the Ninth International Conference on Computational Creativity"
+  year: 2018
+  bib: | 
+    @inproceedings{GPHK18,
+      author    = {Giancarlo Guizzardi and
+                   Rafael Pe{\~{n}}aloza and
+                   Maria M. Hedblom and
+                   Oliver Kutz},
+      title     = {Under the Super-Suit: What Superheroes Can Reveal About Inherited
+                   properties in Conceptual Blending},
+      booktitle = {Proceedings of the Ninth International Conference on Computational
+                   Creativity},
+      pages     = {216--223},
+      year      = {2018},
+      url       = {http://computationalcreativity.net/iccc2018/sites/default/files/papers/ICCC\_2018\_paper\_56.pdf},
+      editor    = {Fran{\c{c}}ois Pachet and
+                   Anna Jordanous and
+                   Carlos Le{\'{o}}n},
+      publisher = {Association for Computational Creativity {(ACC)}},
+      isbn      = {978-989-54160-0-4},
+    }
+- key: HuPe17
+  type: 4
+  author: Lisa Hutschenreiter and Rafael Peñaloza
+  title: "An Automata View to Goal-Directed Methods"
+  venue: "Proceedings of the 11th International Conference on Language,  Automata Theory and Applications (LATA 2017)"
+  year: 2017
+  doi: 10.1007/978-3-319-53733-7_7
+  bib: | 
+    @inproceedings{HuPe17,
+      author    = {Lisa Hutschenreiter and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {An Automata View to Goal-Directed Methods},
+      booktitle = {Proceedings of the 11th International Conference on Language and 
+      			Automata Theory and Applications ({LATA} 2017)},
+      pages     = {103--114},
+      year      = {2017},
+      url       = {https://doi.org/10.1007/978-3-319-53733-7_7},
+      note       = {doi: \url{https://doi.org/10.1007/978-3-319-53733-7_7}},
+      doi       = {10.1007/978-3-319-53733-7_7},
+      editor    = {Frank Drewes and
+                   Carlos Mart{\'{\i}}n{-}Vide and
+                   Bianca Truthe},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {10168},
+    }
+- key: KnPe-ESWC-10
+  type: 4
+  author: Martin Knechtel and Rafael Peñaloza
+  title: "A Generic Approach for Correcting Access Restrictions to a Consequence"
+  venue: "Proceedings of the 7th Extended Semantic Web Conference (ESWC 2010)"
+  year: 2010
+  doi: 10.1007/978-3-642-13486-9_12
+  bib: | 
+    @inproceedings{KnPe-ESWC-10,
+      author    = {Martin Knechtel and Rafael Pe{\~n}aloza},
+      title     = {A Generic Approach for Correcting Access Restrictions to a Consequence},
+      booktitle = {Proceedings of the 7th Extended Semantic Web Conference ({ESWC 2010})},
+      year      = 2010,
+      editor = {Lora Aroyo and Grigoris Antoniou and Eero Hyv{\"o}nen and Annette ten
+    	Teije and Heiner Stuckenschmidt and Liliana Cabral and Tania Tudorache},
+      volume = {6088},
+      series = {Lecture Notes in Computer Science},
+      pages = {167-182},
+      doi = {10.1007/978-3-642-13486-9_12},
+    }
+- key: KoPe-KR18
+  type: 4
+  author: Alisa Kovtunova and Rafael Peñaloza
+  title: "Cutting Diamonds: A Temporal Logic with Probabilistic Distributions"
+  venue: "Proceedings of the Sixteenth International Conference on Principles of Knowledge Representation and Reasoning (KR 2018)"
+  year: 2018
+  bib: | 
+    @inproceedings{KoPe-KR18,
+      author    = {Alisa Kovtunova and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Cutting Diamonds: {A} Temporal Logic with Probabilistic Distributions},
+      booktitle = {Proceedings of the Sixteenth International Conference on 
+      		Principles of Knowledge Representation and Reasoning ({KR} 2018)},
+      pages     = {561--570},
+      year      = {2018},
+      url       = {https://aaai.org/ocs/index.php/KR/KR18/paper/view/18037},
+      editor    = {Michael Thielscher and
+                   Francesca Toni and
+                   Frank Wolter},
+      publisher = {{AAAI} Press},
+      isbn      = {978-1-57735-803-9},
+    }
+- key: KOZP03
+  type: 4
+  author: Angel Kuri,  M.R. Ortiz,  Daniela Zenteno and Rafael Peñaloza
+  title: "Classification of Sperm Cells According to their Chromosomic Content Using a Neural Network Trained with a Genetic Algorithm"
+  venue: "Proceedings of the 25th Annual International Conference of the IEEE Engineering in Medicine and Biology Society"
+  year: 2003
+  bib: | 
+    @InProceedings{KOZP03,
+      author =	"Angel Kuri and M.R. Ortiz and Daniela Zenteno and Rafael Pe{\~n}aloza",
+      title =	"Classification of Sperm Cells According to their Chromosomic Content Using a
+      		 Neural Network Trained with a Genetic Algorithm",
+      booktitle =	"Proceedings of the 25th Annual International Conference of the {IEEE} Engineering
+      		 in Medicine and Biology Society",
+      publisher =	"IEEE-Press",
+      year =	2003,
+    }
+- key: KPea06
+  type: 4
+  author: Alex Kozlenkov,  Rafael Peñaloza,  Vivek Nigam,  Loic Royer,  Gihan Dawelbait and Michael Schroeder
+  title: "Prova: Rule-based Java Scripting for Distributed Web Applications: A Case Study in Bioinformatics"
+  venue: "Proceedings of the Workshop on Reactivity on the Web at the International Conference on Extending Database Technology (EDBT 2006)"
+  year: 2006
+  bib: | 
+    @InProceedings{KPea06,
+      author =	"Alex Kozlenkov and Rafael Pe{\~n}aloza and Vivek Nigam and Loic Royer and
+      		 Gihan Dawelbait and Michael Schroeder",
+      title =	"Prova: Rule-based Java Scripting for Distributed Web Applications: A Case
+      		 Study in Bioinformatics",
+      booktitle =	"Proceedings of the Workshop on Reactivity on the Web at the International
+      		 Conference on Extending Database Technology ({EDBT~2006})",
+      publisher =	"Springer-Verlag",
+      year =	2006,
+      volume =	4254,
+      series =	"Lecture Notes in Computer Science",
+      address =	"Munich, Germany",
+    }
+- key: KSea17
+  type: 4
+  author: Evgeny Kharlamov,  Ognjen Savkovic,  Guohui Xiao,  Rafael Peñaloza,  Gulnar Mehdi,  Mikhail Roshchin and Ian Horrocks
+  title: "Semantic Rules for Machine Diagnostics: Execution and Management"
+  venue: "Proceedings of the 2017 ACM on Conference on Information and Knowledge Management, CIKM 2017"
+  year: 2017
+  doi: 10.1145/3132847.3133159
+  bib: | 
+    @inproceedings{KSea17,
+      author    = {Evgeny Kharlamov and
+                   Ognjen Savkovic and
+                   Guohui Xiao and
+                   Rafael Pe{\~{n}}aloza and
+                   Gulnar Mehdi and
+                   Mikhail Roshchin and
+                   Ian Horrocks},
+      title     = {Semantic Rules for Machine Diagnostics: Execution and Management},
+      booktitle = {Proceedings of the 2017 {ACM} on Conference on Information and Knowledge
+                   Management, {CIKM} 2017},
+      pages     = {2131--2134},
+      year      = {2017},
+      url       = {http://doi.acm.org/10.1145/3132847.3133159},
+      note       = {doi: http://doi.acm.org/10.1145/3132847.3133159},
+      doi       = {10.1145/3132847.3133159},
+      editor    = {Ee{-}Peng Lim and
+                   Marianne Winslett and
+                   Mark Sanderson and
+                   Ada Wai{-}Chee Fu and
+                   Jimeng Sun and
+                   J. Shane Culpepper and
+                   Eric Lo and
+                   Joyce C. Ho and
+                   Debora Donato and
+                   Rakesh Agrawal and
+                   Yu Zheng and
+                   Carlos Castillo and
+                   Aixin Sun and
+                   Vincent S. Tseng and
+                   Chenliang Li},
+      publisher = {{ACM}},
+    }
+- key: LuPe-JELIA14
+  type: 4
+  author: Michel Ludwig and Rafael Peñaloza
+  venue: "Proceedings of the 14th European Conference on Logics in Artificial Intelligence (JELIA'14)"
+  title: "Error-Tolerant Reasoning in the Description Logic EL"
+  year: 2014
+  bib: | 
+    @inproceedings{ LuPe-JELIA14,
+      address = {Madeira, Portugal},
+      author = {Michel {Ludwig} and Rafael {Pe{\~n}aloza}},
+      booktitle = {Proceedings of the 14th European Conference on Logics in Artificial Intelligence {(JELIA'14)}},
+      editor = {Eduardo {Ferm{\'e}} and Jo{\~a}o {Leite}},
+      pages = {107--121},
+      publisher = {Springer-Verlag},
+      series = {Lecture Notes in Artificial Intelligence},
+      title = {Error-Tolerant Reasoning in the Description Logic EL},
+      volume = {8761},
+      year = {2014},
+    }
+- key: MaPT-RR14
+  type: 4
+  author: Theofilos Mailis,  Rafael Peñaloza and Anni-Yasmin Turhan
+  venue: "Proceedings of the 8th International Conference on Web Reasoning and Rule Systems (RR 2014)"
+  title: "Conjunctive Query Answering in Finitely-valued Fuzzy Description Logics"
+  year: 2014
+  bib: | 
+    @inproceedings{ MaPT-RR14,
+      author = {Theofilos {Mailis} and Rafael {Pe\~naloza} and Anni-Yasmin {Turhan}},
+      booktitle = {Proceedings of the 8th International Conference on Web Reasoning and Rule Systems (RR 2014)},
+      editor = {Roman {Kontchakov} and Marie-Laure {Mugnier}},
+      pages = {124--139},
+      publisher = {Springer},
+      title = {Conjunctive Query Answering in Finitely-valued Fuzzy Description Logics},
+      volume = {8741},
+      year = {2014},
+    }
+- key: MePT-KI14
+  type: 4
+  author: Dorian Merz,  Rafael Peñaloza and Anni-Yasmin Turhan
+  venue: "Proceedings of 37th German Conference on Artificial Intelligence (KI'14)"
+  title: "Reasoning in ALC with Fuzzy Concrete Domains"
+  year: 2014
+  bib: | 
+    @inproceedings{ MePT-KI14,
+      author = {Dorian {Merz} and Rafael {Pe{\~n}aloza} and Anni-Yasmin {Turhan}},
+      booktitle = {Proceedings of 37th German Conference on Artificial Intelligence (KI'14)},
+      editor = {Carsten {Lutz} and Michael {Thielscher}},
+      pages = {171--182},
+      publisher = {Springer Verlag},
+      series = {Lecture Notes in Artificial Intelligence},
+      title = {Reasoning in {$\mathcal{ALC}$} with Fuzzy Concrete Domains},
+      volume = {8736},
+      year = {2014},
+    }
+- key: MIMP-JELIA16
+  type: 4
+  author: Joao Marques-Silva,  Alexey Ignatiev,  Carlos Mencía and Rafael Peñaloza
+  venue: "Proceedings of the 15th European Conference on Logics in Artificial Intelligence (JELIA'16)"
+  title: "Efficient Reasoning for Inconsistent Horn Formulae"
+  year: 2016
+  doi: 10.1007/978-3-319-48758-8_22
+  bib: | 
+    @inproceedings{ MIMP-JELIA16,
+      author = {Joao Marques{-}Silva and Alexey Ignatiev and Carlos Menc{\'{\i}}a and Rafael {Pe{\~n}aloza}},
+      booktitle = {Proceedings of the 15th European Conference on Logics in Artificial Intelligence (JELIA'16)},
+      publisher = {Springer-Verlag},
+      series = {Lecture Notes in Artificial Intelligence},
+      title = {Efficient Reasoning for Inconsistent Horn Formulae},
+      year = {2016},
+      pages     = {336--352},
+      doi       = {10.1007/978-3-319-48758-8_22},
+      note       = {doi: \url{https://doi.org/10.1007/978-3-319-48758-8_22}},
+      editor    = {Loizos Michael and
+                   Antonis C. Kakas},
+      volume    = {10021},
+    }
+- key: OzPe-SUM18
+  type: 4
+  author: Ana Ozaki and Rafael Peñaloza
+  title: "Consequence-Based Axiom Pinpointing"
+  venue: "Proceedings of the 12th International Conference on Scalable Uncertainty Management (SUM 2018)"
+  year: 2018
+  doi: 10.1007/978-3-030-00461-3\_13
+  arxiv: http://arxiv.org/abs/1805.10250
+  bib: | 
+    @inproceedings{OzPe-SUM18,
+      author    = {Ana Ozaki and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Consequence-Based Axiom Pinpointing},
+      booktitle = {Proceedings of the 12th International Conference on Scalable Uncertainty Management 
+      		({SUM} 2018)},
+      pages     = {181--195},
+      year      = {2018},
+      url       = {https://doi.org/10.1007/978-3-030-00461-3\_13},
+      doi       = {10.1007/978-3-030-00461-3\_13},
+      editor    = {Davide Ciucci and
+                   Gabriella Pasi and
+                   Barbara Vantaggi},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {11142},
+      publisher = {Springer},
+      isbn      = {978-3-030-00460-6},
+      arxiv     = {http://arxiv.org/abs/1805.10250},
+    }
+- key: Pena10
+  type: 4
+  author: Rafael Peñaloza
+  title: "Using Sums-of-Products for Non-standard Reasoning"
+  venue: "Proceedings of the 4th International Conference on Language,  Automata Theory and Applications (LATA 2010)"
+  year: 2010
+  doi: 10.1007/978-3-642-13089-2_41
+  bib: | 
+    @inproceedings{Pena10,
+      author    = {Rafael Pe{\~n}aloza},
+      title     = {Using Sums-of-Products for Non-standard Reasoning},
+      booktitle = {Proceedings of the 4th International Conference on Language and
+    		Automata Theory and Applications ({LATA 2010})},
+      year      = 2010,
+      editor    = {A.-H.~Dediu and H.~Fernau and C.~Mart{\'i}n-Vide},
+      series    = {Lecture Notes in Computer Science},
+      volume    = 6031,
+      pages     = {488--499},
+      publisher = {Springer-Verlag},
+      doi = {10.1007/978-3-642-13089-2_41},
+    }
+- key: Pena17
+  type: 4
+  author: Rafael Peñaloza
+  title: "Inconsistency-Tolerant Instance Checking in Tractable Description Logics"
+  venue: "Proceedings of the International Joint Conference on Rules and Reasoning (RuleML+RR 2017)"
+  year: 2017
+  doi: 10.1007/978-3-319-61252-2_15
+  bib: | 
+    @inproceedings{Pena17,
+      author    = {Rafael Pe{\~{n}}aloza},
+      title     = {Inconsistency-Tolerant Instance Checking in Tractable Description
+                   Logics},
+      booktitle = {Proceedings of the International Joint Conference on Rules and Reasoning 
+      		(RuleML+RR 2017)},
+      pages     = {215--229},
+      year      = {2017},
+      doi       = {10.1007/978-3-319-61252-2_15},
+      note       = {doi: \url{https://doi.org/10.1007/978-3-319-61252-2_15}},
+      editor    = {Stefania Costantini and
+                   Enrico Franconi and
+                   William Van Woensel and
+                   Roman Kontchakov and
+                   Fariba Sadri and
+                   Dumitru Roman},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {10364},
+      publisher = {Springer},
+    }
+- key: PePo-SUM16
+  type: 4
+  author: Rafael Peñaloza and Nico Potyka
+  title: "Probabilistic Reasoning in the Description Logic ALCP with the Principle of Maximum Entropy"
+  year: 2016
+  venue: "Proceedings of the Tenth International Conference on Scalable Uncertainty Management (SUM 2016)"
+  arxiv: http://arxiv.org/abs/1606.09521
+  bib: | 
+    @inproceedings{PePo-SUM16,
+      author    = {Rafael Pe{\~{n}}aloza and
+                   Nico Potyka},
+      title     = {Probabilistic Reasoning in the Description Logic {ALCP} with the Principle
+                   of Maximum Entropy},
+      year      = {2016},
+      booktitle = {Proceedings of the Tenth International Conference on Scalable Uncertainty Management (SUM 2016)},
+      editor    = {Steven Schockaert and
+                   Pierre Senellart},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {9858},
+      publisher = {Springer},
+      pages     = {246--259},            
+      arxiv     = {http://arxiv.org/abs/1606.09521},
+    }
+- key: PePoSUM17
+  type: 4
+  author: Rafael Peñaloza and Nico Potyka
+  title: "Towards Statistical Reasoning in Description Logics over Finite Domains"
+  venue: "Proceedings of the 11th International Conference on Scalable Uncertainty Management (SUM 2017)"
+  year: 2017
+  doi: 10.1007/978-3-319-67582-4_20
+  arxiv: http://arxiv.org/abs/1706.03207
+  bib: | 
+    @inproceedings{PePoSUM17,
+      author    = {Rafael Pe{\~{n}}aloza and
+                   Nico Potyka},
+      title     = {Towards Statistical Reasoning in Description Logics over Finite Domains},
+      booktitle = {Proceedings of the 11th International Conference on Scalable Uncertainty Management  
+      		({SUM} 2017)},
+      pages     = {280--294},
+      year      = {2017},
+      doi       = {10.1007/978-3-319-67582-4_20},
+      note       = {doi: \url{https://doi.org/10.1007/978-3-319-67582-4_20}},
+      editor    = {Seraf{\'{\i}}n Moral and
+                   Olivier Pivert and
+                   Daniel S{\'{a}}nchez and
+                   Nicol{\'{a}}s Mar{\'{\i}}n},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {10564},
+      publisher = {Springer},
+      arxiv     = {http://arxiv.org/abs/1706.03207},
+    }
+- key: PeSe10-ECAI
+  type: 4
+  author: Rafael Peñaloza and Baris Sertkaya
+  title: "Complexity of Axiom Pinpointing in the DL-Lite Family of Description Logics"
+  venue: "Proceedings of the 19th European Conference on Artificial Intelligence (ECAI'10)"
+  year: 2010
+  doi: 10.3233/978-1-60750-606-5-29
+  bib: | 
+    @inproceedings{PeSe10-ECAI,
+      author    = {Rafael Pe{\~n}aloza and Bar\i{}\c{s} Sertkaya},
+      title     = {Complexity of Axiom Pinpointing in the {DL-Lite} Family of Description Logics},
+      booktitle = {Proceedings of the 19th European Conference on Artificial Intelligence ({ECAI'10})},
+      year      = {2010},
+      pages     = {29--34},
+      series    = {Frontiers in Artificial Intelligence and Applications},
+      volume    = 215,
+      publisher = {IOS Press},
+      editor    = {Helder Coelho and Rudi Studer and Michael Wooldridge},
+      doi = {10.3233/978-1-60750-606-5-29},
+    }
+- key: PeSe10-KR
+  type: 4
+  author: Rafael Peñaloza and Baris Sertkaya
+  title: "On the Complexity of Axiom Pinpointing in the EL Family of Description Logics"
+  venue: "Proceedings of the 12th International Conference on the Principles of Knowledge Representation and Reasoning (KR'10)"
+  year: 2010
+  bib: | 
+    @inproceedings{PeSe10-KR,
+      author    = {Rafael Pe{\~n}aloza and Bar\i{}\c{s} Sertkaya},
+      title     = {On the Complexity of Axiom Pinpointing in the EL Family of Description Logics},
+      booktitle = {Proceedings of the 12th International Conference on the Principles
+    		of Knowledge Representation and Reasoning ({KR'10})}, 
+      year      = {2010},
+      editor    = {Fangzhen Lin and Ulrike Sattler and Miroslaw Truszczynski},
+      pages	    = {280--289},
+      publisher = {AAAI Press},
+      address   = {Toronto, Canada},
+    }
+- key: PeTT18
+  type: 4
+  author: Rafael Peñaloza,  Veronika Thost and Anni-Yasmin Turhan
+  title: "Query Answering for Rough EL Ontologies"
+  venue: "Proceedings of the Sixteenth International Conference on Principles of Knowledge Representation and Reasoning (KR 2018)"
+  year: 2018
+  arxiv: http://arxiv.org/abs/1808.01877
+  bib: | 
+    @inproceedings{PeTT18,
+      author    = {Rafael Pe{\~{n}}aloza and
+                   Veronika Thost and
+                   Anni{-}Yasmin Turhan},
+      title     = {Query Answering for Rough {EL} Ontologies},
+      booktitle = {Proceedings of the Sixteenth International Conference on 
+      		Principles of Knowledge Representation and Reasoning ({KR} 2018)},
+      pages     = {399--408},
+      year      = {2018},
+      url       = {https://aaai.org/ocs/index.php/KR/KR18/paper/view/18036},
+      editor    = {Michael Thielscher and
+                   Francesca Toni and
+                   Frank Wolter},
+      publisher = {{AAAI} Press},
+      isbn      = {978-1-57735-803-9},
+      arxiv = {http://arxiv.org/abs/1808.01877},
+    }
+- key: PeTu-ESWC11
+  type: 4
+  author: Rafael Peñaloza and Anni-Yasmin Turhan
+  title: "A Practical Approach for Computing Generalization Inferences in EL"
+  venue: "Proceedings of the 8th European Semantic Web Conference (ESWC'11), Part I"
+  year: 2011
+  bib: | 
+    @InProceedings{PeTu-ESWC11,
+      author = 	 {Rafael Pe{\~n}aloza and Anni-Yasmin Turhan},
+      title = 	 {A Practical Approach for Computing Generalization Inferences in {${\mathcal{EL}}$}},
+      booktitle = 	 {Proceedings of the 8th European Semantic Web
+                       Conference ({ESWC'11}), Part I},
+      year = 	 {2011},
+      series = 	 {Lecture Notes in Computer Science},
+      publisher =    {Springer-Verlag},
+      editor    =    {Grigoris Antoniou and
+                      Marko Grobelnik and
+                      Elena Paslaru Bontas Simperl and
+                      Bijan Parsia and
+                      Dimitris Plexousakis and
+                      Pieter De Leenheer and
+                      Jeff Z. Pan},
+      pages     =     {410--423},
+      volume    =     {6643},
+    }
+- key: PeTu12
+  type: 4
+  author: Rafael Peñaloza and Anni-Yasmin Turhan
+  title: "Instance-based Non-standard Inferences in EL with Subjective Probabilities"
+  venue: "Uncertainty Reasoning for the Semantic Web II"
+  year: 2013
+  bib: | 
+    @InProceedings{PeTu12,
+      author = {Rafael Pe{\~n}aloza and Anni-Yasmin Turhan},
+      title = {Instance-based Non-standard Inferences in $\mathcal{EL}$ with Subjective Probabilities},
+      booktitle = {Uncertainty Reasoning for the Semantic Web II},
+      editor = {Fernando Bobillo and
+        Paulo C. G. Costa and
+        Claudia d'Amato and
+        Nicola Fanizzi and
+        Kathryn B. Laskey and
+        Kenneth J. Laskey and
+        Thomas Lukasiewicz and
+        Matthias Nickles and
+        Michael Pool},
+      year = 2013,
+      publisher = {Springer-Verlag},
+      series = {Lecture Notes in Computer Science},
+      number = 7123,
+      pages = {80--98},
+    }
+- key: PeZo-FroCoS13
+  type: 4
+  author: Rafael Peñaloza and Tingting Zou
+  venue: "Proceedings of the 2013 International Symposium on Frontiers of Combining Systems (FroCoS 2013)"
+  title: "Roughening the EL Envelope"
+  year: 2013
+  bib: | 
+    @inproceedings{ PeZo-FroCoS13,
+      address = {Nancy, France},
+      author = {Rafael {Pe{\~n}aloza} and Tingting {Zou}},
+      booktitle = {Proceedings of the 2013 International Symposium on Frontiers of Combining Systems ({FroCoS 2013})},
+      title = {Roughening the $\mathcal{EL}$ Envelope},
+      year = {2013},
+      editor = {P. {Fontaine} and C. {Ringeissen} and R. A. {Schmidt}},
+      publisher = {Springer-Verlag},
+      series = {Lecture Notes in Computer Science},
+      volume = {8152},
+      pages = {71--86},
+    }
+- key: PMIM17
+  type: 4
+  author: Rafael Peñaloza,  Carlos Mencía,  Alexey Ignatiev and Joao Marques-Silva
+  title: "Lean Kernels in Description Logics"
+  venue: "Proceedings of the 14th International ESWC Conference, ESWC 2017, Part I"
+  year: 2017
+  doi: 10.1007/978-3-319-58068-5_32
+  bib: | 
+    @inproceedings{PMIM17,
+      author    = {Rafael Pe{\~{n}}aloza and
+                   Carlos Menc{\'{\i}}a and
+                   Alexey Ignatiev and
+                   Joao Marques{-}Silva},
+      title     = {Lean Kernels in Description Logics},
+      booktitle = {Proceedings of the 14th International ESWC Conference, {ESWC} 2017, Part {I}},
+      pages     = {518--533},
+      year      = {2017},
+      url       = {https://doi.org/10.1007/978-3-319-58068-5_32},
+      note       = {doi: \url{https://doi.org/10.1007/978-3-319-58068-5_32}},
+      doi       = {10.1007/978-3-319-58068-5_32},
+      editor    = {Eva Blomqvist and
+                   Diana Maynard and
+                   Aldo Gangemi and
+                   Rinke Hoekstra and
+                   Pascal Hitzler and
+                   Olaf Hartig},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {10249},
+    }
+- key: PTCG+17
+  type: 4
+  author: Daniele Porello,  Nicolas Troquard,  Roberto Confalonieri,  Pietro Galliani,  Oliver Kutz and Rafael Peñaloza
+  title: "Repairing Socially Aggregated Ontologies Using Axiom Weakening"
+  venue: "Proceedings of the 20th International Conference on Principles and Practice of Multi-Agent Systems (PRIMA 2017)"
+  year: 2017
+  doi: 10.1007/978-3-319-69131-2_26
+  bib: | 
+    @inproceedings{PTCG+17,
+      author    = {Daniele Porello and
+                   Nicolas Troquard and
+                   Roberto Confalonieri and
+                   Pietro Galliani and
+                   Oliver Kutz and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Repairing Socially Aggregated Ontologies Using Axiom Weakening},
+      booktitle = {Proceedings of the 20th 
+                   International Conference on Principles and Practice of Multi-Agent Systems
+    	       ({PRIMA} 2017)},
+      pages     = {441--449},
+      year      = {2017},
+      doi       = {10.1007/978-3-319-69131-2_26},
+      note       = {doi: \url{https://doi.org/10.1007/978-3-319-69131-2_26}},
+      editor    = {Bo An and
+                   Ana L. C. Bazzan and
+                   Jo{\~{a}}o Leite and
+                   Serena Villata and
+                   Leendert W. N. van der Torre},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {10621},
+      publisher = {Springer},
+    }
+- key: PTPC+18
+  type: 4
+  author: Daniele Porello,  Nicolas Troquard,  Rafael Peñaloza,  Roberto Confalonieri,  Pietro Galliani and Oliver Kutz
+  title: "Two Approaches to Ontology Aggregation Based on Axiom Weakening"
+  venue: "Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence, IJCAI 2018"
+  year: 2018
+  doi: 10.24963/ijcai.2018/268
+  bib: | 
+    @inproceedings{PTPC+18,
+      author    = {Daniele Porello and
+                   Nicolas Troquard and
+                   Rafael Pe{\~{n}}aloza and
+                   Roberto Confalonieri and
+                   Pietro Galliani and
+                   Oliver Kutz},
+      title     = {Two Approaches to Ontology Aggregation Based on Axiom Weakening},
+      booktitle = {Proceedings of the Twenty-Seventh International Joint Conference on
+                   Artificial Intelligence, {IJCAI} 2018},
+      pages     = {1942--1948},
+      year      = {2018},
+      url       = {https://doi.org/10.24963/ijcai.2018/268},
+      doi       = {10.24963/ijcai.2018/268},
+      editor    = {J{\'{e}}r{\^{o}}me Lang},
+      publisher = {ijcai.org},
+    }
+- key: TCGP+18
+  type: 4
+  author: Nicolas Troquard,  Roberto Confalonieri,  Pietro Galliani,  Rafael Peñaloza,  Daniele Porello and Oliver Kutz
+  title: "Repairing Ontologies via Axiom Weakening"
+  venue: "Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18)"
+  year: 2018
+  arxiv: https://arxiv.org/abs/1711.03430
+  bib: | 
+    @inproceedings{TCGP+18,
+      author    = {Nicolas Troquard and
+                   Roberto Confalonieri and
+                   Pietro Galliani and
+                   Rafael Pe{\~{n}}aloza and
+                   Daniele Porello and               
+                   Oliver Kutz},
+      title     = {Repairing Ontologies via Axiom Weakening},
+      booktitle = {Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18)},
+      year      = {2018},
+      editor    = {Sheila A. McIlraith and
+                   Kilian Q. Weinberger},
+      publisher = {{AAAI} Press},
+      arxiv     = {https://arxiv.org/abs/1711.03430},
+    
+    }
+- key: AlPe-TPLP13
+  type: 5
+  author: Mario Alviano and Rafael Peñaloza
+  title: "Fuzzy Answer Sets Approximations"
+  venue: "Theory and Practice of Logic Programming"
+  year: 2013
+  doi: 10.1017/S1471068413000471
+  bib: | 
+    @article{AlPe-TPLP13,
+      author    = {Mario Alviano and
+                   Rafael Pe{\~n}aloza},
+      title     = {Fuzzy Answer Sets Approximations},
+      journal   = {Theory and Practice of Logic Programming},
+      year      = {2013},
+      volume    = 13,
+      number     = {4--5},
+      pages     = {753--767},
+      doi       = {10.1017/S1471068413000471},
+      note       = {doi: http://dx.doi.org/10.1017/S1471068413000471},
+      copyright = {Cambridge University Press},
+      copylink  = {http://www.cambridge.org/},
+      publisher = {Cambridge University Press},
+    }
+- key: AlPe-TPLP15
+  type: 5
+  author: Mario Alviano and Rafael Peñaloza
+  title: "Fuzzy Answer Set Computation via Satisfiability Modulo Theories"
+  venue: "Theory and Practice of Logic Programming"
+  year: 2015
+  doi: 10.1017/S1471068415000241
+  arxiv: http://arxiv.org/abs/1507.03920
+  bib: | 
+    @article{AlPe-TPLP15,
+      author    = {Mario Alviano and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Fuzzy Answer Set Computation via Satisfiability Modulo Theories},
+      journal   = {Theory and Practice of Logic Programming},
+      volume    = {15},
+      number    = {4-5},
+      pages     = {588--603},
+      year      = {2015},
+      url       = {http://dx.doi.org/10.1017/S1471068415000241},
+      doi       = {10.1017/S1471068415000241},
+      note       = {doi: http://dx.doi.org/10.1017/S1471068415000241},
+      arxiv    = {http://arxiv.org/abs/1507.03920},
+    }
+- key: BaBP-JPL14
+  type: 5
+  author: Franz Baader,  Stefan Borgwardt and Rafael Peñaloza
+  venue: "Journal of Philosophical Logic"
+  title: "On the Decidability Status of Fuzzy ALC with General Concept Inclusions"
+  year: 2015
+  doi: 10.1007/s10992-014-9329-3
+  bib: | 
+    @article{ BaBP-JPL14,
+      author = {Franz Baader and Stefan Borgwardt and Rafael Pe{\~n}aloza},
+      journal = {Journal of Philosophical Logic},
+      volume    = {44},
+      number    = {2},
+      pages     = {117--146},
+      title = {On the Decidability Status of Fuzzy {$\mathcal{ALC}$} with General Concept Inclusions},
+      year = {2015},
+      doi = {10.1007/s10992-014-9329-3},
+      note = {doi: http://dx.doi.org/10.1007/s10992-014-9329-3},
+    }
+- key: BaBP-KI17
+  type: 5
+  author: Baader, Franz,  Borgwardt, Stefan and Peñaloza, Rafael
+  title: "Decidability and Complexity of Fuzzy Description Logics"
+  venue: "KI - Künstliche Intelligenz"
+  year: 2017
+  doi: 10.1007/s13218-016-0459-3
+  bib: | 
+    @Article{BaBP-KI17,
+      author="Baader, Franz
+                   and Borgwardt, Stefan
+                   and Pe{\~{n}}aloza, Rafael",
+      title="Decidability and Complexity of Fuzzy Description Logics",
+      journal="KI - K{\"u}nstliche Intelligenz",
+      year="2017",
+      volume    = {31},
+      number    = {1},
+      pages     = {85--90},
+      doi="10.1007/s13218-016-0459-3",
+      url="http://dx.doi.org/10.1007/s13218-016-0459-3",
+      note="doi: http://dx.doi.org/10.1007/s13218-016-0459-3",
+    }
+- key: BaHP-IC08
+  type: 5
+  author: Franz Baader,  Jan Hladik and Rafael Peñaloza
+  title: "Automata Can Show PSPACE Results for Description Logics"
+  venue: "Information and Computation"
+  year: 2008
+  doi: 10.1016/j.ic.2008.03.006
+  bib: | 
+    @Article{BaHP-IC08,
+     author = 	 {Franz Baader and Jan Hladik and Rafael Pe{\~n}aloza},
+     title = 	 {Automata Can Show {PSPACE} Results for Description Logics},
+     journal = 	 {Information and Computation},
+     year = 	 2008,
+     volume =	 {206},
+     number =	 {9,10},
+     publisher = 	 {Elsevier Science Publishers Ltd.},
+     pages =	 {1045--1056},
+     note =	 {Special Issue: First International Conference on Language and Automata Theory and Applications ({LATA'07})},
+     doi = {10.1016/j.ic.2008.03.006},
+    }
+- key: BaPe-JLC09
+  type: 5
+  author: Franz Baader and Rafael Peñaloza
+  title: "Axiom Pinpointing in General Tableaux"
+  venue: "Journal of Logic and Computation"
+  year: 2010
+  doi: 10.1093/logcom/exn058
+  bib: | 
+    @Article{BaPe-JLC09,
+      author =       {Franz Baader and Rafael Pe{\~n}aloza},
+      title =        {Axiom Pinpointing in General Tableaux},
+      journal =      {Journal of Logic and Computation},
+      year =         2010,
+      volume =	 20,
+      number =	 1,
+      month =	 {February},
+      pages =	 {5--34},
+      note = 	"Special Issue: Tableaux and Analytic Proof Methods",
+      doi = {10.1093/logcom/exn058},
+    }
+- key: BaPe-JAR09
+  type: 5
+  author: Franz Baader and Rafael Peñaloza
+  title: "Automata-based Axiom Pinpointing"
+  venue: "Journal of Automated Reasoning"
+  year: 2010
+  doi: 10.1007/s10817-010-9181-2
+  bib: | 
+    @Article{BaPe-JAR09,
+      author	= {Franz Baader and Rafael Pe{\~n}aloza},
+      title		= {Automata-based Axiom Pinpointing},
+      journal	= {Journal of Automated Reasoning},
+      year		= 2010,
+      volume	= 45,
+      number	= 2,
+      month		= {August},
+      pages		= {91--129},
+      note		= {Special Issue: Selected Papers from {IJCAR} 2008},
+      doi			= {10.1007/s10817-010-9181-2},
+    }
+- key: BaKP-JWS12
+  type: 5
+  author: Franz Baader,  Martin Knechtel and Rafael Peñaloza
+  title: "Context-Dependent Views to Axioms and Consequences of Semantic Web Ontologies"
+  venue: "Journal of Web Semantics"
+  year: 2012
+  doi: 10.1016/j.websem.2011.11.006
+  bib: | 
+    @article{BaKP-JWS12,
+      author = {Franz Baader and Martin Knechtel and Rafael Pe{\~n}aloza},
+      title = {Context-Dependent Views to Axioms and Consequences of Semantic Web Ontologies},
+      journal = {Journal of Web Semantics},
+      volume = {12--13},
+      pages = {22--40},
+      month = {April},
+      year = {2012},
+      note = {doi: http://dx.doi.org/10.1016/j.websem.2011.11.006},
+      doi = {10.1016/j.websem.2011.11.006},
+    }
+- key: BMPT-JoDS16
+  type: 5
+  author: Stefan Borgwardt,  Theofilos Mailis,  Rafael Peñaloza and Anni-Yasmin Turhan
+  title: "Answering Fuzzy Conjunctive Queries Over Finitely Valued Fuzzy Ontologies"
+  venue: "Journal on Data Semantics"
+  year: 2016
+  doi: 10.1007/s13740-015-0055-y
+  bib: | 
+    @article{BMPT-JoDS16,
+      author    = {Stefan Borgwardt and Theofilos Mailis and Rafael Pe{\~n}aloza and Anni-Yasmin Turhan},
+      title     = {Answering Fuzzy Conjunctive Queries Over Finitely Valued Fuzzy Ontologies},
+      journal   = {Journal on Data Semantics},
+      year      = 2016,
+      doi       = {10.1007/s13740-015-0055-y},
+      note       = {doi: http://dx.doi.org/10.1007/s13740-015-0055-y},
+      volume    = {5},
+      number    = {2},
+      pages     = {55--75},
+    }
+- key: BoCP-IJA17
+  type: 5
+  title: "The complexity of fuzzy EL under the Lukasiewicz T-norm"
+  venue: "International Journal of Approximate Reasoning"
+  year: 2017
+  doi: 10.1016/j.ijar.2017.09.005
+  author: Stefan Borgwardt,  Marco Cerami and Rafael Peñaloza
+  bib: | 
+    @article{BoCP-IJA17,
+      title = "The complexity of fuzzy {EL} under the {\L ukasiewicz} T-norm",
+      journal = "International Journal of Approximate Reasoning",
+      volume = "91",
+      number = "Supplement C",
+      pages = "179 - 201",
+      year = "2017",
+      issn = "0888-613X",
+      doi = "10.1016/j.ijar.2017.09.005",
+      note = "doi: https://doi.org/10.1016/j.ijar.2017.09.005",
+      author = "Stefan Borgwardt and Marco Cerami and Rafael Pe{\~n}aloza",
+    }
+- key: BoDP-AIJ15
+  type: 5
+  author: Stefan Borgwardt,  Felix Distel and Rafael Peñaloza
+  title: "The Limits of Decidability in Fuzzy Description Logics with General Concept Inclusions"
+  venue: "Artificial Intelligence"
+  year: 2015
+  doi: 10.1016/j.artint.2014.09.001
+  bib: | 
+    @article{BoDP-AIJ15,
+      author    = {Stefan Borgwardt and Felix Distel and Rafael Pe{\~n}aloza},
+      title     = {The Limits of Decidability in Fuzzy Description Logics with 
+    	       General Concept Inclusions},
+      journal   = {Artificial Intelligence},
+      year      = 2015,
+      doi       = {10.1016/j.artint.2014.09.001},
+      note       = {doi: http://dx.doi.org/10.1016/j.artint.2014.09.001},
+      pages     = {23--55},
+      volume    = {218},
+    }
+- key: BoPe-JoDS12
+  type: 5
+  author: Stefan Borgwardt and Rafael Peñaloza
+  title: "The Complexity of Lattice-Based Fuzzy Description Logics"
+  venue: "Journal on Data Semantics"
+  year: 2013
+  doi: 10.1007/s13740-012-0013-x
+  bib: | 
+    @article{BoPe-JoDS12,
+      author    = {Stefan Borgwardt and Rafael Pe{\~n}aloza},
+      title     = {The Complexity of Lattice-Based Fuzzy Description Logics},
+      journal   = {Journal on Data Semantics},
+      year      = 2013,
+      springer  = {yes},
+      volume    = 2,
+      number    = 1,
+      pages     = {1--19},
+      doi = {10.1007/s13740-012-0013-x},
+    }
+- key: BoPe-IJAR14
+  type: 5
+  author: Stefan Borgwardt and Rafael Peñaloza
+  doi: 10.1016/j.ijar.2013.07.006
+  venue: "International Journal of Approximate Reasoning"
+  title: "Consistency Reasoning in Lattice-Based Fuzzy Description Logics"
+  year: 2014
+  bib: | 
+    @article{ BoPe-IJAR14,
+      author = {Stefan {Borgwardt} and Rafael {Pe{\~n}aloza}},
+      doi = {10.1016/j.ijar.2013.07.006},
+      note = {doi: http://dx.doi.org/10.1016/j.ijar.2013.07.006},
+      journal = {International Journal of Approximate Reasoning},
+      number = {9},
+      pages = {1917--1938},
+      title = {Consistency Reasoning in Lattice-Based Fuzzy Description Logics},
+      volume = {55},
+      year = {2014},
+    }
+- key: BoPe-IJAR17
+  type: 5
+  author: Stefan Borgwardt and Rafael Peñaloza
+  title: "Algorithms for reasoning in very expressive description logics under infinitely valued Gödel semantics"
+  venue: "International Journal of Approximate Reasoning"
+  year: 2017
+  doi: 10.1016/j.ijar.2016.12.014
+  bib: | 
+    @article{BoPe-IJAR17,
+      author    = {Stefan Borgwardt and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Algorithms for reasoning in very expressive description logics under
+                   infinitely valued {G{\"{o}}del} semantics},
+      journal   = {International Journal of Approximate Reasoning},
+      volume    = {83},
+      pages     = {60--101},
+      year      = {2017},
+      url       = {https://doi.org/10.1016/j.ijar.2016.12.014},
+      note       = {doi: https://doi.org/10.1016/j.ijar.2016.12.014},
+      doi       = {10.1016/j.ijar.2016.12.014},
+    }
+- key: BoPe-FSS16
+  type: 5
+  author: Stefan Borgwardt and Rafael Peñaloza
+  title: "Reasoning in fuzzy description logics using automata"
+  venue: "Fuzzy Sets and Systems"
+  year: 2016
+  doi: 10.1016/j.fss.2015.07.013
+  bib: | 
+    @article{BoPe-FSS16,
+      author  = {Stefan Borgwardt and Rafael Pe{\~{n}}aloza},
+      title   = {Reasoning in fuzzy description logics using automata},
+      journal = {Fuzzy Sets and Systems},
+      year    = {2016},
+      doi     = {10.1016/j.fss.2015.07.013},
+      note     = {doi: https://doi.org/10.1016/j.fss.2015.07.013},
+      volume    = {298},
+      pages     = {22--43},
+    }
+- key: CePe-JAR16
+  type: 5
+  author: Ismail Ilkan Ceylan and Rafael Peñaloza
+  title: "The Bayesian Ontology Language BEL"
+  venue: "Journal of Automated Reasoning"
+  year: 2017
+  doi: 10.1007/s10817-016-9386-0
+  bib: | 
+    @article{CePe-JAR16,
+      author = {{\.I}smail {\.I}lkan Ceylan and Rafael Pe{\~n}aloza},
+      title   = {The {Bayesian} Ontology Language {BEL}},
+      journal = {Journal of Automated Reasoning},
+      year    = {2017},
+      volume    = {58},
+      number    = {1},
+      pages     = {67--95},
+      url       = {https://doi.org/10.1007/s10817-016-9386-0},
+      note       = {doi: https://doi.org/10.1007/s10817-016-9386-0},
+      doi       = {10.1007/s10817-016-9386-0},
+    }
+- key: CESKPP-AMAI16
+  type: 5
+  author: Roberto Confalonieri,  Manfred Eppe,  Marco Schorlemmer,  Oliver Kutz,  Rafael Peñaloza and Enric Plaza
+  title: "Upward Refinement Operators for Conceptual Blending in the Description Logic EL++"
+  venue: "Annals of Mathematics and Artificial Intelligence"
+  year: 2018
+  doi: 10.1007/s10472-016-9524-8
+  bib: | 
+    @article{CESKPP-AMAI16,
+      author = {Roberto Confalonieri and Manfred Eppe and Marco Schorlemmer and Oliver Kutz and Rafael Pe{\~n}aloza and Enric Plaza},
+      title   = {Upward Refinement Operators for Conceptual Blending in the Description Logic {EL++}},
+      journal = {Annals of Mathematics and Artificial Intelligence},
+      volume    = {82},
+      number    = {1-3},
+      pages     = {69--99},
+      year      = {2018},
+      url       = {https://doi.org/10.1007/s10472-016-9524-8},
+      doi       = {10.1007/s10472-016-9524-8},
+    }
+- key: CLea-18
+  type: 5
+  author: Jerónimo Castrillón,  Matthias Lieber,  Sascha Klüppelholz,  Marcus Völp,  Nils Asmussen,  Uwe A\ssmann,  Franz Baader,  Christel Baier,  Gerhard P. Fettweis,  Jochen Fröhlich,  Andrés Goens,  Sebastian Haas,  Dirk Habich,  Hermann Härtig,  Mattis Hasler,  Immo Huismann,  Tomas Karnagel,  Sven Karol,  Akash Kumar,  Wolfgang Lehner,  Linda Leuschner,  Siqi Ling,  Steffen Märcker,  Christian Menard,  Johannes Mey,  Wolfgang E. Nagel,  Benedikt Nöthen,  Rafael Peñaloza,  Michael Raitza,  Jörg Stiller,  Annett Ungethüm,  Axel Voigt and Sascha Wunderlich
+  title: "A Hardware/Software Stack for Heterogeneous Systems"
+  venue: "IEEE Transactions on Multi-Scale Computing Systems"
+  year: 2018
+  doi: 10.1109/TMSCS.2017.2771750
+  bib: | 
+    @article{CLea-18,
+      author    = {Jer{\'{o}}nimo Castrill{\'{o}}n and
+                   Matthias Lieber and
+                   Sascha Kl{\"{u}}ppelholz and
+                   Marcus V{\"{o}}lp and
+                   Nils Asmussen and
+                   Uwe A{\ss}mann and
+                   Franz Baader and
+                   Christel Baier and
+                   Gerhard P. Fettweis and
+                   Jochen Fr{\"{o}}hlich and
+                   Andr{\'{e}}s Goens and
+                   Sebastian Haas and
+                   Dirk Habich and
+                   Hermann H{\"{a}}rtig and
+                   Mattis Hasler and
+                   Immo Huismann and
+                   Tomas Karnagel and
+                   Sven Karol and
+                   Akash Kumar and
+                   Wolfgang Lehner and
+                   Linda Leuschner and
+                   Siqi Ling and
+                   Steffen M{\"{a}}rcker and
+                   Christian Menard and
+                   Johannes Mey and
+                   Wolfgang E. Nagel and
+                   Benedikt N{\"{o}}then and
+                   Rafael Pe{\~{n}}aloza and
+                   Michael Raitza and
+                   J{\"{o}}rg Stiller and
+                   Annett Ungeth{\"{u}}m and
+                   Axel Voigt and
+                   Sascha Wunderlich},
+      title     = {A Hardware/Software Stack for Heterogeneous Systems},
+      journal   = {{IEEE} Transactions on Multi-Scale Computing Systems},
+      volume    = {4},
+      number    = {3},
+      pages     = {243--259},
+      year      = {2018},
+      url       = {https://doi.org/10.1109/TMSCS.2017.2771750},
+      doi       = {10.1109/TMSCS.2017.2771750},
+    }
+- key: EcPT-IJAR14
+  type: 5
+  author: Andreas Ecke,  Rafael Peñaloza and Anni-Yasmin Turhan
+  doi: 10.1016/j.ijar.2014.03.001
+  venue: "International Journal of Approximate Reasoning"
+  title: "Completion-based Generalization Inferences for the Description Logic ELOR with Subjective Probabilities"
+  year: 2014
+  bib: | 
+    @article{ EcPT-IJAR14,
+      author = {Andreas {Ecke} and Rafael {Pe{\~n}aloza} and Anni-Yasmin {Turhan}},
+      doi = {10.1016/j.ijar.2014.03.001},
+      note = {doi: http://dx.doi.org/10.1016/j.ijar.2014.03.001},
+      journal = {International Journal of Approximate Reasoning},
+      number = {9},
+      pages = {1939--1970},
+      publisher = {Elsevier},
+      title = {Completion-based Generalization Inferences for the Description Logic $\mathcal{ELOR}$ with Subjective Probabilities},
+      volume = {55},
+      year = {2014},
+    }
+- key: EcPT-JAL15
+  type: 5
+  author: Andreas Ecke,  Rafael Peñaloza and Anni-Yasmin Turhan
+  doi: 10.1016/j.jal.2015.01.002
+  venue: "Journal of Applied Logic"
+  title: "Similarity-based Relaxed Instance Queries"
+  year: 2015
+  bib: | 
+    @article{ EcPT-JAL15,
+      author = {Andreas {Ecke} and Rafael {Pe\~naloza} and Anni-Yasmin {Turhan}},
+      doi = {10.1016/j.jal.2015.01.002},
+      note = {doi: http://dx.doi.org/10.1016/j.jal.2015.01.002},
+      journal = {Journal of Applied Logic},
+      volume = 13,
+      number = 4,
+      pages = {480--508},
+      title = {Similarity-based Relaxed Instance Queries},
+      year = {2015},
+    }
+- key: LePe-TCS14
+  type: 5
+  author: Karsten Lehmann and Rafael Peñaloza
+  venue: "Theoretical Computer Science"
+  title: "The Complexity of Computing the Behaviour of Lattice Automata on Infinite Trees"
+  year: 2014
+  doi: 10.1016/j.tcs.2014.02.036
+  bib: | 
+    @article{ LePe-TCS14,
+      author = {Karsten {Lehmann} and Rafael {Pe{\~n}aloza}},
+      journal = {Theoretical Computer Science},
+      title = {The Complexity of Computing the Behaviour of Lattice Automata on Infinite Trees},
+      year = {2014},
+      doi = {10.1016/j.tcs.2014.02.036},
+      note = {doi: http://dx.doi.org/10.1016/j.tcs.2014.02.036},
+      url = {http://www.sciencedirect.com/science/article/pii/S0304397514001625},
+      volume = 534,
+      pages = {53--68},
+      month = {May},
+      publisher = {Elsevier},
+    }
+- key: PeSe-AIJ17
+  type: 5
+  title: "Understanding the Complexity of Axiom Pinpointing in Lightweight Description Logics"
+  venue: "Artificial Intelligence "
+  year: 2017
+  doi: 10.1016/j.artint.2017.06.002
+  author: Rafael Peñaloza and Baris Sertkaya
+  bib: | 
+    @article{PeSe-AIJ17,
+      title = "Understanding the Complexity of Axiom Pinpointing in Lightweight Description Logics",
+      journal = "Artificial Intelligence ",
+      volume = "250",
+      number = "",
+      pages = "80--104",
+      year = "2017",
+      issn = "0004-3702",
+      doi = "10.1016/j.artint.2017.06.002",
+      note = "doi: https://doi.org/10.1016/j.artint.2017.06.002",
+      url = "http://www.sciencedirect.com/science/article/pii/S0004370217300711",
+      author = "Rafael Pe{\~n}aloza and Bar\i{}\c{s} Sertkaya",
+      month = {September},
+      publisher = {Elsevier},
+    }
+- key: BCE+-15
+  type: 6
+  author: Fernando Bobillo,  Marco Cerami,  Francesc Esteva,  Àngel García-Cerdaña,  Rafael Peñaloza,  Umberto Straccia
+  title: "Fuzzy Description Logic"
+  venue: "Handbook of Mathematical Fuzzy Logic Volume 3"
+  year: 2015
+  bib: | 
+    @incollection{BCE+-15,
+      author = {Fernando Bobillo and Marco Cerami and Francesc Esteva and 
+    	{\`{A}}ngel Garc{\'{i}}a-Cerda{\~{n}}a and Rafael Pe{\~n}aloza and Umberto 
+    	Straccia},
+      title = {Fuzzy Description Logic},
+      editor = {Petr Cintula and Christian G. Ferm{\"u}ller and Carles Noguera},
+      publisher = {College Publications},
+      series = {Studies in Logic},
+      booktitle = {Handbook of Mathematical Fuzzy Logic Volume 3},
+      volume = 58,
+      year = 2015,
+    }
