@@ -311,6 +311,25 @@
                    Elio Masciari and
                    Domenico Sacc{\`{a}}},
     }
+- key: AcPP-DL19
+  type: 3
+  author: Erman Acar,  Rafael Peñaloza and Livia Predoiu
+  title: "Making Decisions over Contextual Ontologies"
+  venue: "Proceedings of the 32nd International Workshop on Description Logics"
+  year: 2019
+  bib: | 
+    @inproceedings{AcPP-DL19,
+      author    = {Erman Acar and
+                   Rafael Pe{\~{n}}aloza and
+                   Livia Predoiu},
+      title     = {Making Decisions over Contextual Ontologies},
+      booktitle = {Proceedings of the 32nd International Workshop on Description Logics},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {2373},
+      publisher = {CEUR-WS.org},
+      year      = {2019},
+      url       = {http://ceur-ws.org/Vol-2373/paper-1.pdf},
+    }
 - key: BaHP07
   type: 3
   author: Franz Baader,  Jan Hladik and Rafael Peñaloza
@@ -960,6 +979,30 @@
       address   = {Rome, Italy},
       volume    = 846,
       editor    = {Yevgeny Kazakov and Domenico Lembo and Frank Wolter},
+    }
+- key: DBLP:conf/c3gi/HedblomKPG18
+  type: 3
+  author: Maria M. Hedblom,  Oliver Kutz,  Rafael Peñaloza and Giancarlo Guizzardi
+  title: "What's Cracking? How Image Schema Combinations Can Model Conceptualisations of Events"
+  venue: "Joint Proceedings of the Workshops C3GI: The 7th International Workshop on Computational Creativity, Concept Invention,,  General Intelligence ISD4: The 4th Image Schema Day, and SCORE: From Image Schemas to Cognitive Robotics"
+  year: 2018
+  bib: | 
+    @inproceedings{DBLP:conf/c3gi/HedblomKPG18,
+      author    = {Maria M. Hedblom and
+                   Oliver Kutz and
+                   Rafael Pe{\~{n}}aloza and
+                   Giancarlo Guizzardi},
+      title     = {What's Cracking? How Image Schema Combinations Can Model Conceptualisations
+                   of Events},
+      booktitle = {Joint Proceedings of the Workshops {C3GI:} The 7th International Workshop
+                   on Computational Creativity, Concept Invention, and General Intelligence
+                   {ISD4:} The 4th Image Schema Day, and {SCORE:} From Image Schemas
+                   to Cognitive Robotics},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {2347},
+      publisher = {CEUR-WS.org},
+      year      = {2018},
+      url       = {http://ceur-ws.org/Vol-2347/paper7.pdf},
     }
 - key: HlPe06
   type: 3
@@ -1689,6 +1732,29 @@
       volume = {8761},
       year = {2014},
     }
+- key: BoMP19
+  type: 4
+  author: Leonard Botha,  Thomas Meyer and Rafael Peñaloza
+  title: "A Bayesian Extension of the Description Logic ALC"
+  venue: "Proceedings of the 16th European Conference on Logics in Artificial Intelligence, JELIA 2019"
+  year: 2019
+  doi: 10.1007/978-3-030-19570-0\_22
+  bib: | 
+    @inproceedings{BoMP19,
+      author    = {Leonard Botha and
+                   Thomas Meyer and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {A Bayesian Extension of the Description Logic {ALC}},
+      booktitle = {Proceedings of the 16th European Conference on Logics in Artificial Intelligence, {JELIA}
+                   2019},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {11468},
+      pages     = {339--354},
+      publisher = {Springer},
+      year      = {2019},
+      url       = {https://doi.org/10.1007/978-3-030-19570-0\_22},
+      doi       = {10.1007/978-3-030-19570-0\_22},
+    }
 - key: BoPe-AFL11
   type: 4
   author: Stefan Borgwardt and Rafael Peñaloza
@@ -1966,6 +2032,32 @@
       series    = {Lecture Notes in Computer Science},
       volume    = {9310},
       publisher = {Springer},
+    }
+- key: CLOP-IJCAI19
+  type: 4
+  author: Diego Calvanese,  Davide Lanti,  Ana Ozaki,  Rafael Peñaloza and Guohui Xiao
+  title: "Enriching Ontology-based Data Access with Provenance"
+  venue: "Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019"
+  year: 2019
+  doi: 10.24963/ijcai.2019/224
+  arxiv: http://arxiv.org/abs/1906.00179
+  bib: | 
+    @inproceedings{CLOP-IJCAI19,
+      author    = {Diego Calvanese and
+                   Davide Lanti and
+                   Ana Ozaki and
+                   Rafael Pe{\~{n}}aloza and
+                   Guohui Xiao},
+      editor    = {Sarit Kraus},
+      title     = {Enriching Ontology-based Data Access with Provenance},
+      booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on
+                   Artificial Intelligence, {IJCAI} 2019},
+      pages     = {1616--1623},
+      publisher = {ijcai.org},
+      year      = {2019},
+      url       = {https://doi.org/10.24963/ijcai.2019/224},
+      doi       = {10.24963/ijcai.2019/224},
+      arxiv     = {http://arxiv.org/abs/1906.00179},
     }
 - key: CLPT17
   type: 4
@@ -2378,6 +2470,27 @@
       series    = {Lecture Notes in Computer Science},
       volume    = {10364},
       publisher = {Springer},
+    }
+- key: Pena-MDAI19
+  type: 4
+  author: Rafael Peñaloza
+  title: "Making Decisions with Knowledge Base Repairs"
+  venue: "Proceedings of the 16th International Conference on Modeling Decisions for Artificial Intelligence, MDAI 2019"
+  year: 2019
+  doi: 10.1007/978-3-030-26773-5\_23
+  bib: | 
+    @inproceedings{Pena-MDAI19,
+      author    = {Rafael Pe{\~{n}}aloza},
+      title     = {Making Decisions with Knowledge Base Repairs},
+      booktitle = {Proceedings of the 16th International Conference on 
+      		Modeling Decisions for Artificial Intelligence, {MDAI} 2019},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {11676},
+      pages     = {259--271},
+      publisher = {Springer},
+      year      = {2019},
+      url       = {https://doi.org/10.1007/978-3-030-26773-5\_23},
+      doi       = {10.1007/978-3-030-26773-5\_23},
     }
 - key: PePo-SUM16
   type: 4
@@ -2839,6 +2952,29 @@
       note = {doi: http://dx.doi.org/10.1016/j.websem.2011.11.006},
       doi = {10.1016/j.websem.2011.11.006},
     }
+- key: BBG+-AO19
+  type: 5
+  author: Alessander Botti Benevides,  Jean-Rémi Bourguet,  Giancarlo Guizzardi,  Rafael Peñaloza,  João Paulo A. Almeida
+  title: "Representing a reference foundational ontology of events in SROIQ"
+  venue: "Applied Ontology"
+  year: 2019
+  doi: 10.3233/AO-190214
+  bib: | 
+    @article{BBG+-AO19,
+      author    = {Alessander Botti Benevides and
+                   Jean{-}R{\'{e}}mi Bourguet and
+                   Giancarlo Guizzardi and
+                   Rafael Pe{\~{n}}aloza and
+                   Jo{\~{a}}o Paulo A. Almeida},
+      title     = {Representing a reference foundational ontology of events in {SROIQ}},
+      journal   = {Applied Ontology},
+      volume    = {14},
+      number    = {3},
+      pages     = {293--334},
+      year      = {2019},
+      url       = {https://doi.org/10.3233/AO-190214},
+      doi       = {10.3233/AO-190214},
+    }
 - key: BMPT-JoDS16
   type: 5
   author: Stefan Borgwardt,  Theofilos Mailis,  Rafael Peñaloza and Anni-Yasmin Turhan
@@ -3103,6 +3239,28 @@
       title = {Similarity-based Relaxed Instance Queries},
       year = {2015},
     }
+- key: HKPG-KI19
+  type: 5
+  author: Maria M. Hedblom,  Oliver Kutz,  Rafael Peñaloza and Giancarlo Guizzardi
+  title: "Image Schema Combinations and Complex Events"
+  venue: "Künstliche Intelligenz"
+  year: 2019
+  doi: 10.1007/s13218-019-00605-1
+  bib: | 
+    @article{HKPG-KI19,
+      author    = {Maria M. Hedblom and
+                   Oliver Kutz and
+                   Rafael Pe{\~{n}}aloza and
+                   Giancarlo Guizzardi},
+      title     = {Image Schema Combinations and Complex Events},
+      journal   = {K{\"{u}}nstliche Intelligenz},
+      volume    = {33},
+      number    = {3},
+      pages     = {279--291},
+      year      = {2019},
+      url       = {https://doi.org/10.1007/s13218-019-00605-1},
+      doi       = {10.1007/s13218-019-00605-1},
+    }
 - key: LePe-TCS14
   type: 5
   author: Karsten Lehmann and Rafael Peñaloza
@@ -3165,4 +3323,30 @@
       booktitle = {Handbook of Mathematical Fuzzy Logic Volume 3},
       volume = 58,
       year = 2015,
+    }
+- key: Pena-FB19
+  type: 6
+  author: Rafael Peñaloza
+  title: "Explaining Axiom Pinpointing"
+  venue: "Description Logic, Theory Combination, and All That - Essays Dedicated to Franz Baader on the Occasion of His 60th Birthday"
+  year: 2019
+  doi: 10.1007/978-3-030-22102-7\_22
+  bib: | 
+    @inproceedings{Pena-FB19,
+      author    = {Rafael Pe{\~{n}}aloza},
+      editor    = {Carsten Lutz and
+                   Uli Sattler and
+                   Cesare Tinelli and
+                   Anni{-}Yasmin Turhan and
+                   Frank Wolter},
+      title     = {Explaining Axiom Pinpointing},
+      booktitle = {Description Logic, Theory Combination, and All That - Essays Dedicated
+                   to Franz Baader on the Occasion of His 60th Birthday},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {11560},
+      pages     = {475--496},
+      publisher = {Springer},
+      year      = {2019},
+      url       = {https://doi.org/10.1007/978-3-030-22102-7\_22},
+      doi       = {10.1007/978-3-030-22102-7\_22},
     }
