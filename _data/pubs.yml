@@ -47,6 +47,51 @@
       editor = {George Metcalfe},
       pages = {13--14},
     }
+- key: Pena-CILC20
+  type: 0
+  author: Rafael Peñaloza
+  title: "Introduction to Probabilistic Ontologies (tutorial)"
+  venue: "Proceedings of the 35th Italian Conference on Computational Logic"
+  year: 2020
+  bib: | 
+    @inproceedings{Pena-CILC20,
+      author    = {Rafael Pe{\~{n}}aloza},
+      editor    = {Francesco Calimeri and
+                   Simona Perri and
+                   Ester Zumpano},
+      title     = {Introduction to Probabilistic Ontologies (tutorial)},
+      booktitle = {Proceedings of the 35th Italian Conference on Computational Logic,
+                   {CILC} 2020},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {2710},
+      pages     = {4},
+      publisher = {CEUR-WS.org},
+      year      = {2020},
+      url       = {http://ceur-ws.org/Vol-2710/abstract-invited-4.pdf},
+    }
+- key: Pena-RW20
+  type: 0
+  author: Rafael Peñaloza
+  title: "Introduction to Probabilistic Ontologies"
+  venue: "Tutorial Lectures of the 16th International Summer School on Reasoning Web (RW 20). Declarative Artificial Intelligence"
+  year: 2020
+  doi: 10.1007/978-3-030-60067-9\_1
+  bib: | 
+    @inproceedings{Pena-RW20,
+      author    = {Rafael Pe{\~{n}}aloza},
+      editor    = {Marco Manna and
+                   Andreas Pieris},
+      title     = {Introduction to Probabilistic Ontologies},
+      booktitle = {Tutorial Lectures of the 16th International Summer School on Reasoning Web ({RW} 20). 
+      		Declarative Artificial Intelligence},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {12258},
+      pages     = {1--35},
+      publisher = {Springer},
+      year      = {2020},
+      url       = {https://doi.org/10.1007/978-3-030-60067-9\_1},
+      doi       = {10.1007/978-3-030-60067-9\_1},
+    }
 - key: HKPR-KI15
   type: 1
   author: Steffen Hölldobler,  Markus Krötzsch,  Rafael Peñaloza and Sebastian Rudolph (eds.) 
@@ -667,6 +712,29 @@
       year = {2015},
       arxiv = {https://arxiv.org/abs/1509.08761},
     }
+- key: BOPP-DL20
+  type: 3
+  author: Camille Bourgaux,  Ana Ozaki,  Rafael Peñaloza and Livia Predoiu
+  title: "Provenance for the Description Logic ELHr (Extended Abstract)"
+  venue: "Proceedings of the 33rd International Workshop on Description Logics (DL 2020)"
+  year: 2020
+  bib: | 
+    @inproceedings{BOPP-DL20,
+      author    = {Camille Bourgaux and
+                   Ana Ozaki and
+                   Rafael Pe{\~{n}}aloza and
+                   Livia Predoiu},
+      editor    = {Stefan Borgwardt and
+                   Thomas Meyer},
+      title     = {Provenance for the Description Logic ELHr (Extended Abstract)},
+      booktitle = {Proceedings of the 33rd International Workshop on Description Logics
+                   {(DL} 2020)},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {2663},
+      publisher = {CEUR-WS.org},
+      year      = {2020},
+      url       = {http://ceur-ws.org/Vol-2663/abstract-6.pdf},
+    }
 - key: CeLP-DL15
   type: 3
   author: Ismail Ilkan Ceylan,  Thomas Lukasiewicz and Rafael Peñaloza
@@ -1174,6 +1242,27 @@
       volume    = {2211},
       publisher = {CEUR-WS.org},
     }
+- key: PaPe-DL20
+  type: 3
+  author: Gabriella Pasi and Rafael Peñaloza
+  title: "Query Answering in Fuzzy DL-Lite with Graded Axioms (Extended Abstract)"
+  venue: "Proceedings of the 33rd International Workshop on Description Logics (DL 2020)"
+  year: 2020
+  bib: | 
+    @inproceedings{PaPe-DL20,
+      author    = {Gabriella Pasi and
+                   Rafael Pe{\~{n}}aloza},
+      editor    = {Stefan Borgwardt and
+                   Thomas Meyer},
+      title     = {Query Answering in Fuzzy DL-Lite with Graded Axioms (Extended Abstract)},
+      booktitle = {Proceedings of the 33rd International Workshop on Description Logics
+                   {(DL} 2020)},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {2663},
+      publisher = {CEUR-WS.org},
+      year      = {2020},
+      url       = {http://ceur-ws.org/Vol-2663/abstract-20.pdf},
+    }
 - key: Pena08
   type: 3
   author: Rafael Peñaloza
@@ -1396,6 +1485,30 @@
       address = {Salt Lake City, USA},
       month = {nov},
       url = {https://cfaed.tu-dresden.de/files/user/jcastrillon/publications/1611_Voelp_PMES.pdf},
+    }
+- key: AcPe-KR20
+  type: 4
+  author: Erman Acar and Rafael Peñaloza
+  title: "Reasoning with Contextual Knowledge and Influence Diagrams"
+  venue: "Proceedings of the 17th International Conference on Principles of Knowledge Representation and Reasoning, KR 2020"
+  year: 2020
+  doi: 10.24963/kr.2020/2
+  arxiv: https://arxiv.org/abs/2007.00571
+  bib: | 
+    @inproceedings{AcPe-KR20,
+      author    = {Erman Acar and
+                   Rafael Pe{\~{n}}aloza},
+      editor    = {Diego Calvanese and
+                   Esra Erdem and
+                   Michael Thielscher},
+      title     = {Reasoning with Contextual Knowledge and Influence Diagrams},
+      booktitle = {Proceedings of the 17th International Conference on Principles of
+                   Knowledge Representation and Reasoning, {KR} 2020},
+      pages     = {12--21},
+      year      = {2020},
+      url       = {https://doi.org/10.24963/kr.2020/2},
+      doi       = {10.24963/kr.2020/2},
+      arxiv     = {https://arxiv.org/abs/2007.00571},
     }
 - key: AFPS17
   type: 4
@@ -1655,6 +1768,38 @@
       isbn      = {978-1-57735-803-9},
       arxiv = {http://arxiv.org/abs/1808.00248},
     }
+- key: BKNP-ISWC20
+  type: 4
+  author: Franz Baader,  Francesco Kriegel,  Adrian Nuradiansyah and Rafael Peñaloza
+  title: "Computing Compliant Anonymisations of Quantified ABoxes w.r.t. EL Policies"
+  venue: "Proceedings of the 19th International Semantic Web Conference (ISWC 2020), Part I"
+  year: 2020
+  doi: 10.1007/978-3-030-62419-4\_1
+  bib: | 
+    @inproceedings{BKNP-ISWC20,
+      author    = {Franz Baader and
+                   Francesco Kriegel and
+                   Adrian Nuradiansyah and
+                   Rafael Pe{\~{n}}aloza},
+      editor    = {Jeff Z. Pan and
+                   Valentina A. M. Tamma and
+                   Claudia d'Amato and
+                   Krzysztof Janowicz and
+                   Bo Fu and
+                   Axel Polleres and
+                   Oshani Seneviratne and
+                   Lalana Kagal},
+      title     = {Computing Compliant Anonymisations of Quantified ABoxes w.r.t. \emph{EL}
+                   Policies},
+      booktitle = {Proceedings of the 19th International Semantic Web Conference ({ISWC} 2020), Part {I}},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {12506},
+      pages     = {3--20},
+      publisher = {Springer},
+      year      = {2020},
+      url       = {https://doi.org/10.1007/978-3-030-62419-4\_1},
+      doi       = {10.1007/978-3-030-62419-4\_1},
+    }
 - key: BoCP-IJCAI15
   type: 4
   author: Stefan Borgwardt,  Marco Cerami and Rafael Peñaloza
@@ -1897,6 +2042,31 @@
       volume    = {10564},
       publisher = {Springer},
     }
+- key: BOPP-IJCAI20
+  type: 4
+  author: Camille Bourgaux,  Ana Ozaki,  Rafael Peñaloza and Livia Predoiu
+  title: "Provenance for the Description Logic ELHr"
+  venue: "Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, IJCAI 2020"
+  year: 2020
+  doi: 10.24963/ijcai.2020/258
+  arxiv: https://arxiv.org/abs/2001.07541
+  bib: | 
+    @inproceedings{BOPP-IJCAI20,
+      author    = {Camille Bourgaux and
+                   Ana Ozaki and
+                   Rafael Pe{\~{n}}aloza and
+                   Livia Predoiu},
+      editor    = {Christian Bessiere},
+      title     = {Provenance for the Description Logic ELHr},
+      booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on
+                   Artificial Intelligence, {IJCAI} 2020},
+      pages     = {1862--1869},
+      publisher = {ijcai.org},
+      year      = {2020},
+      url       = {https://doi.org/10.24963/ijcai.2020/258},
+      doi       = {10.24963/ijcai.2020/258},
+      arxiv     = {https://arxiv.org/abs/2001.07541},
+    }
 - key: BoPW-ICFCA14
   type: 4
   author: Daniel Borchmann,  Rafael Peñaloza and Wenqian Wang
@@ -2090,7 +2260,6 @@
   venue: "Proceedings of the 11th International Conference on Cellular Automata for Research and Industry, (ACRI 2014)"
   year: 2014
   doi: 10.1007/978-3-319-11520-7_37
-  year: 2014
   bib: | 
     @inproceedings{DHPW-ACRI14,
       author    = {Stathis Delivorias and
@@ -2109,7 +2278,6 @@
                    Georgios Ch. Sirakoulis and
                    Stefania Bandini},
       series    = {Lecture Notes in Computer Science},
-      year      = {2014},
       volume    = {8751},
       publisher = {Springer},
     }
@@ -2337,6 +2505,49 @@
       volume = {8761},
       year = {2014},
     }
+- key: MaMP-AAAI20
+  type: 4
+  author: Fabrizio Maria Maggi,  Marco Montali and Rafael Peñaloza
+  title: "Temporal Logics Over Finite Traces with Uncertainty"
+  venue: "Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence, AAAI 2020"
+  year: 2020
+  arxiv: http://arxiv.org/abs/1903.04940
+  bib: | 
+    @inproceedings{MaMP-AAAI20,
+      author    = {Fabrizio Maria Maggi and
+                   Marco Montali and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Temporal Logics Over Finite Traces with Uncertainty},
+      booktitle = {Proceedings of the Thirty-Fourth {AAAI} Conference on Artificial Intelligence, {AAAI}
+                   2020},
+      pages     = {10218--10225},
+      publisher = {{AAAI} Press},
+      year      = {2020},
+      url       = {https://aaai.org/ojs/index.php/AAAI/article/view/6583},
+      arxiv     = {http://arxiv.org/abs/1903.04940},
+    }
+- key: MaMP-CF20
+  type: 4
+  author: Fabrizio Maria Maggi,  Marco Montali and Rafael Peñaloza
+  title: "Probabilistic Conformance Checking Based on Declarative Process Models"
+  venue: "Proceedings of the Conference on Advanced Information Systems Engineering, CAiSE Forum 2020"
+  year: 2020
+  doi: 10.1007/978-3-030-58135-0\_8
+  bib: | 
+    @inproceedings{MaMP-CF20,
+      author    = {Fabrizio Maria Maggi and
+                   Marco Montali and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Probabilistic Conformance Checking Based on Declarative Process Models},
+      booktitle = {Proceedings of the Conference on Advanced Information Systems Engineering, CAiSE Forum 2020},
+      series    = {Lecture Notes in Business Information Processing},
+      volume    = {386},
+      pages     = {86--99},
+      publisher = {Springer},
+      year      = {2020},
+      url       = {https://doi.org/10.1007/978-3-030-58135-0\_8},
+      doi       = {10.1007/978-3-030-58135-0\_8},
+    }
 - key: MaPT-RR14
   type: 4
   author: Theofilos Mailis,  Rafael Peñaloza and Anni-Yasmin Turhan
@@ -2394,6 +2605,30 @@
                    Antonis C. Kakas},
       volume    = {10021},
     }
+- key: MMPA-BPM20
+  type: 4
+  author: Fabrizio Maria Maggi,  Marco Montali,  Rafael Peñaloza and Anti Alman
+  title: "Extending Temporal Business Constraints with Uncertainty"
+  venue: "Proceedings of the 18th International Conference on Business Process Management, BPM 2020"
+  year: 2020
+  doi: 10.1007/978-3-030-58666-9\_3
+  bib: | 
+    @inproceedings{MMPA-BPM20,
+      author    = {Fabrizio Maria Maggi and
+                   Marco Montali and
+                   Rafael Pe{\~{n}}aloza and
+                   Anti Alman},
+      title     = {Extending Temporal Business Constraints with Uncertainty},
+      booktitle = {Proceedings of the 18th International Conference on Business Process Management, {BPM}
+                   2020},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {12168},
+      pages     = {35--54},
+      publisher = {Springer},
+      year      = {2020},
+      url       = {https://doi.org/10.1007/978-3-030-58666-9\_3},
+      doi       = {10.1007/978-3-030-58666-9\_3},
+    }
 - key: OzPe-SUM18
   type: 4
   author: Ana Ozaki and Rafael Peñaloza
@@ -2421,6 +2656,33 @@
       publisher = {Springer},
       isbn      = {978-3-030-00460-6},
       arxiv     = {http://arxiv.org/abs/1805.10250},
+    }
+- key: PaPe-RR20
+  type: 4
+  author: Gabriella Pasi and Rafael Peñaloza
+  title: "Query Answering in Fuzzy DL-Lite with Graded Axioms"
+  venue: "Proceedings of the 4th International Joint Conference on Rules and Reasoning RuleML+RR 2020"
+  year: 2020
+  doi: 10.1007/978-3-030-57977-7\_3
+  bib: | 
+    @inproceedings{PaPe-RR20,
+      author    = {Gabriella Pasi and
+                   Rafael Pe{\~{n}}aloza},
+      editor    = {V{\'{\i}}ctor Guti{\'{e}}rrez{-}Basulto and
+                   Tom{\'{a}}s Kliegr and
+                   Ahmet Soylu and
+                   Martin Giese and
+                   Dumitru Roman},
+      title     = {Query Answering in Fuzzy DL-Lite with Graded Axioms},
+      booktitle = {Proceedings of the 4th International Joint Conference on Rules and Reasoning
+      		RuleML+RR 2020},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {12173},
+      pages     = {39--53},
+      publisher = {Springer},
+      year      = {2020},
+      url       = {https://doi.org/10.1007/978-3-030-57977-7\_3},
+      doi       = {10.1007/978-3-030-57977-7\_3},
     }
 - key: Pena10
   type: 4
@@ -2470,6 +2732,27 @@
       series    = {Lecture Notes in Computer Science},
       volume    = {10364},
       publisher = {Springer},
+    }
+- key: Pena-KR20
+  type: 4
+  author: Rafael Peñaloza
+  title: "Towards a Logic of Meta-Analysis"
+  venue: "Proceedings of the 17th International Conference on Principles of Knowledge Representation and Reasoning, KR 2020"
+  year: 2020
+  doi: 10.24963/kr.2020/68
+  bib: | 
+    @inproceedings{Pena-KR20,
+      author    = {Rafael Pe{\~{n}}aloza},
+      editor    = {Diego Calvanese and
+                   Esra Erdem and
+                   Michael Thielscher},
+      title     = {Towards a Logic of Meta-Analysis},
+      booktitle = {Proceedings of the 17th International Conference on Principles of
+                   Knowledge Representation and Reasoning, {KR} 2020},
+      pages     = {672--676},
+      year      = {2020},
+      url       = {https://doi.org/10.24963/kr.2020/68},
+      doi       = {10.24963/kr.2020/68},
     }
 - key: Pena-MDAI19
   type: 4
@@ -3033,6 +3316,26 @@
       pages     = {23--55},
       volume    = {218},
     }
+- key: BoMP-TPLP21
+  type: 5
+  title: "The Probabilistic Description Logic BALC"
+  doi: 10.1017/S1471068420000460
+  venue: "Theory and Practice of Logic Programming"
+  author: Leonard Botha,  Thomas Meyer and Rafael Peñaloza
+  year: 2021
+  arxiv: https://arxiv.org/abs/2009.13407
+  bib: | 
+    @article{BoMP-TPLP21, 
+      title={The Probabilistic Description Logic {BALC}}, 
+      doi={10.1017/S1471068420000460}, 
+      journal={Theory and Practice of Logic Programming}, 
+      publisher={Cambridge University Press}, 
+      author={Leonard Botha and Thomas Meyer and Rafael Pe{\~n}aloza}, 
+      year={2021}, 
+      pages={1–24},
+      note={to appear},
+      arxiv = {https://arxiv.org/abs/2009.13407},
+    }
 - key: BoPe-JoDS12
   type: 5
   author: Stefan Borgwardt and Rafael Peñaloza
@@ -3281,6 +3584,47 @@
       pages = {53--68},
       month = {May},
       publisher = {Elsevier},
+    }
+- key: MaPR-KI20
+  type: 5
+  author: Norbert Manthey,  Rafael Peñaloza and Sebastian Rudolph
+  title: "SATPin: Axiom Pinpointing for Lightweight Description Logics Through Incremental SAT"
+  venue: "Künstliche Intelligenz"
+  year: 2020
+  doi: 10.1007/s13218-020-00669-4
+  bib: | 
+    @article{MaPR-KI20,
+      author    = {Norbert Manthey and
+                   Rafael Pe{\~{n}}aloza and
+                   Sebastian Rudolph},
+      title     = {SATPin: Axiom Pinpointing for Lightweight Description Logics Through
+                   Incremental {SAT}},
+      journal   = {K{\"{u}}nstliche Intelligenz},
+      volume    = {34},
+      number    = {3},
+      pages     = {389--394},
+      year      = {2020},
+      url       = {https://doi.org/10.1007/s13218-020-00669-4},
+      doi       = {10.1007/s13218-020-00669-4},
+    }
+- key: Pena-KI20
+  type: 5
+  author: Rafael Peñaloza
+  title: "Error-Tolerance and Error Management in Lightweight Description Logics"
+  venue: "Künstliche Intelligenz"
+  year: 2020
+  doi: 10.1007/s13218-020-00684-5
+  bib: | 
+    @article{Pena-KI20,
+      author    = {Rafael Pe{\~{n}}aloza},
+      title     = {Error-Tolerance and Error Management in Lightweight Description Logics},
+      journal   = {K{\"{u}}nstliche Intelligenz},
+      volume    = {34},
+      number    = {4},
+      pages     = {491--500},
+      year      = {2020},
+      url       = {https://doi.org/10.1007/s13218-020-00684-5},
+      doi       = {10.1007/s13218-020-00684-5},
     }
 - key: PeSe-AIJ17
   type: 5
