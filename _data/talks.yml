@@ -1,0 +1,19 @@
+talk:
+- title: Test19
+  date: 2019/04/01
+  venue: Virtual
+tutorial:
+- title: Test21
+  date: 2021/04/13
+  venue: Virtual
+- title: Test15
+  date: 2021/01/12
+  venue: Virtual
+- title: Test24
+  date: 2021/05/12
+  venue: Virtual
+keynote:
+- title: Test17
+  date: 2017/01/01
+  venue: Virtual
+
