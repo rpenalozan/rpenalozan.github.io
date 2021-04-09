@@ -158,3 +158,38 @@
   - name: 19th EPIA Conference on Artificial Intelligence (EPIA 2019)
     url: https://epia2019.utad.pt/
     note: Knowledge Representation and Reasoning Track Chair
+
+- year: 2020
+  venues:
+  - name: 29th International Joint Conference on Artificial Intelligence (IJCAI-PRICAI'20)
+    url: https://ijcai20.org/
+    note: Senior PC Member
+  - name: 33rd International FLAIRS Conference
+  - name: 24th European Conference on Artificial Intelligence (ECAI 2020)
+  - name: 19th International Conference of the Italian Association for Artificial Intelligence (AIxIA-20)
+  - name: XIII Seminar on Ontology Research in Brazil (ONTOBRAS 20)
+  - name: 5th International Workshop on Ontology Modularity, Contextuality, and Evolution (WOMoCoE 2020)
+  - name: Workshop on Explainable Logic-based Knowledge Representation
+  - name: International Joint Conference on Rules and Reasoning RuleML+RR 2020
+  - name: 33rd International Workshop on Description Logics (DL 2020)
+  - name: 19th International Semantic Web Conference (ISWC 2020)
+  - name: 19th International Semantic Web Conference - Posters and Demos (ISWC 2020 P&D)
+  - name: 19th International Semantic Web Conference - Resources (ISWC 2020 Resources)
+  - name: 35th Italian Conference on Computational Logic (CILC 2020)
+
+- year: 2021
+  venues:
+  - name: 30th International Joint Conference on Artificial Intelligence (IJCAI'21)
+    url: https://ijcai-21.org/
+    note: Senior PC Member
+  - name: 18th International Conference on Principles of Knowledge Representation and Reasoning (KR'21) 
+    url: https://kr2021.kbsg.rwth-aachen.de/
+    note: Area Chair
+  - name: 34th International FLAIRS Conference
+  - name: 34th International Workshop on Description Logics (DL 2021)
+  - name: 17th European Conference on Logics in Artificial Intelligence (JELIA’21)
+  - name: 20th EPIA Conference on Artificial Intelligence (EPIA 2021)
+    url: http://www.appia.pt/epia2021/
+    note: Knowledge Representation and Reasoning Track Chair
+  - name: International Joint Conference on Rules and Reasoning RuleML+RR 2020
+    note: PC Chair
