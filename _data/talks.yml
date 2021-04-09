@@ -1,19 +1,26 @@
 talk:
-- title: Test19
-  date: 2019/04/01
-  venue: Virtual
-tutorial:
-- title: Test21
+- title: Semiring-based Provenance for Light-weight Description Logics 
   date: 2021/04/13
-  venue: Virtual
-- title: Test15
-  date: 2021/01/12
-  venue: Virtual
-- title: Test24
-  date: 2021/05/12
-  venue: Virtual
+  venue: QuantLA Research Seminar
+  location: Virtual
+
+tutorial:
+- title: Fuzzy Description Logics
+  date: 2017/10/05
+  venue: 11th International Conference on Scalable Uncertainty Man- agement (SUM 2017)
+  location: Granada (Spain)
+
 keynote:
-- title: Test17
-  date: 2017/01/01
-  venue: Virtual
+- title: Automata-based Reasoning in Fuzzy Description Logics
+  date: 2014/02/21
+  venue: 35th Linz Seminar on Fuzzy Set Theory
+  location: Linz (Austria)
+- title: Feeding Many Values to Light-weight Description Logics
+  date: 2015/12/11
+  venue: ManyVal 2015
+  location: Les Diablerets (Switzerland)
+- title: The Status of Fuzzy Description Logic Reasoning
+  date: 2016/11/03
+  venue: 25emes Rencontres Francophones sur la Logique Floue et ses Applications
+  location: La Rochelle (France)
 

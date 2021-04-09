@@ -13,7 +13,8 @@ permalink: /talks/
 {% for talk in talks %}
 
   <p>
-  <b>[{{ talk.date | date: "%b %d, %Y" }}]</b> <i>{{ talk.title }}</i> at {{ talk.venue }}
+  <b>[{{ talk.date | date: "%b %d, %Y" }}]</b> <i>{{ talk.title }}</i> at the {{ talk.venue }};
+	{{ talk.location }}
   </p>
 
 {% endfor %}
@@ -29,7 +30,7 @@ permalink: /talks/
 {% for talk in talks %}
 
   <p>
-  <b>[{{ talk.date | date: "%b %d, %Y" }}]</b> <i>{{ talk.title }}</i> at {{ talk.venue }}
+  <b>[{{ talk.date | date: "%b %d, %Y" }}]</b> <i>{{ talk.title }}</i> at the {{ talk.venue }}
   </p>
 
 {% endfor %}
@@ -45,7 +46,7 @@ permalink: /talks/
 {% for talk in talks %}
 
   <p>
-  <b>[{{ talk.date | date: "%b %d, %Y" }}]</b> <i>{{ talk.title }}</i> at {{ talk.venue }}
+  <b>[{{ talk.date | date: "%b %d, %Y" }}]</b> <i>{{ talk.title }}</i> at the {{ talk.venue }}
   </p>
 
 {% endfor %}
