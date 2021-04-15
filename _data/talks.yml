@@ -9,6 +9,34 @@ tutorial:
   date: 2017/10/05
   venue: 11th International Conference on Scalable Uncertainty Management (SUM 2017)
   location: Granada (Spain)
+- title: Introduction to Fuzzy Description Logics
+  venue: Department of Mathematics and Computer Science, Università della Calabria
+  location: Rende (Italy)
+  date: 2013/03/25
+  end: 2013/03/29
+- title: Introduction to Fuzzy Description Logics
+  venue: Department of Mathematics and Computer Science, Università della Calabria
+  location: Rende (Italy)
+  date: 2016/01/20
+  end: 2016/01/29
+- title: Fuzzy Logics for Knowledge Representation
+  venue: Summer School on Advances in Artificial Intelligence
+  location: Como (Italy)
+  date: 2019/09/17
+- title: Razonamiento Probabilístico con Ontologías
+  venue: International Spring School on Uncertainty in AI and Data Management (UAI@UAI)
+  location: Santiago (Chile)
+  date: 2019/11/08
+  note: In Spanish
+- title: Introduction to Probabilistic Ontologies
+  venue: 16th International Reasoning Web Summer School
+  location: Virtual [Oslo (Norway)]
+  date: 2020/06/24
+- title: Introduction to Probabilistic Ontologies
+  venue: 35th Italian Conference on Computational Logic (CILC 2020)
+  location: Virtual [Rende (Italy)]
+  date: 2020/10/15
+
 
 keynote:
 - title: Automata-based Reasoning in Fuzzy Description Logics
@@ -23,4 +51,3 @@ keynote:
   date: 2016/11/03
   venue: 25emes Rencontres Francophones sur la Logique Floue et ses Applications
   location: La Rochelle (France)
-

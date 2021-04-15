@@ -47,8 +47,11 @@ permalink: /talks/
 {% for talk in talks %}
 
   <p>
-  <b>[{{ talk.date | date: "%b %d, %Y" }}]</b> <i>{{ talk.title }}</i> at the {{ talk.venue }};
+  <b>[{{ talk.date | date: "%b %d, %Y" }}{% if talk.end %}-{{ talk.end | date: "%b %d, %Y" }}{% endif %}]</b> <i>{{ talk.title }}</i> at the {{ talk.venue }};
 	{{ talk.location }}
+	{% if talk.note %}
+		<b>({{ talk.note }})</b>
+	{% endif %}
   </p>
 
 {% endfor %}
