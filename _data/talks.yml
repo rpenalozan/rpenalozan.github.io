@@ -11,6 +11,26 @@ talk:
   venue: Seminar on Non-classical Logics, University of Barcelona
   location: Barcelona (Spain)
   date: 2012/10/15
+- title: "Fuzzy Logic: A Primer"
+  venue: Seminar at the Chair of Polymeric Microsystems, TU Dresden
+  location: Dresden (Germany)
+  date: 2015/02/15
+- title: We know more than we claim
+  venue: Lunch Seminar, Free University of Bozen-Bolzano
+  location: Bolzano (Italy)
+  date: 2017/03/02
+- title: The Context-based View on Non-standard Reasoning
+  venue: University of Manchester
+  location: Manchester (UK)
+  date: 2017/05/04
+- title: Knowledge, Meta-Knowledge, and Utilities
+  venue: University of Milano-Bicocca
+  location: Milano (Italy)
+  date: 2018/11/17
+- title: "Lean Kernels: A Bridge Between Justifications and Provenance"
+  venue: Valda Seminar
+  location: Paris (France)
+  date: 2019/07/12
 
 tutorial:
 - title: Fuzzy Description Logics
