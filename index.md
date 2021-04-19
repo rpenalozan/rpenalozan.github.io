@@ -13,4 +13,6 @@ represenation formalisms (in particular Description Logics) to handle
 meta-knowledge. I like to explore new challenges, and have worked in
 many different topics.</p>
 
+<p> My latest interest is in the representation and use of uncertainty in knowledge </p>
+
 <p> This page is currently being updated </p>
