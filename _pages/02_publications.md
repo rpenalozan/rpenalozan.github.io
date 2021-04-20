@@ -6,9 +6,10 @@ permalink: /pubs/
 
 {% assign year_grouped = site.data.pubs | sort: 'year' | group_by: 'year' %}
 
-<p>
-I have {{ site.data.pubs.size }} publications in different venues.
-</p>
+I have {{ site.data.pubs.size }} publications in different venues. Below you can find
+all relevant bibliographic information, including Bibtex, DOI, and (in some cases) a
+preprint version of the paper. Preprints for older papers (before 2015) are available
+at the [LAT Webpage](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen).
 
 <p>
 {% for group in year_grouped reversed %}
