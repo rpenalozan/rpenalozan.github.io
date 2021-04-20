@@ -3710,3 +3710,24 @@
       url       = {https://doi.org/10.1007/978-3-030-22102-7\_22},
       doi       = {10.1007/978-3-030-22102-7\_22},
     }
+- key: Pena-SSWS20
+  type: 6
+  author: Rafael Peñaloza
+  title: "Axiom Pinpointing"
+  venue: "Applications,  Practices in Ontology Design, Extraction, and Reasoning"
+  year: 2020
+  doi: 10.3233/SSW200042
+  bib: | 
+    @incollection{Pena-SSWS20,
+      author    = {Rafael Pe{\~{n}}aloza},
+      editor    = {Giuseppe Cota and Marilena Daquino and Gian Luca Pozzato},
+      title     = {Axiom Pinpointing},
+      booktitle = {Applications and Practices in Ontology Design, Extraction, and Reasoning},
+      series    = {Studies on the Semantic Web},
+      volume    = {49},
+      pages     = {162--177},
+      publisher = {IOS Press},
+      year      = {2020},
+      url       = {https://ebooks.iospress.nl/volumearticle/56013},
+      doi       = {10.3233/SSW200042},
+    }
