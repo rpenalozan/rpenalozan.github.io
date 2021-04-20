@@ -1800,6 +1800,22 @@
       url       = {https://doi.org/10.1007/978-3-030-62419-4\_1},
       doi       = {10.1007/978-3-030-62419-4\_1},
     }
+- key: BKNP-SAC2021
+  type: 4
+  author: Franz Baader,  Francesco Kriegel,  Adrian Nuradiansyah and Rafael Peñaloza
+  venue: "Proceedings of the 36th ACM/SIGAPP Symposium on Applied Computing (SAC 2021)"
+  doi: 10.1145/3412841.3441961
+  title: "Safety of Quantified ABoxes w.r.t. Singleton EL Policies"
+  year: 2021
+  bib: | 
+    @inproceedings{BKNP-SAC2021,
+          author = {Franz {Baader} and Francesco {Kriegel} and Adrian {Nuradiansyah} and Rafael {Pe{\~n}aloza}},
+          booktitle = {Proceedings of the 36th ACM/SIGAPP Symposium on Applied Computing (SAC 2021)},
+          doi = {10.1145/3412841.3441961},
+          note = {To appear.},
+          title = {{Safety of Quantified ABoxes w.r.t. Singleton $\mathcal{EL}$ Policies}},
+          year = {2021},
+    }
 - key: BoCP-IJCAI15
   type: 4
   author: Stefan Borgwardt,  Marco Cerami and Rafael Peñaloza
