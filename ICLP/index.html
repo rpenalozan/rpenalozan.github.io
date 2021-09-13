@@ -12,20 +12,8 @@
 <body>
 <pre># Editing instructions
 # The following variables need to be adapted by you:
-# JJJJ=Year in which the final papers of the proceedings were produced 
-# YYYY=Year in which the workshop took place (in most cases YYYY=JJJJ)
-# NNNN=Acronym of the Workshop 
 # DD=Day of submission of the workshop proceedings to CEUR-WS.org
-# MM=Month of submission of the workshop proceedings (MM=01,02,03,04,05,06,07,08,09,10,11,12)
-# The variable 
-# XXX=Volume number of the proceedings with CEUR-WS.org
-# shall be set by CEUR-WS.org. CEUR-WS.org shall also set the publication date.
 #
-#
-# (*) Replace title of the workshop in the title element 
-# (*) Replace title of the workshop in the heading h1 element 
-# (*) Note that the style file ceur-ws.css and the image CEUR-WS-logo.png are referring to files within
-#     the CEUR-WS.org web site; they are not part of the submission directory
 # (*) Remove lines starting with #  or &lt;pre&gt;# when preparing the file index.html
 # 
 # Some elements are tagged with a "class=CEUR..." clause. Be careful to maintain these tags!
@@ -93,7 +81,7 @@ Creative Commons License Attribution 4.0 International
 <br>
 
 <h3>
-<span class="CEURFULLTITLE">Proceedinngs of the International Conference on Logic Programming 2020 Workshops</span><br>
+<span class="CEURFULLTITLE">Proceedings of the International Conference on Logic Programming 2021 Workshops</span><br>
 co-located with the 37th International Conference on Logic Programming (<span class="CEURCOLOCATED">ICLP 2021</span>)<br>
 </h3>
 <h3><span class="CEURLOCTIME">Porto, Portugal (virtual), September 20th-21st, 2021</span>.</h3> 
@@ -129,57 +117,14 @@ co-located with the 37th International Conference on Logic Programming (<span cl
 
 <br><br><br>
 
-<pre># Instructions for Table of Contents 
-# The table of contents normally is a plain list of papers (with titles/authors).
-# The paper title should be linked to the paper URL (usually pdf).
-# You may include "session" subsections e.g. to reflect the track structure of your workshop.
-# Authors should be specified as comma-separated lists with full author names
-# (like John Smith). Avoid glue words like 'by' and 'and'. If applicable, then lookup how
-# the author is spelled out by DBLP.
-# You may also provide additional material such as preface, bibtex files, complete 
-# proceedings as a single pdf, and similar items. The additional items should be 
-# clearly separated from the paper list, preferably after the table of contents.
-# Please only tag original papers with the CEURTITLE/CEURAUTHOR scheme. Rather do not tag
-# additional material with this scheme!
-# For the time being, presentation slides should also not be tagged by CEURTITLE/CEURAUTHOR.
-#
-# CEUR-WS shall watermark PDF files in a published volume by its online CEUR-WS.org URL.
-# If there are certain PDF files like frontmatter or images that you like to exclude
-# from watermarking, then give it a name like 'xfrontmatter.pdf'. 
-#
-# For all other PDF files, use functional names like
-#   - paper1.pdf   (regular papers; start with paper1, then paper2,...)
-#   - invited1.pdf  (invited paper)
-#   - keynote1.pdf  (a variant for invited papers)
-#   - short1.pdf   (a short paper that still is a citable paper)
-#   - abstract1.pdf  (an abstract that is not supposed to be a citable paper)
-#   - preface.pdf   (a preface, usually not citable)
-# By default, all PDF files of a published volume will be watermarked by their online CEUR-WS URL.
-# You can disable this by prefixing the filename with the letter 'x', see xpreface below.
-#</pre>
-
-
 <div class="CEURTOC">
 <h2> Table of Contents </h2>
 
-<pre># Prefaces, frontmatter etc. typically have no explicit authors.
-# Note that the &lt;li id="..."&gt; attribute should have the same value as
-# the name of the file linked to, just without the filename extension.
-# This allows the table of contents entries to be linked to.
-# If a preface has explicit authors and has the nature of a paper with
-# more than 4-5 pages and a list of references, then use the CEUR tags like
-# for regular papers.
-# Please provide a summary sentence about the number of submitted and accepted papers. You can explain the peer-review
-# process in more detail in the preface pdf file. You can change the precise wording of the sentence to adapt it to
-# the context of your workshop/conference. The tags for REGULAR and SHORT papers are optional.
-# </pre>
 <ul>
 <li id="xpreface">
 <A href="xpreface.pdf">Preface</A><BR>
-Summary: There were <span class="CEURSUBMITTEDPAPERS">49</span> papers submitted for peer-review to this workshop. Out of these, 
-<span class="CEURACCEPTEDPAPERS">20</span> papers were accepted for this volume, 
-<span class="CEURACCEPTEDREGULARPAPERS">12</span> as regular papers and
-<span class="CEURACCEPTEDSHORTPAPERS">8</span> as short papers.
+Summary: five workshops co-located with ICLP 2021 joined efforts in the production of these 
+proceedings.
 </li>
 </ul>
 <BR>
@@ -200,7 +145,6 @@ Summary: There were <span class="CEURSUBMITTEDPAPERS">49</span> papers submitted
 
 
 <h3><span class="CEURSESSION"><a href="https://sites.google.com/view/causal2021/">Causal Reasoning and Explanation in Logic Programming</a></span></h3>
-<pre># The sources for the new <a href="https://www.overleaf.com/read/gwhxnqcghhdt">CEUR-ART style</A> are available via OVERLEAF and as <A HREF="http://ceur-ws.org/Vol-XXX/CEURART.zip">download ZIP</A>.</pre>
 
 <ul>
 <li id="sample-1col"><a href="sample-1col.pdf">
@@ -215,7 +159,6 @@ Summary: There were <span class="CEURSUBMITTEDPAPERS">49</span> papers submitted
 
 
 <h3><span class="CEURSESSION"><a href="https://personal.utdallas.edu/~gupta/gde21/">Goal-directed Implementations of Answer Set Programs</a></span></h3>
-<pre># The sources for the old <a href="samplestyles/">sample styles</a> are available as well.</pre>
 
 <ul>
 <li id="paper1"><a href="paper1.pdf">
@@ -243,9 +186,35 @@ Summary: There were <span class="CEURSUBMITTEDPAPERS">49</span> papers submitted
 
 <ul>
 
-<li id="paper4"><a href="paper4.pdf">
-<span class="CEURTITLE">In Medias Res</span></a><br>
-<span class="CEURAUTHOR">Anne Fo&eacute;</span>
+<li id="plpinvited1"><a href="plpinvited1.pdf">
+<span class="CEURTITLE">From Probabilistic Programming to Probabilistic Argumentation (invited paper)</span></a><br>
+<span class="CEURAUTHOR">Nico Potyka</span>
+</li>
+
+<li id="plppaper1"><a href="plppaper1.pdf">
+<span class="CEURTITLE">aspmc: An Algebraic Answer Set Counter</span></a><br>
+<span class="CEURAUTHOR">Thomas Eiter</span>,
+<span class="CEURAUTHOR">Markus Hecher</span>,
+<span class="CEURAUTHOR">Rafael Kiesel</span>
+</li>
+
+<li id="plppaper2"><a href="plppaper2.pdf">
+<span class="CEURTITLE">Modelling infectious disease dynamics with probabilistic logic programming</span></a><br>
+<span class="CEURAUTHOR">Felix Weitkämper</span>, 
+<span class="CEURAUTHOR">Beatrice Sarbu</span>,
+<span class="CEURAUTHOR">Kailin Sun</span>
+</li>
+
+<li id="plppaper3"><a href="plppaper3.pdf">
+<span class="CEURTITLE">Reasoning about Independence in Open Universe Probabilistic Logic Programs</span></a><br>
+<span class="CEURAUTHOR">Kilian Rueckschloss</span>,
+<span class="CEURAUTHOR">Felix Weitkämper</span>
+</li>
+
+<li id="plppaper4"><a href="plppaper4.pdf">
+<span class="CEURTITLE">probKanren: A Simple Probabilistic extension for microKanren</span></a><br>
+<span class="CEURAUTHOR">Robert Zinkov</span>,
+<span class="CEURAUTHOR">Willliam Byrd</span>
 </li>
 
 </ul>
