@@ -210,3 +210,21 @@
     url: https://www.ailab.unipr.it/cilc21/
   - name: 3th AAAI Conference on Artificial Intelligence Special Programs and Tracks (AAAI'21)
     url: https://aaai.org/Conferences/AAAI-21/
+  - name: 2nd Workshop on Explainable Logic-based Knowledge Representation (XLoKR 2021)
+    url: https://xlokr21.ai.vub.ac.be/
+  - name: XIV Seminar on Ontology Research in Brazil (ONTOBRAS 21)
+
+- year: 2022
+  venues:
+  - name: 21st EPIA Conference on Artificial Intelligence (EPIA 2022)
+    url: https://epia2022.inesc-id.pt/
+    note: Knowledge Representation and Reasoning Track Chair
+  - name: 37th Italian Conference on Computational Logic (CILC 2022)
+    url: https://dllcs.unibg.it/it/seminari-e-convegni/convegni-e-workshop/cilc2022
+  - name: 3rd Workshop on Explainable Logic-based Knowledge Representation (XLoKR 2022)
+  - name: 19th International Conference on Principles of Knowledge Representation and Reasoning (KR'22) 
+    url: https://kr2022.cs.tu-dortmund.de/
+    note: Area Chair
+  - name: 35th International FLAIRS Conference
+    url: https://www.flairs-35.info/
+
