@@ -1,3 +1,25 @@
+- key: MaPS-21
+  type: 0
+  author: João Marques-Silva,  Rafael Peñaloza and Uli Sattler
+  title: "Extending the Synergies Between SAT and Description Logics (Dagstuhl Seminar 21361)"
+  venue: "Dagstuhl Reports"
+  year: 2021
+  doi: 10.4230/DagRep.11.8.1
+  bib: | 
+    @article{MaPS-21,
+      author    = {Jo{\~{a}}o Marques{-}Silva and
+                   Rafael Pe{\~{n}}aloza and
+                   Uli Sattler},
+      title     = {Extending the Synergies Between {SAT} and Description Logics (Dagstuhl
+                   Seminar 21361)},
+      journal   = {Dagstuhl Reports},
+      volume    = {11},
+      number    = {8},
+      pages     = {1--10},
+      year      = {2021},
+      url       = {https://doi.org/10.4230/DagRep.11.8.1},
+      doi       = {10.4230/DagRep.11.8.1},
+    }
 - key: PenaGI09
   type: 0
   author: Rafael Peñaloza
@@ -92,6 +114,25 @@
       url       = {https://doi.org/10.1007/978-3-030-60067-9\_1},
       doi       = {10.1007/978-3-030-60067-9\_1},
     }
+- key: AIB22
+  type: 1
+  author: Camille Bourgaux,  Ana Ozaki and Rafael Peñaloza (eds.) 
+  title: "Proceedings of the International Research School in Artificial Intelligence in Bergen"
+  year: 2022
+  bib: | 
+    @proceedings{AIB22,
+      editor    = {Camille Bourgaux and
+                   Ana Ozaki and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Proceedings of the International Research School in Artificial Intelligence in Bergen,
+                   {AIB} 2022},
+      series    = {OASIcs},
+      volume    = {99},
+      publisher = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
+      year      = {2022},
+      url       = {https://www.dagstuhl.de/dagpub/978-3-95977-228-0},
+      isbn      = {978-3-95977-228-0},
+    }
 - key: HKPR-KI15
   type: 1
   author: Steffen Hölldobler,  Markus Krötzsch,  Rafael Peñaloza and Sebastian Rudolph (eds.) 
@@ -113,6 +154,33 @@
       note       = {doi: http://dx.doi.org/10.1007/978-3-319-24489-1},
       doi       = {10.1007/978-3-319-24489-1},
       isbn      = {978-3-319-24488-4},
+    }
+- key: ICLP-21
+  type: 1
+  author: Joaqu\'in Arias,  Fabio Aurelio D'Asaro,  Abeer Dyoub,  Gopal Gupta,  Markus Hecher,  Emily LeBlanc,  Rafael Peñaloza,  Elmer Salazar,  Ari Saptawijaya,  Felix Weitkämper and Jessica Zangari (eds.) 
+  title: "Proceedings of the International Conference on Logic Programming 2021 Workshops"
+  year: 2021
+  bib: | 
+    @proceedings{ICLP-21,
+      editor    = {Joaqu{\'{\i}}n Arias and
+                   Fabio Aurelio D'Asaro and
+                   Abeer Dyoub and
+                   Gopal Gupta and
+                   Markus Hecher and
+                   Emily LeBlanc and
+                   Rafael Pe{\~{n}}aloza and
+                   Elmer Salazar and
+                   Ari Saptawijaya and
+                   Felix Weitk{\"{a}}mper and
+                   Jessica Zangari},
+      title     = {Proceedings of the International Conference on Logic Programming 2021
+                   Workshops},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {2970},
+      publisher = {CEUR-WS.org},
+      year      = {2021},
+      url       = {http://ceur-ws.org/Vol-2970},
+      urn       = {urn:nbn:de:0074-2970-2},
     }
 - key: JOWO17
   type: 1
@@ -159,6 +227,54 @@
       publisher = {CEUR-WS.org},
       year      = {2018},
       url       = {http://ceur-ws.org/Vol-2050},
+    }
+- key: JOWO22
+  type: 1
+  author: Tiago Prince Sales,  Maria M. Hedblom,  He Tan,  Guendalina Righetti,  Oliver Kutz,  Martin Glauer,  Janna Hastings,  Till Mossakowski,  Fabian Neuhaus,  Luc\'ia G\'omez \'Alvarez,  Rafael Peñaloza,  Srdjan Vesic,  Claudenir Morais Fonseca,  Jona Thai,  Stefano Borgo,  Damion M. Dooley,  Rhiannon Cameron,  Lauren E. Chan,  Duccio Cavalieri,  Robert Warren,  Hande Kü\ccük-McGinty,  Matthew Lange,  Fernanda Forea,  Francesco Vitali,  Bart Gajderowicz,  Daniela Rosu,  Aldo Gangemi,  Robert Porzel,  Daniel Be\ssler,  Mihai Pomarlan,  Mohammed Diab,  Alberto Olivares Alarcos (eds.) 
+  title: "Proceedings of the Joint Ontology Workshops 2022 Episode VIII: The Svear Sommar of Ontology"
+  year: 2022
+  bib: | 
+    @proceedings{JOWO22,
+      editor    = {Tiago Prince Sales and
+                   Maria M. Hedblom and
+                   He Tan and
+                   Guendalina Righetti and
+                   Oliver Kutz and
+                   Martin Glauer and
+                   Janna Hastings and
+                   Till Mossakowski and
+                   Fabian Neuhaus and
+                   Luc{\'{\i}}a G{\'{o}}mez {\'{A}}lvarez and
+                   Rafael Pe{\~{n}}aloza and
+                   Srdjan Vesic and
+                   Claudenir Morais Fonseca and
+                   Jona Thai and
+                   Stefano Borgo and
+                   Damion M. Dooley and
+                   Rhiannon Cameron and
+                   Lauren E. Chan and
+                   Duccio Cavalieri and
+                   Robert Warren and
+                   Hande K{\"{u}}{\c{c}}{\"{u}}k{-}McGinty and
+                   Matthew Lange and
+                   Fernanda Forea and
+                   Francesco Vitali and
+                   Bart Gajderowicz and
+                   Daniela Rosu and
+                   Aldo Gangemi and
+                   Robert Porzel and
+                   Daniel Be{\ss}ler and
+                   Mihai Pomarlan and
+                   Mohammed Diab and
+                   Alberto Olivares Alarcos},
+      title     = {Proceedings of the Joint Ontology Workshops 2022 Episode {VIII:} The
+                   Svear Sommar of Ontology},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {3249},
+      publisher = {CEUR-WS.org},
+      year      = {2022},
+      url       = {http://ceur-ws.org/Vol-3249},
+      urn       = {urn:nbn:de:0074-3249-2},
     }
 - key: LePe-DL16
   type: 1
@@ -241,6 +357,28 @@
                    Rafael Pe{\~{n}}aloza},
       title     = {Proceedings of the Doctoral Consortia for the 9th and 10th International Conference on Web Reasoning and Rule Systems},
       year      = 2016,
+    }
+- key: RuleML21
+  type: 1
+  author: Sotiris Moschoyiannis,  Rafael Peñaloza,  Jan Vanthienen,  Ahmet Soylu and Dumitru Roman (eds.) 
+  title: "Proceedings of the 5th International Joint Conference on Rules and Reasoning, RuleML+RR"
+  year: 2021
+  doi: 10.1007/978-3-030-91167-6
+  bib: | 
+    @proceedings{RuleML21,
+      editor    = {Sotiris Moschoyiannis and
+                   Rafael Pe{\~{n}}aloza and
+                   Jan Vanthienen and
+                   Ahmet Soylu and
+                   Dumitru Roman},
+      title     = {Proceedings of the 5th International Joint Conference on Rules and Reasoning, RuleML+RR},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {12851},
+      publisher = {Springer},
+      year      = {2021},
+      url       = {https://doi.org/10.1007/978-3-030-91167-6},
+      doi       = {10.1007/978-3-030-91167-6},
+      isbn      = {978-3-030-91166-9},
     }
 - key: PenaITAM
   type: 2
@@ -445,6 +583,31 @@
       series    = {{CEUR} Workshop Proceedings},
       volume    = {2050},
       publisher = {CEUR-WS.org},
+    }
+- key: BKKNP21
+  type: 3
+  author: Franz Baader,  Patrick Koopmann,  Francesco Kriegel,  Adrian Nuradiansyah and Rafael Peñaloza
+  title: "Privacy-Preserving Ontology Publishing: The Case of Quantified ABoxes w.r.t. a Static Cycle-Restricted EL TBox"
+  venue: "Proceedings of the 34th International Workshop on Description Logics (DL 2021)"
+  year: 2021
+  bib: | 
+    @inproceedings{BKKNP21,
+      author    = {Franz Baader and
+                   Patrick Koopmann and
+                   Francesco Kriegel and
+                   Adrian Nuradiansyah and
+                   Rafael Pe{\~{n}}aloza},
+      editor    = {Martin Homola and
+                   Vladislav Ryzhikov and
+                   Renate A. Schmidt},
+      title     = {Privacy-Preserving Ontology Publishing: The Case of Quantified {ABoxes} w.r.t. a Static Cycle-Restricted $\mathcal{EL}$ {TBox}},
+      booktitle = {Proceedings of the 34th International Workshop on Description Logics
+                   {(DL} 2021)},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {2954},
+      publisher = {CEUR-WS.org},
+      year      = {2021},
+      url       = {http://ceur-ws.org/Vol-2954/paper-3.pdf},
     }
 - key: BKNP18
   type: 3
@@ -919,6 +1082,29 @@
       volume    = {1879},
       publisher = {CEUR-WS.org},
     }
+- key: CPY-DL21
+  type: 3
+  author: Jieying Chen,  Rafael Peñaloza and Hui Yang
+  title: "Union and Intersection of all Justifications (Extended Abstract)"
+  venue: "Proceedings of the 34th International Workshop on Description Logics (DL 2021)"
+  year: 2021
+  bib: | 
+    @inproceedings{CPY-DL21,
+      author    = {Jieying Chen and
+                   Rafael Pe{\~{n}}aloza and
+                   Hui Yang},
+      editor    = {Martin Homola and
+                   Vladislav Ryzhikov and
+                   Renate A. Schmidt},
+      title     = {Union and Intersection of all Justifications (Extended Abstract)},
+      booktitle = {Proceedings of the 34th International Workshop on Description Logics
+                   {(DL} 2021)},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {2954},
+      publisher = {CEUR-WS.org},
+      year      = {2021},
+      url       = {http://ceur-ws.org/Vol-2954/abstract-12.pdf},
+    }
 - key: CTGKPP17
   type: 3
   author: Roberto Confalonieri,  Nicolas Troquard,  Pietro Galliani,  Oliver Kutz,  Rafael Peñaloza and Daniele Porello
@@ -1312,6 +1498,27 @@
       series    = {CEUR-WS},
       volume    = 477,
     }
+- key: Pena-21
+  type: 3
+  author: Rafael Peñaloza
+  title: "An Upper Bound for Provenance in ELHr"
+  venue: "Proceedings of the 34th International Workshop on Description Logics (DL 2021)"
+  year: 2021
+  bib: | 
+    @inproceedings{Pena-21,
+      author    = {Rafael Pe{\~{n}}aloza},
+      editor    = {Martin Homola and
+                   Vladislav Ryzhikov and
+                   Renate A. Schmidt},
+      title     = {An Upper Bound for Provenance in ELHr},
+      booktitle = {Proceedings of the 34th International Workshop on Description Logics
+                   {(DL} 2021)},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {2954},
+      publisher = {CEUR-WS.org},
+      year      = {2021},
+      url       = {http://ceur-ws.org/Vol-2954/paper-25.pdf},
+    }
 - key: PeSe09
   type: 3
   author: Rafael Peñaloza and Baris Sertkaya
@@ -1410,6 +1617,30 @@
       series =	 {{CEUR-WS}},
       address =	 {Edinburgh, UK},
     }
+- key: PeTu-FCR22
+  type: 3
+  author: Rafael Peñaloza and Anni-Yasmin Turhan
+  title: "User-aware Explications of Ontology Consequences: Levelling Technicality"
+  venue: "Proceedings of the 8th Workshop on Formal and Cognitive Reasoning"
+  year: 2022
+  bib: | 
+    @inproceedings{PeTu-FCR22,
+      author    = {Rafael Pe{\~{n}}aloza and
+                   Anni{-}Yasmin Turhan},
+      editor    = {Christoph Beierle and
+                   Marco Ragni and
+                   Frieder Stolzenburg and
+                   Kai Sauerwald and
+                   Matthias Thimm},
+      title     = {User-aware Explications of Ontology Consequences: Levelling Technicality},
+      booktitle = {Proceedings of the 8th Workshop on Formal and Cognitive Reasoning},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {3242},
+      pages     = {90--101},
+      publisher = {CEUR-WS.org},
+      year      = {2022},
+      url       = {http://ceur-ws.org/Vol-3242/paper7.pdf},
+    }
 - key: PeTT-DL14
   type: 3
   author: Rafael Peñaloza,  Veronika Thost and Anni-Yasmin Turhan
@@ -1468,6 +1699,30 @@
       series    = {{CEUR} Workshop Proceedings},
       volume    = {1879},
       publisher = {CEUR-WS.org},
+    }
+- key: TPP-DAO21
+  type: 3
+  author: Paolo Tenti,  Gabriella Pasi and Rafael Peñaloza
+  title: "Complementing Language Embeddings with Knowledge Bases for Specific Domains"
+  venue: "Proceedings of the Workshop on Data meets Applied Ontologies in Explainable AI (DAO-XAI 2021)"
+  year: 2021
+  bib: | 
+    @inproceedings{TPP-DAO21,
+      author    = {Paolo Tenti and
+                   Gabriella Pasi and
+                   Rafael Pe{\~{n}}aloza},
+      editor    = {Roberto Confalonieri and
+                   Oliver Kutz and
+                   Diego Calvanese},
+      title     = {Complementing Language Embeddings with Knowledge Bases for Specific
+                   Domains},
+      booktitle = {Proceedings of the Workshop on Data meets Applied Ontologies in Explainable
+                   {AI} {(DAO-XAI} 2021)},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {2998},
+      publisher = {CEUR-WS.org},
+      year      = {2021},
+      url       = {http://ceur-ws.org/Vol-2998/paper3.pdf},
     }
 - key: TTPP-IIR21
   type: 3
