@@ -116,7 +116,7 @@
     }
 - key: JOWO17
   type: 1
-  author: Stefano Borgo,  Oliver Kutz,  Frank Loebe,  Fabian Neuhaus,  Kemo Adrian,  Mihailo Antovic,  Valerio Basile,  Martin Boeker,  Diego Calvanese,  Tommaso Caselli,  Giorgio Colombo,  Roberto Confalonieri,  Laura Daniele,  Jérôme Euzenat,  Antony Galton,  Dagmar Gromann,  Maria M. Hedblom,  Heinrich Herre,  Inge Hinterwaldner,  Andrea Janes,  Ludger Jansen,  Kris Krois,  Antonio Lieto,  Claudio Masolo,  Rafael Peñaloza,  Daniele Porello,  Daniele P. Radicioni,  Emilio M. Sanfilippo,  Daniel Schober,  Rossella Stufano,  Amanda Vizedom (eds.) 
+  author: Stefano Borgo,  Oliver Kutz,  Frank Loebe,  Fabian Neuhaus,  Kemo Adrian,  Mihailo Antovic,  Valerio Basile,  Martin Boeker,  Diego Calvanese,  Tommaso Caselli,  Giorgio Colombo,  Roberto Confalonieri,  Laura Daniele,  J\'erôme Euzenat,  Antony Galton,  Dagmar Gromann,  Maria M. Hedblom,  Heinrich Herre,  Inge Hinterwaldner,  Andrea Janes,  Ludger Jansen,  Kris Krois,  Antonio Lieto,  Claudio Masolo,  Rafael Peñaloza,  Daniele Porello,  Daniele P. Radicioni,  Emilio M. Sanfilippo,  Daniel Schober,  Rossella Stufano,  Amanda Vizedom (eds.) 
   title: "Proceedings of the Joint Ontology Workshops 2017 Episode 3: The Tyrolean Autumn of Ontology"
   year: 2018
   bib: | 
@@ -431,7 +431,7 @@
     }
 - key: BBGP-FOUST17
   type: 3
-  author: Alessander Botti Benevides,  Jean-Rémi Bourguet,  Giancarlo Guizzardi,  Rafael Peñaloza
+  author: Alessander Botti Benevides,  Jean-R\'emi Bourguet,  Giancarlo Guizzardi,  Rafael Peñaloza
   title: "Representing the UFO-B Foundational Ontology of Events in SROIQ"
   venue: "Proceedings of the Joint Ontology Workshops 2017 Episode 3: The Tyrolean Autumn of Ontology"
   year: 2017
@@ -515,7 +515,7 @@
 - key: BoCP-DL17
   type: 3
   author: Stefan Borgwardt,  Marco Cerami and Rafael Peñaloza
-  title: "Lukasiewicz Fuzzy EL is Undecidable"
+  title: "\Lukasiewicz Fuzzy EL is Undecidable"
   venue: "Proceedings of the 30th International Workshop on Description Logics (DL 2017)"
   year: 2017
   bib: | 
@@ -571,7 +571,7 @@
     }
 - key: BoLP-DL14
   type: 3
-  author: Stefan Borgwardt,  José A. Leyva Galano and Rafael Peñaloza
+  author: Stefan Borgwardt,  Jos\'e A. Leyva Galano and Rafael Peñaloza
   venue: "Proceedings of the 27th International Workshop on Description Logics (DL'14)"
   title: "Gödel FL0 with Greatest Fixed-Point Semantics"
   year: 2014
@@ -1091,7 +1091,7 @@
     }
 - key: IMMP17
   type: 3
-  author: Alexey Ignatiev,  Joao Marques-Silva,  Carlos Mencía and Rafael Peñaloza
+  author: Alexey Ignatiev,  Joao Marques-Silva,  Carlos Menc\'ia and Rafael Peñaloza
   title: "Debugging EL+ Ontologies through Horn MUS Enumeration"
   venue: "Proceedings of the 30th International Workshop on Description Logics (DL 2017)"
   year: 2017
@@ -1449,7 +1449,7 @@
     }
 - key: PMIM-DL17
   type: 3
-  author: Rafael Peñaloza,  Carlos Mencía,  Alexey Ignatiev and Joao Marques-Silva
+  author: Rafael Peñaloza,  Carlos Menc\'ia,  Alexey Ignatiev and Joao Marques-Silva
   title: "Lean Kernels in DLs"
   venue: "Proceedings of the 30th International Workshop on Description Logics (DL 2017)"
   year: 2017
@@ -1472,7 +1472,7 @@
     }
 - key: VKC+-16
   type: 3
-  author: Marcus Völp,  Sascha Klüppelholz,  Jeronimo Castrillon,  Hermann Härtig,  Nils Asmussen,  Uwe Assmann,  Franz Baader,  Christel Baier,  Gerhard Fettweis,  Jochen Fröhlich,  Andres Goens,  Sebastian Haas,  Dirk Habich,  Mattis Hasler,  Immo Huismann,  Tomas Karnagel,  Sven Karol,  Wolfgang Lehner,  Linda Leuschner,  Matthias Lieber,  Siqi Ling,  Steffen Märcker,  Johannes Mey,  Wolfgang Nagel,  Benedikt Nöthen,  Rafael Peñaloza,  Michael Raitza,  Jörg Stiller,  Annett Ungethüm and Axel Voigt
+  author: Marcus Völp,  Sascha Klüppelholz,  Jeronimo Castrillon,  Hermann H\artig,  Nils Asmussen,  Uwe Assmann,  Franz Baader,  Christel Baier,  Gerhard Fettweis,  Jochen Fröhlich,  Andres Goens,  Sebastian Haas,  Dirk Habich,  Mattis Hasler,  Immo Huismann,  Tomas Karnagel,  Sven Karol,  Wolfgang Lehner,  Linda Leuschner,  Matthias Lieber,  Siqi Ling,  Steffen M\arcker,  Johannes Mey,  Wolfgang Nagel,  Benedikt Nöthen,  Rafael Peñaloza,  Michael Raitza,  Jörg Stiller,  Annett Ungethüm and Axel Voigt
   title: "The Orchestration Stack: The Impossible Task of Designing Software for Unknown Future Post-CMOS Hardware"
   venue: "Proceedings of the 1st International Workshop on Post-Moore's Era Supercomputing (PMES)"
   year: 2016
@@ -1566,7 +1566,7 @@
     }
 - key: AMIMPM16
   type: 4
-  author: M. Fareed Arif,  Carlos Mencía,  Alexey Ignatiev,  Norbert Manthey,  Rafael Peñaloza and Joao Marques-Silva
+  author: M. Fareed Arif,  Carlos Menc\'ia,  Alexey Ignatiev,  Norbert Manthey,  Rafael Peñaloza and Joao Marques-Silva
   title: "BEACON: An Efficient SAT-Based Tool for Debugging EL+ Ontologies"
   venue: "Proceedings of the 19th International Conference on Theory and Applications of Satisfiability Testing (SAT 2016)"
   year: 2016
@@ -1812,9 +1812,63 @@
           author = {Franz {Baader} and Francesco {Kriegel} and Adrian {Nuradiansyah} and Rafael {Pe{\~n}aloza}},
           booktitle = {Proceedings of the 36th ACM/SIGAPP Symposium on Applied Computing (SAC 2021)},
           doi = {10.1145/3412841.3441961},
-          note = {To appear.},
           title = {{Safety of Quantified ABoxes w.r.t. Singleton $\mathcal{EL}$ Policies}},
           year = {2021},
+          editor    = {Chih{-}Cheng Hung and
+                   Jiman Hong and
+                   Alessio Bechini and
+                   Eunjee Song},
+          pages     = {863--872},
+          publisher = {{ACM}},
+    }
+- key: BMMP-CF21
+  type: 4
+  author: Giacomo Bergami,  Fabrizio Maria Maggi,  Marco Montali and Rafael Peñaloza
+  title: "A Tool for Computing Probabilistic Trace Alignments"
+  venue: "Proceedings of Intelligent Information Systems - CAiSE Forum 2021"
+  year: 2021
+  doi: 10.1007/978-3-030-79108-7\_14
+  bib: | 
+    @inproceedings{BMMP-CF21,
+      author    = {Giacomo Bergami and
+                   Fabrizio Maria Maggi and
+                   Marco Montali and
+                   Rafael Pe{\~{n}}aloza},
+      editor    = {Selmin Nurcan and
+                   Axel Korthaus},
+      title     = {A Tool for Computing Probabilistic Trace Alignments},
+      booktitle = {Proceedings of Intelligent Information Systems - CAiSE Forum 2021},
+      series    = {Lecture Notes in Business Information Processing},
+      volume    = {424},
+      pages     = {118--126},
+      publisher = {Springer},
+      year      = {2021},
+      url       = {https://doi.org/10.1007/978-3-030-79108-7\_14},
+      doi       = {10.1007/978-3-030-79108-7\_14},
+    }
+- key: BMMP-ICPM21
+  type: 4
+  author: Giacomo Bergami,  Fabrizio Maria Maggi,  Marco Montali and Rafael Peñaloza
+  title: "Probabilistic Trace Alignment"
+  venue: "Proceedings of the3rd International Conference on Process Mining, ICPM 2021"
+  year: 2021
+  doi: 10.1109/ICPM53251.2021.9576856
+  bib: | 
+    @inproceedings{BMMP-ICPM21,
+      author    = {Giacomo Bergami and
+                   Fabrizio Maria Maggi and
+                   Marco Montali and
+                   Rafael Pe{\~{n}}aloza},
+      editor    = {Claudio Di Ciccio and
+                   Chiara Di Francescomarino and
+                   Pnina Soffer},
+      title     = {Probabilistic Trace Alignment},
+      booktitle = {Proceedings of the3rd International Conference on Process Mining, {ICPM} 2021},
+      pages     = {9--16},
+      publisher = {{IEEE}},
+      year      = {2021},
+      url       = {https://doi.org/10.1109/ICPM53251.2021.9576856},
+      doi       = {10.1109/ICPM53251.2021.9576856},
     }
 - key: BoCP-IJCAI15
   type: 4
@@ -1876,9 +1930,9 @@
     }
 - key: BoLP-JELIA14
   type: 4
-  author: Stefan Borgwardt,  José A. Leyva Galano and Rafael Peñaloza
+  author: Stefan Borgwardt,  Jos\'e A. Leyva Galano and Rafael Peñaloza
   venue: "Proceedings of the 14th European Conference on Logics in Artificial Intelligence (JELIA'14)"
-  title: "The Fuzzy Description Logic G-FL0 with Greatest Fixed-Point Semantics"
+  title: "The Fuzzy Description Logic \textsfG-FL0 with Greatest Fixed-Point Semantics"
   year: 2014
   bib: | 
     @inproceedings{ BoLP-JELIA14,
@@ -2102,7 +2156,7 @@
     }
 - key: CaPe03
   type: 4
-  author: Osvaldo Cairó and Rafael Peñaloza
+  author: Osvaldo Cair\'o and Rafael Peñaloza
   title: "Creating a Bayesian Inference Engine for KAMET"
   venue: "Proceedings of the X Conference of the Spanish Society of Artificial Intelligence (CAEPIA'03)"
   year: 2003
@@ -2117,7 +2171,7 @@
     }
 - key: CaPe03b
   type: 4
-  author: Osvaldo Cairó and Rafael Peñaloza
+  author: Osvaldo Cair\'o and Rafael Peñaloza
   title: "Using Bayesian Networks as an Inference Engine in KAMET"
   venue: "Proceedings of the XXIII International Conference of the Chilean Computer Science Society (SCCC'03)"
   year: 2003
@@ -2268,6 +2322,37 @@
       doi       = {10.24963/ijcai.2017/131},
       editor    = {Carles Sierra},
       publisher = {ijcai.org},
+    }
+- key: CMPY-ESWC22
+  type: 4
+  author: Jieying Chen,  Yue Ma,  Rafael Peñaloza and Hui Yang
+  title: "Union and Intersection of All Justifications"
+  venue: "Proceedings of the 19th International ESWC Conference, ESWC 2022"
+  year: 2022
+  doi: 10.1007/978-3-031-06981-9\_4
+  bib: | 
+    @inproceedings{CMPY-ESWC22,
+      author    = {Jieying Chen and
+                   Yue Ma and
+                   Rafael Pe{\~{n}}aloza and
+                   Hui Yang},
+      editor    = {Paul Groth and
+                   Maria{-}Esther Vidal and
+                   Fabian M. Suchanek and
+                   Pedro A. Szekely and
+                   Pavan Kapanipathi and
+                   Catia Pesquita and
+                   Hala Skaf{-}Molli and
+                   Minna Tamper},
+      title     = {Union and Intersection of All Justifications},
+      booktitle = {Proceedings of the 19th International ESWC Conference, {ESWC} 2022},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {13261},
+      pages     = {56--73},
+      publisher = {Springer},
+      year      = {2022},
+      url       = {https://doi.org/10.1007/978-3-031-06981-9\_4},
+      doi       = {10.1007/978-3-031-06981-9\_4},
     }
 - key: DHPW-ACRI14
   type: 4
@@ -2601,7 +2686,7 @@
     }
 - key: MIMP-JELIA16
   type: 4
-  author: Joao Marques-Silva,  Alexey Ignatiev,  Carlos Mencía and Rafael Peñaloza
+  author: Joao Marques-Silva,  Alexey Ignatiev,  Carlos Menc\'ia and Rafael Peñaloza
   venue: "Proceedings of the 15th European Conference on Logics in Artificial Intelligence (JELIA'16)"
   title: "Efficient Reasoning for Inconsistent Horn Formulae"
   year: 2016
@@ -2842,6 +2927,31 @@
       publisher = {Springer},
       arxiv     = {http://arxiv.org/abs/1706.03207},
     }
+- key: PeRi-LPMR22
+  type: 4
+  author: Rafael Peñaloza and Francesco Ricca
+  title: "Pinpointing Axioms in Ontologies via ASP"
+  venue: "Proceedings of the 16th International Conference on Logic Programming and Nonmonotonic Reasoning, LPNMR 2022"
+  year: 2022
+  doi: 10.1007/978-3-031-15707-3\_24
+  bib: | 
+    @inproceedings{PeRi-LPMR22,
+      author    = {Rafael Pe{\~{n}}aloza and
+                   Francesco Ricca},
+      editor    = {Georg Gottlob and
+                   Daniela Inclezan and
+                   Marco Maratea},
+      title     = {Pinpointing Axioms in Ontologies via {ASP}},
+      booktitle = {Proceedings of the 16th International Conference on 
+    	Logic Programming and Nonmonotonic Reasoning, {LPNMR} 2022},
+      series    = {Lecture Notes in Computer Science},
+      volume    = {13416},
+      pages     = {315--321},
+      publisher = {Springer},
+      year      = {2022},
+      url       = {https://doi.org/10.1007/978-3-031-15707-3\_24},
+      doi       = {10.1007/978-3-031-15707-3\_24},
+    }
 - key: PeSe10-ECAI
   type: 4
   author: Rafael Peñaloza and Baris Sertkaya
@@ -2977,7 +3087,7 @@
     }
 - key: PMIM17
   type: 4
-  author: Rafael Peñaloza,  Carlos Mencía,  Alexey Ignatiev and Joao Marques-Silva
+  author: Rafael Peñaloza,  Carlos Menc\'ia,  Alexey Ignatiev and Joao Marques-Silva
   title: "Lean Kernels in Description Logics"
   venue: "Proceedings of the 14th International ESWC Conference, ESWC 2017, Part I"
   year: 2017
@@ -3061,6 +3171,30 @@
       editor    = {J{\'{e}}r{\^{o}}me Lang},
       publisher = {ijcai.org},
     }
+- key: SMLPL-SAER22
+  type: 4
+  author: Nyyti Saarim\aki,  Sergio Moreschini,  Francesco Lomio,  Rafael Peñaloza and Valentina Lenarduzzi
+  title: "Towards a Robust Approach to Analyze Time-Dependent Data in Software Engineering"
+  venue: "Proceedings of the IEEE International Conference on Software Analysis, Evolution and Reengineering, SANER 2022"
+  year: 2022
+  doi: 10.1109/SANER53432.2022.00015
+  bib: | 
+    @inproceedings{SMLPL-SAER22,
+      author    = {Nyyti Saarim{\"{a}}ki and
+                   Sergio Moreschini and
+                   Francesco Lomio and
+                   Rafael Pe{\~{n}}aloza and
+                   Valentina Lenarduzzi},
+      title     = {Towards a Robust Approach to Analyze Time-Dependent Data in Software
+                   Engineering},
+      booktitle = {Proceedings of the {IEEE} International Conference on Software Analysis, Evolution and
+                   Reengineering, {SANER} 2022},
+      pages     = {36--40},
+      publisher = {{IEEE}},
+      year      = {2022},
+      url       = {https://doi.org/10.1109/SANER53432.2022.00015},
+      doi       = {10.1109/SANER53432.2022.00015},
+    }
 - key: TCGP+18
   type: 4
   author: Nicolas Troquard,  Roberto Confalonieri,  Pietro Galliani,  Rafael Peñaloza,  Daniele Porello and Oliver Kutz
@@ -3130,6 +3264,27 @@
       doi       = {10.1017/S1471068415000241},
       note       = {doi: http://dx.doi.org/10.1017/S1471068415000241},
       arxiv    = {http://arxiv.org/abs/1507.03920},
+    }
+- key: AMMP-IS22
+  type: 5
+  author: Anti Alman,  Fabrizio Maria Maggi,  Marco Montali and Rafael Peñaloza
+  title: "Probabilistic declarative process mining"
+  venue: "Information Systems"
+  year: 2022
+  doi: 10.1016/j.is.2022.102033
+  bib: | 
+    @article{AMMP-IS22,
+      author    = {Anti Alman and
+                   Fabrizio Maria Maggi and
+                   Marco Montali and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Probabilistic declarative process mining},
+      journal   = {Information Systems},
+      volume    = {109},
+      pages     = {102033},
+      year      = {2022},
+      url       = {https://doi.org/10.1016/j.is.2022.102033},
+      doi       = {10.1016/j.is.2022.102033},
     }
 - key: BaBP-JPL14
   type: 5
@@ -3253,7 +3408,7 @@
     }
 - key: BBG+-AO19
   type: 5
-  author: Alessander Botti Benevides,  Jean-Rémi Bourguet,  Giancarlo Guizzardi,  Rafael Peñaloza,  João Paulo A. Almeida
+  author: Alessander Botti Benevides,  Jean-R\'emi Bourguet,  Giancarlo Guizzardi,  Rafael Peñaloza,  João Paulo A. Almeida
   title: "Representing a reference foundational ontology of events in SROIQ"
   venue: "Applied Ontology"
   year: 2019
@@ -3347,9 +3502,11 @@
       journal={Theory and Practice of Logic Programming}, 
       publisher={Cambridge University Press}, 
       author={Leonard Botha and Thomas Meyer and Rafael Pe{\~n}aloza}, 
-      year={2021}, 
-      pages={1–24},
-      note={to appear},
+      volume    = {21}, 
+      number    = {4},
+      pages     = {404--427},
+      year      = {2021},
+      url       = {https://doi.org/10.1017/S1471068420000460},
       arxiv = {https://arxiv.org/abs/2009.13407},
     }
 - key: BoPe-JoDS12
@@ -3470,7 +3627,7 @@
     }
 - key: CLea-18
   type: 5
-  author: Jerónimo Castrillón,  Matthias Lieber,  Sascha Klüppelholz,  Marcus Völp,  Nils Asmussen,  Uwe A\ssmann,  Franz Baader,  Christel Baier,  Gerhard P. Fettweis,  Jochen Fröhlich,  Andrés Goens,  Sebastian Haas,  Dirk Habich,  Hermann Härtig,  Mattis Hasler,  Immo Huismann,  Tomas Karnagel,  Sven Karol,  Akash Kumar,  Wolfgang Lehner,  Linda Leuschner,  Siqi Ling,  Steffen Märcker,  Christian Menard,  Johannes Mey,  Wolfgang E. Nagel,  Benedikt Nöthen,  Rafael Peñaloza,  Michael Raitza,  Jörg Stiller,  Annett Ungethüm,  Axel Voigt and Sascha Wunderlich
+  author: Jer\'onimo Castrill\'on,  Matthias Lieber,  Sascha Klüppelholz,  Marcus Völp,  Nils Asmussen,  Uwe A\ssmann,  Franz Baader,  Christel Baier,  Gerhard P. Fettweis,  Jochen Fröhlich,  Andr\'es Goens,  Sebastian Haas,  Dirk Habich,  Hermann H\artig,  Mattis Hasler,  Immo Huismann,  Tomas Karnagel,  Sven Karol,  Akash Kumar,  Wolfgang Lehner,  Linda Leuschner,  Siqi Ling,  Steffen M\arcker,  Christian Menard,  Johannes Mey,  Wolfgang E. Nagel,  Benedikt Nöthen,  Rafael Peñaloza,  Michael Raitza,  Jörg Stiller,  Annett Ungethüm,  Axel Voigt and Sascha Wunderlich
   title: "A Hardware/Software Stack for Heterogeneous Systems"
   venue: "IEEE Transactions on Multi-Scale Computing Systems"
   year: 2018
@@ -3623,6 +3780,23 @@
       url       = {https://doi.org/10.1007/s13218-020-00669-4},
       doi       = {10.1007/s13218-020-00669-4},
     }
+- key: PaPe-TPLP22
+  type: 5
+  title: "Answering Fuzzy Queries over Fuzzy DL-Lite Ontologies"
+  venue: "Theory and Practice of Logic Programming"
+  author: Gabriella Pasi and Rafael Peñaloza
+  year: 2022
+  bib: | 
+    @article{PaPe-TPLP22,
+      title={Answering Fuzzy Queries over Fuzzy DL-Lite Ontologies}, 
+      DOI={10.1017/S1471068421000569}, 
+      journal={Theory and Practice of Logic Programming}, 
+      publisher={Cambridge University Press}, 
+      author={Gabriella Pasi and Rafael Pe{\~{n}}aloza}, 
+      year={2022}, 
+      pages={1–30},
+      note={To appear},
+    }
 - key: Pena-KI20
   type: 5
   author: Rafael Peñaloza
@@ -3641,6 +3815,26 @@
       year      = {2020},
       url       = {https://doi.org/10.1007/s13218-020-00684-5},
       doi       = {10.1007/s13218-020-00684-5},
+    }
+- key: Pena-Al21
+  type: 5
+  author: Rafael Peñaloza
+  title: "A Brief Roadmap into Uncertain Knowledge Representation via Probabilistic Description Logics"
+  venue: "Algorithms"
+  year: 2021
+  doi: 10.3390/a14100280
+  bib: | 
+    @article{Pena-Al21,
+      author    = {Rafael Pe{\~{n}}aloza},
+      title     = {A Brief Roadmap into Uncertain Knowledge Representation via Probabilistic
+                   Description Logics},
+      journal   = {Algorithms},
+      volume    = {14},
+      number    = {10},
+      pages     = {280},
+      year      = {2021},
+      url       = {https://doi.org/10.3390/a14100280},
+      doi       = {10.3390/a14100280},
     }
 - key: PeSe-AIJ17
   type: 5
@@ -3667,7 +3861,7 @@
     }
 - key: BCE+-15
   type: 6
-  author: Fernando Bobillo,  Marco Cerami,  Francesc Esteva,  Àngel García-Cerdaña,  Rafael Peñaloza,  Umberto Straccia
+  author: Fernando Bobillo,  Marco Cerami,  Francesc Esteva,  Àngel Garc\'ia-Cerdaña,  Rafael Peñaloza,  Umberto Straccia
   title: "Fuzzy Description Logic"
   venue: "Handbook of Mathematical Fuzzy Logic Volume 3"
   year: 2015
