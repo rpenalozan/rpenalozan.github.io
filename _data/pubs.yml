@@ -3924,4 +3924,43 @@
       year      = {2020},
       url       = {https://ebooks.iospress.nl/volumearticle/56013},
       doi       = {10.3233/SSW200042},
+    }- key: ScPe-AIC21
+  type: 7
+  author: Steven Schockaert and Rafael Peñaloza
+  title: "Special issue on historical and future perspectives of AI"
+  venue: "AI Commun."
+  year: 2021
+  doi: 10.3233/AIC-229001
+  bib: | 
+    @article{ScPe-AIC21,
+      author    = {Steven Schockaert and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Special issue on historical and future perspectives of {AI}},
+      journal   = {{AI} Commun.},
+      volume    = {34},
+      number    = {3},
+      pages     = {179},
+      year      = {2021},
+      url       = {https://doi.org/10.3233/AIC-229001},
+      doi       = {10.3233/AIC-229001},
+    }
+- key: ScPe-AIC22
+  type: 7
+  author: Steven Schockaert and Rafael Peñaloza
+  title: "Highlights of AI Research in Europe"
+  venue: "AI Commun."
+  year: 2022
+  doi: 10.3233/AIC-229002
+  bib: | 
+    @article{ScPe-AIC22,
+      author    = {Steven Schockaert and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Highlights of {AI} Research in Europe},
+      journal   = {{AI} Commun.},
+      volume    = {35},
+      number    = {2},
+      pages     = {45},
+      year      = {2022},
+      url       = {https://doi.org/10.3233/AIC-229002},
+      doi       = {10.3233/AIC-229002},
     }
