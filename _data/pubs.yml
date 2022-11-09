@@ -1469,9 +1469,34 @@
       volume    = {1879},
       publisher = {CEUR-WS.org},
     }
+- key: TTPP-IIR21
+  type: 3
+  author: Paolo Tenti,  James Thomas,  Rafael Peñaloza and Gabriella Pasi
+  title: "Using an Ensemble of Features for Personalized Recommendations of Scientific Publications"
+  venue: "Proceedings of the 11th Italian Information Retrieval Workshop 2021"
+  year: 2021
+  bib: | 
+    @inproceedings{TTPP-IIR21,
+      author    = {Paolo Tenti and
+                   James Thomas and
+                   Rafael Pe{\~{n}}aloza and
+                   Gabriella Pasi},
+      editor    = {Vito Walter Anelli and
+                   Tommaso Di Noia and
+                   Nicola Ferro and
+                   Fedelucio Narducci},
+      title     = {Using an Ensemble of Features for Personalized Recommendations of
+                   Scientific Publications},
+      booktitle = {Proceedings of the 11th Italian Information Retrieval Workshop 2021},
+      series    = {{CEUR} Workshop Proceedings},
+      volume    = {2947},
+      publisher = {CEUR-WS.org},
+      year      = {2021},
+      url       = {http://ceur-ws.org/Vol-2947/paper30.pdf},
+    }
 - key: VKC+-16
   type: 3
-  author: Marcus Völp,  Sascha Klüppelholz,  Jeronimo Castrillon,  Hermann H\artig,  Nils Asmussen,  Uwe Assmann,  Franz Baader,  Christel Baier,  Gerhard Fettweis,  Jochen Fröhlich,  Andres Goens,  Sebastian Haas,  Dirk Habich,  Mattis Hasler,  Immo Huismann,  Tomas Karnagel,  Sven Karol,  Wolfgang Lehner,  Linda Leuschner,  Matthias Lieber,  Siqi Ling,  Steffen M\arcker,  Johannes Mey,  Wolfgang Nagel,  Benedikt Nöthen,  Rafael Peñaloza,  Michael Raitza,  Jörg Stiller,  Annett Ungethüm and Axel Voigt
+  author: Marcus Völp,  Sascha Klüppelholz,  Jeronimo Castrillon,  Hermann Härtig,  Nils Asmussen,  Uwe Assmann,  Franz Baader,  Christel Baier,  Gerhard Fettweis,  Jochen Fröhlich,  Andres Goens,  Sebastian Haas,  Dirk Habich,  Mattis Hasler,  Immo Huismann,  Tomas Karnagel,  Sven Karol,  Wolfgang Lehner,  Linda Leuschner,  Matthias Lieber,  Siqi Ling,  Steffen Märcker,  Johannes Mey,  Wolfgang Nagel,  Benedikt Nöthen,  Rafael Peñaloza,  Michael Raitza,  Jörg Stiller,  Annett Ungethüm and Axel Voigt
   title: "The Orchestration Stack: The Impossible Task of Designing Software for Unknown Future Post-CMOS Hardware"
   venue: "Proceedings of the 1st International Workshop on Post-Moore's Era Supercomputing (PMES)"
   year: 2016
@@ -3172,7 +3197,7 @@
     }
 - key: SMLPL-SAER22
   type: 4
-  author: Nyyti Saarim\aki,  Sergio Moreschini,  Francesco Lomio,  Rafael Peñaloza and Valentina Lenarduzzi
+  author: Nyyti Saarimäki,  Sergio Moreschini,  Francesco Lomio,  Rafael Peñaloza and Valentina Lenarduzzi
   title: "Towards a Robust Approach to Analyze Time-Dependent Data in Software Engineering"
   venue: "Proceedings of the IEEE International Conference on Software Analysis, Evolution and Reengineering, SANER 2022"
   year: 2022
@@ -3626,7 +3651,7 @@
     }
 - key: CLea-18
   type: 5
-  author: Jer\'onimo Castrill\'on,  Matthias Lieber,  Sascha Klüppelholz,  Marcus Völp,  Nils Asmussen,  Uwe A\ssmann,  Franz Baader,  Christel Baier,  Gerhard P. Fettweis,  Jochen Fröhlich,  Andr\'es Goens,  Sebastian Haas,  Dirk Habich,  Hermann H\artig,  Mattis Hasler,  Immo Huismann,  Tomas Karnagel,  Sven Karol,  Akash Kumar,  Wolfgang Lehner,  Linda Leuschner,  Siqi Ling,  Steffen M\arcker,  Christian Menard,  Johannes Mey,  Wolfgang E. Nagel,  Benedikt Nöthen,  Rafael Peñaloza,  Michael Raitza,  Jörg Stiller,  Annett Ungethüm,  Axel Voigt and Sascha Wunderlich
+  author: Jer\'onimo Castrill\'on,  Matthias Lieber,  Sascha Klüppelholz,  Marcus Völp,  Nils Asmussen,  Uwe A\ssmann,  Franz Baader,  Christel Baier,  Gerhard P. Fettweis,  Jochen Fröhlich,  Andr\'es Goens,  Sebastian Haas,  Dirk Habich,  Hermann Härtig,  Mattis Hasler,  Immo Huismann,  Tomas Karnagel,  Sven Karol,  Akash Kumar,  Wolfgang Lehner,  Linda Leuschner,  Siqi Ling,  Steffen Märcker,  Christian Menard,  Johannes Mey,  Wolfgang E. Nagel,  Benedikt Nöthen,  Rafael Peñaloza,  Michael Raitza,  Jörg Stiller,  Annett Ungethüm,  Axel Voigt and Sascha Wunderlich
   title: "A Hardware/Software Stack for Heterogeneous Systems"
   venue: "IEEE Transactions on Multi-Scale Computing Systems"
   year: 2018
