@@ -208,7 +208,7 @@
     url: https://iswc2021.semanticweb.org/
   - name: 36th Italian Conference on Computational Logic (CILC 2021)
     url: https://www.ailab.unipr.it/cilc21/
-  - name: 3th AAAI Conference on Artificial Intelligence Special Programs and Tracks (AAAI'21)
+  - name: 35th AAAI Conference on Artificial Intelligence Special Programs and Tracks (AAAI'21)
     url: https://aaai.org/Conferences/AAAI-21/
   - name: 2nd Workshop on Explainable Logic-based Knowledge Representation (XLoKR 2021)
     url: https://xlokr21.ai.vub.ac.be/
@@ -252,4 +252,18 @@
   - name: First Research School in Artificial Intelligence (AIB 2022)
     url: https://researchschool.w.uib.no/
     note: Programme Chair
+
+- year: 2023
+  venues:
+  - name: 20th Extended Semantic Web Conference (ESWC 2023)
+    url: https://2023.eswc-conferences.org/
+  - name: 14th International Conference on Computational Creativity (ICCC'23)
+    url: http://computationalcreativity.net/iccc23/
+  - name: 20th International Conference on Principles of Knowledge Representation and Reasoning (KR'23) 
+    url: https://kr.org/KR2023/
+    note: Area Chair
+  - name: 37th AAAI Conference on Artificial Intelligence (AAAI'23)
+    url: https://aaai.org/Conferences/AAAI-23/
+    note: Senior PC Member
+
 
