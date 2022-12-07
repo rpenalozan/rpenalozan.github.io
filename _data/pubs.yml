@@ -184,7 +184,7 @@
     }
 - key: JOWO17
   type: 1
-  author: Stefano Borgo,  Oliver Kutz,  Frank Loebe,  Fabian Neuhaus,  Kemo Adrian,  Mihailo Antovic,  Valerio Basile,  Martin Boeker,  Diego Calvanese,  Tommaso Caselli,  Giorgio Colombo,  Roberto Confalonieri,  Laura Daniele,  J\'erôme Euzenat,  Antony Galton,  Dagmar Gromann,  Maria M. Hedblom,  Heinrich Herre,  Inge Hinterwaldner,  Andrea Janes,  Ludger Jansen,  Kris Krois,  Antonio Lieto,  Claudio Masolo,  Rafael Peñaloza,  Daniele Porello,  Daniele P. Radicioni,  Emilio M. Sanfilippo,  Daniel Schober,  Rossella Stufano,  Amanda Vizedom (eds.) 
+  author: Stefano Borgo,  Oliver Kutz,  Frank Loebe,  Fabian Neuhaus,  Kemo Adrian,  Mihailo Antovic,  Valerio Basile,  Martin Boeker,  Diego Calvanese,  Tommaso Caselli,  Giorgio Colombo,  Roberto Confalonieri,  Laura Daniele,  Jérôme Euzenat,  Antony Galton,  Dagmar Gromann,  Maria M. Hedblom,  Heinrich Herre,  Inge Hinterwaldner,  Andrea Janes,  Ludger Jansen,  Kris Krois,  Antonio Lieto,  Claudio Masolo,  Rafael Peñaloza,  Daniele Porello,  Daniele P. Radicioni,  Emilio M. Sanfilippo,  Daniel Schober,  Rossella Stufano,  Amanda Vizedom (eds.) 
   title: "Proceedings of the Joint Ontology Workshops 2017 Episode 3: The Tyrolean Autumn of Ontology"
   year: 2018
   bib: | 
@@ -568,7 +568,7 @@
     }
 - key: BBGP-FOUST17
   type: 3
-  author: Alessander Botti Benevides,  Jean-R\'emi Bourguet,  Giancarlo Guizzardi,  Rafael Peñaloza
+  author: Alessander Botti Benevides,  Jean-Rémi Bourguet,  Giancarlo Guizzardi,  Rafael Peñaloza
   title: "Representing the UFO-B Foundational Ontology of Events in SROIQ"
   venue: "Proceedings of the Joint Ontology Workshops 2017 Episode 3: The Tyrolean Autumn of Ontology"
   year: 2017
@@ -733,7 +733,7 @@
     }
 - key: BoLP-DL14
   type: 3
-  author: Stefan Borgwardt,  Jos\'e A. Leyva Galano and Rafael Peñaloza
+  author: Stefan Borgwardt,  José A. Leyva Galano and Rafael Peñaloza
   venue: "Proceedings of the 27th International Workshop on Description Logics (DL'14)"
   title: "Gödel FL0 with Greatest Fixed-Point Semantics"
   year: 2014
@@ -2209,7 +2209,7 @@
     }
 - key: BoLP-JELIA14
   type: 4
-  author: Stefan Borgwardt,  Jos\'e A. Leyva Galano and Rafael Peñaloza
+  author: Stefan Borgwardt,  José A. Leyva Galano and Rafael Peñaloza
   venue: "Proceedings of the 14th European Conference on Logics in Artificial Intelligence (JELIA'14)"
   title: "The Fuzzy Description Logic \textsfG-FL0 with Greatest Fixed-Point Semantics"
   year: 2014
@@ -3687,7 +3687,7 @@
     }
 - key: BBG+-AO19
   type: 5
-  author: Alessander Botti Benevides,  Jean-R\'emi Bourguet,  Giancarlo Guizzardi,  Rafael Peñaloza,  João Paulo A. Almeida
+  author: Alessander Botti Benevides,  Jean-Rémi Bourguet,  Giancarlo Guizzardi,  Rafael Peñaloza,  João Paulo A. Almeida
   title: "Representing a reference foundational ontology of events in SROIQ"
   venue: "Applied Ontology"
   year: 2019
@@ -3906,7 +3906,7 @@
     }
 - key: CLea-18
   type: 5
-  author: Jerónimo Castrillón,  Matthias Lieber,  Sascha Klüppelholz,  Marcus Völp,  Nils Asmussen,  Uwe Aßmann,  Franz Baader,  Christel Baier,  Gerhard P. Fettweis,  Jochen Fröhlich,  Andr\'es Goens,  Sebastian Haas,  Dirk Habich,  Hermann Härtig,  Mattis Hasler,  Immo Huismann,  Tomas Karnagel,  Sven Karol,  Akash Kumar,  Wolfgang Lehner,  Linda Leuschner,  Siqi Ling,  Steffen Märcker,  Christian Menard,  Johannes Mey,  Wolfgang E. Nagel,  Benedikt Nöthen,  Rafael Peñaloza,  Michael Raitza,  Jörg Stiller,  Annett Ungethüm,  Axel Voigt and Sascha Wunderlich
+  author: Jerónimo Castrillón,  Matthias Lieber,  Sascha Klüppelholz,  Marcus Völp,  Nils Asmussen,  Uwe Aßmann,  Franz Baader,  Christel Baier,  Gerhard P. Fettweis,  Jochen Fröhlich,  Andrés Goens,  Sebastian Haas,  Dirk Habich,  Hermann Härtig,  Mattis Hasler,  Immo Huismann,  Tomas Karnagel,  Sven Karol,  Akash Kumar,  Wolfgang Lehner,  Linda Leuschner,  Siqi Ling,  Steffen Märcker,  Christian Menard,  Johannes Mey,  Wolfgang E. Nagel,  Benedikt Nöthen,  Rafael Peñaloza,  Michael Raitza,  Jörg Stiller,  Annett Ungethüm,  Axel Voigt and Sascha Wunderlich
   title: "A Hardware/Software Stack for Heterogeneous Systems"
   venue: "IEEE Transactions on Multi-Scale Computing Systems"
   year: 2018
