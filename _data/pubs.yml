@@ -157,7 +157,7 @@
     }
 - key: ICLP-21
   type: 1
-  author: Joaqu\'in Arias,  Fabio Aurelio D'Asaro,  Abeer Dyoub,  Gopal Gupta,  Markus Hecher,  Emily LeBlanc,  Rafael Peñaloza,  Elmer Salazar,  Ari Saptawijaya,  Felix Weitkämper and Jessica Zangari (eds.) 
+  author: Joaquín Arias,  Fabio Aurelio D'Asaro,  Abeer Dyoub,  Gopal Gupta,  Markus Hecher,  Emily LeBlanc,  Rafael Peñaloza,  Elmer Salazar,  Ari Saptawijaya,  Felix Weitkämper and Jessica Zangari (eds.) 
   title: "Proceedings of the International Conference on Logic Programming 2021 Workshops"
   year: 2021
   bib: | 
@@ -230,7 +230,7 @@
     }
 - key: JOWO22
   type: 1
-  author: Tiago Prince Sales,  Maria M. Hedblom,  He Tan,  Guendalina Righetti,  Oliver Kutz,  Martin Glauer,  Janna Hastings,  Till Mossakowski,  Fabian Neuhaus,  Luc\'ia G\'omez \'Alvarez,  Rafael Peñaloza,  Srdjan Vesic,  Claudenir Morais Fonseca,  Jona Thai,  Stefano Borgo,  Damion M. Dooley,  Rhiannon Cameron,  Lauren E. Chan,  Duccio Cavalieri,  Robert Warren,  Hande Kü\ccük-McGinty,  Matthew Lange,  Fernanda Forea,  Francesco Vitali,  Bart Gajderowicz,  Daniela Rosu,  Aldo Gangemi,  Robert Porzel,  Daniel Be\ssler,  Mihai Pomarlan,  Mohammed Diab,  Alberto Olivares Alarcos (eds.) 
+  author: Tiago Prince Sales,  Maria M. Hedblom,  He Tan,  Guendalina Righetti,  Oliver Kutz,  Martin Glauer,  Janna Hastings,  Till Mossakowski,  Fabian Neuhaus,  Lucía Gómez Álvarez,  Rafael Peñaloza,  Srdjan Vesic,  Claudenir Morais Fonseca,  Jona Thai,  Stefano Borgo,  Damion M. Dooley,  Rhiannon Cameron,  Lauren E. Chan,  Duccio Cavalieri,  Robert Warren,  Hande Kü\ccük-McGinty,  Matthew Lange,  Fernanda Forea,  Francesco Vitali,  Bart Gajderowicz,  Daniela Rosu,  Aldo Gangemi,  Robert Porzel,  Daniel Beßler,  Mihai Pomarlan,  Mohammed Diab,  Alberto Olivares Alarcos (eds.) 
   title: "Proceedings of the Joint Ontology Workshops 2022 Episode VIII: The Svear Sommar of Ontology"
   year: 2022
   bib: | 
@@ -1276,7 +1276,7 @@
     }
 - key: IMMP17
   type: 3
-  author: Alexey Ignatiev,  Joao Marques-Silva,  Carlos Menc\'ia and Rafael Peñaloza
+  author: Alexey Ignatiev,  Joao Marques-Silva,  Carlos Mencía and Rafael Peñaloza
   title: "Debugging EL+ Ontologies through Horn MUS Enumeration"
   venue: "Proceedings of the 30th International Workshop on Description Logics (DL 2017)"
   year: 2017
@@ -1679,7 +1679,7 @@
     }
 - key: PMIM-DL17
   type: 3
-  author: Rafael Peñaloza,  Carlos Menc\'ia,  Alexey Ignatiev and Joao Marques-Silva
+  author: Rafael Peñaloza,  Carlos Mencía,  Alexey Ignatiev and Joao Marques-Silva
   title: "Lean Kernels in DLs"
   venue: "Proceedings of the 30th International Workshop on Description Logics (DL 2017)"
   year: 2017
@@ -1845,7 +1845,7 @@
     }
 - key: AMIMPM16
   type: 4
-  author: M. Fareed Arif,  Carlos Menc\'ia,  Alexey Ignatiev,  Norbert Manthey,  Rafael Peñaloza and Joao Marques-Silva
+  author: M. Fareed Arif,  Carlos Mencía,  Alexey Ignatiev,  Norbert Manthey,  Rafael Peñaloza and Joao Marques-Silva
   title: "BEACON: An Efficient SAT-Based Tool for Debugging EL+ Ontologies"
   venue: "Proceedings of the 19th International Conference on Theory and Applications of Satisfiability Testing (SAT 2016)"
   year: 2016
@@ -2435,7 +2435,7 @@
     }
 - key: CaPe03
   type: 4
-  author: Osvaldo Cair\'o and Rafael Peñaloza
+  author: Osvaldo Cairó and Rafael Peñaloza
   title: "Creating a Bayesian Inference Engine for KAMET"
   venue: "Proceedings of the X Conference of the Spanish Society of Artificial Intelligence (CAEPIA'03)"
   year: 2003
@@ -2450,7 +2450,7 @@
     }
 - key: CaPe03b
   type: 4
-  author: Osvaldo Cair\'o and Rafael Peñaloza
+  author: Osvaldo Cairó and Rafael Peñaloza
   title: "Using Bayesian Networks as an Inference Engine in KAMET"
   venue: "Proceedings of the XXIII International Conference of the Chilean Computer Science Society (SCCC'03)"
   year: 2003
@@ -2965,7 +2965,7 @@
     }
 - key: MIMP-JELIA16
   type: 4
-  author: Joao Marques-Silva,  Alexey Ignatiev,  Carlos Menc\'ia and Rafael Peñaloza
+  author: Joao Marques-Silva,  Alexey Ignatiev,  Carlos Mencía and Rafael Peñaloza
   venue: "Proceedings of the 15th European Conference on Logics in Artificial Intelligence (JELIA'16)"
   title: "Efficient Reasoning for Inconsistent Horn Formulae"
   year: 2016
@@ -3366,7 +3366,7 @@
     }
 - key: PMIM17
   type: 4
-  author: Rafael Peñaloza,  Carlos Menc\'ia,  Alexey Ignatiev and Joao Marques-Silva
+  author: Rafael Peñaloza,  Carlos Mencía,  Alexey Ignatiev and Joao Marques-Silva
   title: "Lean Kernels in Description Logics"
   venue: "Proceedings of the 14th International ESWC Conference, ESWC 2017, Part I"
   year: 2017
@@ -3906,7 +3906,7 @@
     }
 - key: CLea-18
   type: 5
-  author: Jer\'onimo Castrill\'on,  Matthias Lieber,  Sascha Klüppelholz,  Marcus Völp,  Nils Asmussen,  Uwe A\ssmann,  Franz Baader,  Christel Baier,  Gerhard P. Fettweis,  Jochen Fröhlich,  Andr\'es Goens,  Sebastian Haas,  Dirk Habich,  Hermann Härtig,  Mattis Hasler,  Immo Huismann,  Tomas Karnagel,  Sven Karol,  Akash Kumar,  Wolfgang Lehner,  Linda Leuschner,  Siqi Ling,  Steffen Märcker,  Christian Menard,  Johannes Mey,  Wolfgang E. Nagel,  Benedikt Nöthen,  Rafael Peñaloza,  Michael Raitza,  Jörg Stiller,  Annett Ungethüm,  Axel Voigt and Sascha Wunderlich
+  author: Jerónimo Castrillón,  Matthias Lieber,  Sascha Klüppelholz,  Marcus Völp,  Nils Asmussen,  Uwe Aßmann,  Franz Baader,  Christel Baier,  Gerhard P. Fettweis,  Jochen Fröhlich,  Andr\'es Goens,  Sebastian Haas,  Dirk Habich,  Hermann Härtig,  Mattis Hasler,  Immo Huismann,  Tomas Karnagel,  Sven Karol,  Akash Kumar,  Wolfgang Lehner,  Linda Leuschner,  Siqi Ling,  Steffen Märcker,  Christian Menard,  Johannes Mey,  Wolfgang E. Nagel,  Benedikt Nöthen,  Rafael Peñaloza,  Michael Raitza,  Jörg Stiller,  Annett Ungethüm,  Axel Voigt and Sascha Wunderlich
   title: "A Hardware/Software Stack for Heterogeneous Systems"
   venue: "IEEE Transactions on Multi-Scale Computing Systems"
   year: 2018
@@ -4140,7 +4140,7 @@
     }
 - key: BCE+-15
   type: 6
-  author: Fernando Bobillo,  Marco Cerami,  Francesc Esteva,  Àngel Garc\'ia-Cerdaña,  Rafael Peñaloza,  Umberto Straccia
+  author: Fernando Bobillo,  Marco Cerami,  Francesc Esteva,  Àngel García-Cerdaña,  Rafael Peñaloza,  Umberto Straccia
   title: "Fuzzy Description Logic"
   venue: "Handbook of Mathematical Fuzzy Logic Volume 3"
   year: 2015
