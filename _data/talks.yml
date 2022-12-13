@@ -31,6 +31,10 @@ talk:
   venue: Valda Seminar
   location: Paris (France)
   date: 2019/07/12
+- title: "Rappresentazione della conoscenza: cos'è e a cosa serve?"
+  venue: University of Milano-Bicocca
+  location: Milano (Italy)
+  date: 2022/12/12
 
 tutorial:
 - title: Fuzzy Description Logics
