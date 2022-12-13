@@ -35,6 +35,9 @@ permalink: /talks/
 	{% if talk.url %}
 	<a href="{{ talk.url }}">Recording</a>
 	{% endif %}
+	{% if talk.note %}
+		<b>({{ talk.note }})</b>
+	{% endif %}
   </p>
 
 {% endfor %}
