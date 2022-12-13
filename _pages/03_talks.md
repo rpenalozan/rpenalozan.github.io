@@ -32,9 +32,9 @@ permalink: /talks/
   <p>
   <b>[{{ talk.date | date: "%b %d, %Y" }}]</b> <i>{{ talk.title }}</i> at the {{ talk.venue }};
 	{{ talk.location }}
-	{% if talk.url *}
-	<a href="{{talk.url}}">Recording</a>
-	{* endif %}
+	{% if talk.url %}
+	<a href="{{ talk.url }}">Recording</a>
+	{% endif %}
   </p>
 
 {% endfor %}
