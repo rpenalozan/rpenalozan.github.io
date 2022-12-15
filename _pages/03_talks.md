@@ -56,7 +56,7 @@ permalink: /talks/
   <b>[{{ talk.date | date: "%b %d, %Y" }}{% if talk.end %}-{{ talk.end | date: "%b %d, %Y" }}{% endif %}]</b> <i>{{ talk.title }}</i> at the {{ talk.venue }};
 	{{ talk.location }}
 	{% if talk.note %}
-		<b>({{ talk.note }})</b>
+		|&nbsp;<b>({{ talk.note }})</b>
 	{% endif %}
   </p>
 
