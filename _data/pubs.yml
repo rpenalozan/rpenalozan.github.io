@@ -4203,7 +4203,8 @@
       year      = {2020},
       url       = {https://ebooks.iospress.nl/volumearticle/56013},
       doi       = {10.3233/SSW200042},
-    }- key: ScPe-AIC21
+    }
+- key: ScPe-AIC21
   type: 7
   author: Steven Schockaert and Rafael Peñaloza
   title: "Special issue on historical and future perspectives of AI"
