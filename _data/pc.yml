@@ -252,6 +252,9 @@
   - name: First Research School in Artificial Intelligence (AIB 2022)
     url: https://researchschool.w.uib.no/
     note: Programme Chair
+  - name: First Workshop on Formal Models of Knowledge Diversity (FMKD)
+    url: https://sites.google.com/unimib.it/fmkd/
+    note: PC Chair
 
 - year: 2023
   venues:
@@ -275,4 +278,12 @@
     url: https://jelia2023.inf.tu-dresden.de/
   - name: 14th International Conference on Computational Creativity (ICCC'23)
     url: https://computationalcreativity.net/iccc23/
+  - name: The 2nd International Workshop on Knowledge Representation for Hybrid Intelligence (KR4HI) 
+    url: https://sites.google.com/view/kr4hi-2023/
+    note: PC Chair
+  - name: The 2nd International Workshop on Knowledge Diversity (KoDis 2023)
+    url: https://kodis23.wordpress.com/
+    note: PC Chair
+  - name: 4th Workshop on Explainable Logic-based Knowledge Representation (XLoKR 2023)
+    url: https://sites.google.com/view/xlokr2023
 
