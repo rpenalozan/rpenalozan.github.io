@@ -7,7 +7,8 @@ permalink: /research/
 <h3>Projects</h3>
 
 I am the vice-coordinator of the <b>PRIN</b> project <b>PINPOINT</b>, a joint project between
-Bolzano, Milano, Rome, and Cosenza.
+the universities of
+Bolzano, Milano-Bicocca, Rome, and Cosenza.
 
 <h3>PC Memberships</h3>
 
