@@ -4,6 +4,8 @@ permalink: /news/
 exclude: true
 ---
 
+<h1> News </h1>
+
 {% assign news = site.data.news | sort: 'date' %}
 
 <p>
