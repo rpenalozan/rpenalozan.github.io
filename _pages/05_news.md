@@ -2,6 +2,7 @@
 layout: page
 title: News
 permalink: /news/
+exclude: true
 ---
 
 {% assign news = site.data.news | sort: 'date' | group_by: 'year' %}
