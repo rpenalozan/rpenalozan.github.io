@@ -17,7 +17,7 @@ many different topics.</p>
 
 <p> This page is constantly being updated </p>
 
-<p> <b>News</b>
+<p> <b>News</b> <br />
 {% assign news = site.data.news | sort: 'date' %}
 {% for new in news reversed limit:3 %}
   <b>[{{ new.date }}]</b> {{ new.news }}
@@ -25,4 +25,6 @@ many different topics.</p>
   (<a href="{{ new.url }}">{{ new.url }}</a>)
   {% endif %}
 {% endfor %}
+<br />
+<a href="/news/">Older news</a>
 </p>
