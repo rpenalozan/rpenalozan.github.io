@@ -4,10 +4,11 @@ permalink: /news/
 exclude: true
 ---
 
-{% assign news = site.data.news | sort: 'date' | group_by: 'year' %}
+{% assign news = site.data.news | sort: 'date' %}
 
-<p>
+<p>X
 {% for new in news reversed %}
-  <b>[{{ new.date }}]</b>{{ new.news }}
+  a <b>[{{ new.date }}]</b>{{ new.news }} c
 {% endfor %}
+Y
 </p>

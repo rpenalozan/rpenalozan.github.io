@@ -16,3 +16,7 @@ many different topics.</p>
 <p> My latest interest is in the representation and use of uncertainty in knowledge </p>
 
 <p> This page is constantly being updated </p>
+
+<p> <b>News</b>
+<ol>
+</p>
