@@ -14,5 +14,6 @@ exclude: true
   {% if new.url %}
   (<a href="{{ new.url }}">{{ new.url }}</a>)
   {% endif %}
+  <br />
 {% endfor %}
 </p>
