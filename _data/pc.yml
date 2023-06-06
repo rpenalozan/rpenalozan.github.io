@@ -295,3 +295,8 @@
   - name: Formal Ontology in Information Systems Conference for 2023 (FOIS 2023)
     url: https://fois2023.griis.ca/
 
+- year: 2024
+  venues:
+  - name: 38th AAAI Conference on Artificial Intelligence (AAAI'24)
+    url: https://aaai.org/Conferences/AAAI-24/
+    note: Senior PC Member
