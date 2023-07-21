@@ -4064,7 +4064,7 @@
   title: "Answering Fuzzy Queries over Fuzzy DL-Lite Ontologies"
   venue: "Theory and Practice of Logic Programming"
   author: Gabriella Pasi and Rafael Peñaloza
-  year: 2022
+  year: 2023
   bib: | 
     @article{PaPe-TPLP22,
       title={Answering Fuzzy Queries over Fuzzy DL-Lite Ontologies}, 
@@ -4072,9 +4072,10 @@
       journal={Theory and Practice of Logic Programming}, 
       publisher={Cambridge University Press}, 
       author={Gabriella Pasi and Rafael Pe{\~{n}}aloza}, 
-      year={2022}, 
-      pages={1–30},
-      note={To appear},
+      year={2023}, 
+      pages={594--623},
+      volume = 23,
+      number = 3,
     }
 - key: Pena-KI20
   type: 5
@@ -4137,6 +4138,21 @@
       author = "Rafael Pe{\~n}aloza and Bar\i{}\c{s} Sertkaya",
       month = {September},
       publisher = {Elsevier},
+    }
+- key: PMRG+23
+  type: 5
+  author: Piscioneri, Antonella,  Morelli, Sabrina,  Ritacco, Tiziana,  Giocondo, Michele,  Peñaloza, Rafael,  Drioli, Enrico and De Bartolo, Loredana
+  year: 2023
+  venue: "Colloids and Surfaces B: Biointerfaces"
+  bib: | 
+    @article{PMRG+23,
+    	author = {Piscioneri, Antonella and Morelli, Sabrina and Ritacco, Tiziana and Giocondo, Michele and Pe{\~n}aloza, Rafael and Drioli, Enrico and De Bartolo, Loredana},
+    	title = {Topographical cues of PLGA membranes modulate the behavior of hMSCs, myoblasts and neuronal cells},
+    	year = {2023},
+    	volume = {222},
+    	doi = {10.1016/j.colsurfb.2022.113070},
+    	journal = {Colloids and Surfaces B: Biointerfaces},	
+    	pages = {113070},
     }
 - key: BCE+-15
   type: 6
