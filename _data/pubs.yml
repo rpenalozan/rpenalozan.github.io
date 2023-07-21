@@ -349,7 +349,7 @@
 - key: MoPe-RRDC16
   type: 1
   author: Marco Montali and Rafael Peñaloza (eds.) 
-  title: "Proceedings of the Doctoral Consortia for the 9th,  10th International Conference on Web Reasoning and Rule Systems"
+  title: "Proceedings of the Doctoral Consortia for the 9th and 10th International Conference on Web Reasoning and Rule Systems"
   year: 2016
   bib: | 
     @proceedings{MoPe-RRDC16,
@@ -1109,7 +1109,7 @@
   type: 3
   author: Roberto Confalonieri,  Nicolas Troquard,  Pietro Galliani,  Oliver Kutz,  Rafael Peñaloza and Daniele Porello
   title: "Two Applications of Concept Refinement"
-  venue: "Proceedings of the First International Workshop on Comprehensibility,  Explanation in AI and ML 2017"
+  venue: "Proceedings of the First International Workshop on Comprehensibility and Explanation in AI and ML 2017"
   year: 2017
   bib: | 
     @inproceedings{CTGKPP17,
@@ -1237,7 +1237,7 @@
   type: 3
   author: Maria M. Hedblom,  Oliver Kutz,  Rafael Peñaloza and Giancarlo Guizzardi
   title: "What's Cracking? How Image Schema Combinations Can Model Conceptualisations of Events"
-  venue: "Joint Proceedings of the Workshops C3GI: The 7th International Workshop on Computational Creativity, Concept Invention,,  General Intelligence ISD4: The 4th Image Schema Day, and SCORE: From Image Schemas to Cognitive Robotics"
+  venue: "Joint Proceedings of the Workshops C3GI: The 7th International Workshop on Computational Creativity, Concept Invention, and General Intelligence ISD4: The 4th Image Schema Day, and SCORE: From Image Schemas to Cognitive Robotics"
   year: 2018
   bib: | 
     @inproceedings{DBLP:conf/c3gi/HedblomKPG18,
@@ -1573,7 +1573,7 @@
 - key: PeTh-OC15
   type: 3
   author: Rafael Peñaloza and Aparna Saisree Thuluva
-  venue: "Proceedings of the International Workshop on Belief Change,  NMR in Ontologies and Databases"
+  venue: "Proceedings of the International Workshop on Belief Change and NMR in Ontologies and Databases"
   title: "Iterative Ontology Updates Using Context Labels"
   year: 2015
   bib: | 
@@ -1877,7 +1877,7 @@
   type: 4
   author: Franz Baader,  Jan Hladik and Rafael Peñaloza
   title: "SI! Automata Can Show PSPACE Results for Description Logics"
-  venue: "Proceedings of the First International Conference on Language,  Automata Theory and Applications (LATA'07)"
+  venue: "Proceedings of the First International Conference on Language and Automata Theory and Applications (LATA'07)"
   year: 2007
   bib: | 
     @InProceedings{BaHP07b,
@@ -2726,7 +2726,7 @@
   type: 4
   author: Lisa Hutschenreiter and Rafael Peñaloza
   title: "An Automata View to Goal-Directed Methods"
-  venue: "Proceedings of the 11th International Conference on Language,  Automata Theory and Applications (LATA 2017)"
+  venue: "Proceedings of the 11th International Conference on Language and Automata Theory and Applications (LATA 2017)"
   year: 2017
   doi: 10.1007/978-3-319-53733-7_7
   bib: | 
@@ -3068,7 +3068,7 @@
   type: 4
   author: Rafael Peñaloza
   title: "Using Sums-of-Products for Non-standard Reasoning"
-  venue: "Proceedings of the 4th International Conference on Language,  Automata Theory and Applications (LATA 2010)"
+  venue: "Proceedings of the 4th International Conference on Language and Automata Theory and Applications (LATA 2010)"
   year: 2010
   doi: 10.1007/978-3-642-13089-2_41
   bib: | 
@@ -4203,7 +4203,7 @@
   type: 6
   author: Rafael Peñaloza
   title: "Axiom Pinpointing"
-  venue: "Applications,  Practices in Ontology Design, Extraction, and Reasoning"
+  venue: "Applications and Practices in Ontology Design, Extraction, and Reasoning"
   year: 2020
   doi: 10.3233/SSW200042
   bib: | 
