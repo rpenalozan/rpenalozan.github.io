@@ -4067,7 +4067,7 @@
   year: 2023
   bib: | 
     @article{PaPe-TPLP22,
-      title={Answering Fuzzy Queries over Fuzzy DL-Lite Ontologies}, 
+      title={Answering Fuzzy Queries over Fuzzy {DL-Lite} Ontologies}, 
       DOI={10.1017/S1471068421000569}, 
       journal={Theory and Practice of Logic Programming}, 
       publisher={Cambridge University Press}, 
@@ -4142,17 +4142,19 @@
 - key: PMRG+23
   type: 5
   author: Piscioneri, Antonella,  Morelli, Sabrina,  Ritacco, Tiziana,  Giocondo, Michele,  Peñaloza, Rafael,  Drioli, Enrico and De Bartolo, Loredana
+  title: "Topographical cues of PLGA membranes modulate the behavior of hMSCs, myoblasts and neuronal cells"
   year: 2023
+  doi: 10.1016/j.colsurfb.2022.113070
   venue: "Colloids and Surfaces B: Biointerfaces"
   bib: | 
     @article{PMRG+23,
-    	author = {Piscioneri, Antonella and Morelli, Sabrina and Ritacco, Tiziana and Giocondo, Michele and Pe{\~n}aloza, Rafael and Drioli, Enrico and De Bartolo, Loredana},
-    	title = {Topographical cues of PLGA membranes modulate the behavior of hMSCs, myoblasts and neuronal cells},
-    	year = {2023},
-    	volume = {222},
-    	doi = {10.1016/j.colsurfb.2022.113070},
-    	journal = {Colloids and Surfaces B: Biointerfaces},	
-    	pages = {113070},
+      author = {Piscioneri, Antonella and Morelli, Sabrina and Ritacco, Tiziana and Giocondo, Michele and Pe{\~n}aloza, Rafael and Drioli, Enrico and De Bartolo, Loredana},
+      title = {Topographical cues of {PLGA} membranes modulate the behavior of {hMSCs}, myoblasts and neuronal cells},
+      year = {2023},
+      volume = {222},
+      doi = {10.1016/j.colsurfb.2022.113070},
+      journal = {Colloids and Surfaces B: Biointerfaces},	
+      pages = {113070},
     }
 - key: BCE+-15
   type: 6
