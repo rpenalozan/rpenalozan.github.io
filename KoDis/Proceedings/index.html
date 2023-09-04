@@ -9,51 +9,6 @@
 </head>
 <!--CEURLANG=eng -->
 <body>
-<pre># Editing instructions
-# The following variables need to be adapted by you:
-# JJJJ=Year in which the final papers of the proceedings were produced 
-# YYYY=Year in which the workshop took place (in most cases YYYY=JJJJ)
-# NNNN=Acronym of the Workshop 
-# DD=Day of submission of the workshop proceedings to CEUR-WS.org
-# MM=Month of submission of the workshop proceedings (MM=01,02,03,04,05,06,07,08,09,10,11,12)
-# The variable 
-# XXX=Volume number of the proceedings with CEUR-WS.org
-# shall be set by CEUR-WS.org. CEUR-WS.org shall also set the publication date.
-#
-#
-# (*) Remove lines starting with #  or &lt;pre&gt;# when preparing the file index.html
-# 
-# Some elements are tagged with a "class=CEUR..." clause. Be careful to maintain these tags!
-# They are used both for formatting purposes and for identifying bibliographic elements.
-# The CEUR class tags are as follows:
-#          CEURLANG: the main language of the proceedings (eng, deu, fra, spa, rus, ita, por, ...)
-#                 according to ISO 639-2/T (http://en.wikipedia.org/wiki/List_of_ISO_639-2_codes)
-#          CEURVOLNR: the volume number of the proceedings **set by us**
-#          CEURPUBYEAR: the year in which the proceedings volume was created (see also YYYY)
-#          CEURURN: the URN of the volume **set by us**
-#          CEURVOLACRONYM: the acronym of the workshop plus YYYY (year of the workshop)
-#                 the acronym may contain '-'; between acronym and year is either a blank
-#                 or a '-'. The year is exactly 4 digits, e.g. 2012
-#          CEURVOLTITLE: the title of the proceedings
-#          CEURFULLTITLE: the long title of the proceedings
-#          CEURCOLOCATED: the acronym and year of the conference where this workshop was 
-#              co-located with; use "NONE" if the workshop was not co-located with a conference
-#          CEURLOCTIME: the place and time when the workshop took place
-#          CEURVOLEDITOR: full name of an editor of the proceedings
-#          CEURTOC: indicator for the start of the table of contents
-#          CEURSESSION (optional): separator for a section within the table of contents
-#          CEURTITLE: title of a paper within the table of contents
-#          CEURPAGES (optional): numerical range of pages of a paper, e.g. 10-20
-#          CEURAUTHOR: one author of a paper (use full names, do not include affiliations);
-#                 multiple authors should be separated by commas
-#          CEURPUBDATE: the precise date of publication at CEUR-WS.org **set by us**
-#          CEURSUBMITTEDPAPERS: the total number of papers submitted for peer review to this volume
-#          CEURACCEPTEDPAPERS: the total number of accepted peer-reviewed papers (excl. invited papers, keynotes etc)
-#          CEURACCEPTEDREGULARPAPERS: the number of regular-size accepted peer-reviewed papers (optional)
-#          CEURACCEPTEDSHORTPAPERS: the number of short accepted peer-reviewed papers  (optional)
-#          
-#</pre>
-
 
 
 <table style="border: 0; border-spacing: 0; border-collapse: collapse; width: 95%">
@@ -107,36 +62,6 @@ co-located with 20th International Conference on Principles of Knowledge Represe
 
 <br><br><br>
 
-<pre># Instructions for Table of Contents 
-# The table of contents normally is a plain list of papers (with titles/authors).
-# The paper title should be linked to the paper URL (usually pdf).
-# You may include "session" subsections e.g. to reflect the track structure of your workshop.
-# Authors should be specified as comma-separated lists with full author names
-# (like John Smith). Avoid glue words like 'by' and 'and'. If applicable, then lookup how
-# the author is spelled out by DBLP.
-# You may also provide additional material such as preface, bibtex files, complete 
-# proceedings as a single pdf, and similar items. The additional items should be 
-# clearly separated from the paper list, preferably after the table of contents.
-# Please only tag original papers with the CEURTITLE/CEURAUTHOR scheme. Rather do not tag
-# additional material with this scheme!
-# For the time being, presentation slides should also not be tagged by CEURTITLE/CEURAUTHOR.
-#
-# CEUR-WS shall watermark PDF files in a published volume by its online CEUR-WS.org URL.
-# If there are certain PDF files like frontmatter or images that you like to exclude
-# from watermarking, then give it a name like 'xfrontmatter.pdf'. 
-#
-# For all other PDF files, use functional names like
-#   - paper1.pdf   (regular papers; start with paper1, then paper2,...)
-#   - invited1.pdf  (invited paper)
-#   - keynote1.pdf  (a variant for invited papers)
-#   - short1.pdf   (a short paper that still is a citable paper)
-#   - abstract1.pdf  (an abstract that is not supposed to be a citable paper)
-#   - preface.pdf   (a preface, usually not citable)
-# By default, all PDF files of a published volume will be watermarked by their online CEUR-WS URL.
-# You can disable this by prefixing the filename with the letter 'x', see xpreface below.
-#</pre>
-
-
 <div class="CEURTOC">
 <h2> Table of Contents </h2>
 
@@ -164,14 +89,14 @@ XXX appear in this volume.
 </li>
 
 <li id="paper2"><a href="paper2.pdf">
-<span class="CEURTITLE">Ranking-based Argumentation Semantics Applied to Logical Argumentation</span></a> 
+<span class="CEURTITLE">Ranking-based Argumentation Semantics Applied to Logical Argumentation</span></a> (short paper)
 <br>
 <span class="CEURAUTHOR">Jesse Heyninck</span>, 
 <span class="CEURAUTHOR">Badran Raddaoui</span>, 
 <span class="CEURAUTHOR">Christian Strasser</span>
 </li>
 
-<li id="paper1"><a href="paper1.pdf">
+<li id="paper3"><a href="paper3.pdf">
 <span class="CEURTITLE">Voting for Bins: Integrating Imprecise Probabilistic Beliefs into the Condorcet Jury Theorem</span></a> 
 <br>
 <span class="CEURAUTHOR">Jonas Karge</span>
@@ -189,40 +114,22 @@ XXX appear in this volume.
 <h3><span class="CEURSESSION">CAKR</span></h3>
 
 <ul>
-<li id="sample-1col"><a href="sample-1col.pdf">
-<span class="CEURTITLE">A better way to format your document for CEUR-WS</span></a> (1-col)
-<span class="CEURPAGES">23-31</span> 
+<li id="paper5"><a href="paper5.pdf">
+<span class="CEURTITLE">Paper 1</span></a> 
 <br>
-<span class="CEURAUTHOR">Dmitry S. Kulyabov</span>, 
-<span class="CEURAUTHOR">Ilaria Tiddi</span>, 
-<span class="CEURAUTHOR">Manfred Jeusfeld</span>
+<span class="CEURAUTHOR">Author 1</span>
 </li>
 
-<li id="sample-2col"><a href="sample-2col.pdf">
-<span class="CEURTITLE">A better way to format your document for CEUR-WS</span></a> (2-col)
-<span class="CEURPAGES">32-37</span> 
+<li id="paper6"><a href="paper6.pdf">
+<span class="CEURTITLE">Paper 2</span></a> 
 <br>
-<span class="CEURAUTHOR">Dmitry S. Kulyabov</span>, 
-<span class="CEURAUTHOR">Ilaria Tiddi</span>, 
-<span class="CEURAUTHOR">Manfred Jeusfeld</span>
+<span class="CEURAUTHOR">Author 2</span>
 </li>
 
-<li id="CEUR-Template-1col"><a href="CEUR-Template-1col.pdf">
-<span class="CEURTITLE">Word Template in CEURART for One Column</span></a> (1col)
-<span class="CEURPAGES">38-41</span> 
+<li id="paper7"><a href="paper7.pdf">
+<span class="CEURTITLE">Paper 3</span></a> 
 <br>
-<span class="CEURAUTHOR">Aleksandr Ometov</span>,
-<span class="CEURAUTHOR">Mary Y. Writter</span>,
-<span class="CEURAUTHOR">John X. Ceur</span>
-</li>
-
-<li id="CEUR-Template-2col"><a href="CEUR-Template-2col.pdf">
-<span class="CEURTITLE">Word Template in CEURART for Two Columns</span></a> (2col)
-<span class="CEURPAGES">42-44</span> 
-<br>
-<span class="CEURAUTHOR">Aleksandr Ometov</span>,
-<span class="CEURAUTHOR">Mary Y. Writter</span>,
-<span class="CEURAUTHOR">John X. Ceur</span>
+<span class="CEURAUTHOR">Author 3</span>
 </li>
 
 </ul>
@@ -232,7 +139,7 @@ XXX appear in this volume.
 
 <hr>
 <span class="unobtrusive">
-2023-MM-DD: submitted by Peter Coeditor, 
+2023-09-DD: submitted by Peter Coeditor, 
             metadata incl. bibliographic data published under <A HREF="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons CC0</A><br>
 <span class="CEURPUBDATE">yyyy-mm-dd</span>: published on CEUR Workshop Proceedings (CEUR-WS.org, ISSN 1613-0073)
 	|<a href="https://validator.w3.org/nu/?doc=http%3A%2F%2Fceur-ws.org%2FVol-XXX%2F">valid HTML5</a>|
