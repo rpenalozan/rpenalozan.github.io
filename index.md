@@ -18,8 +18,8 @@ many different topics.</p>
 <p> This page is constantly being updated </p>
 
 <p> <b>News</b> <br />
-{% assign news = site.data.news | sort: "date" %}
-{% for new in news reversed %}
+{% assign news = site.data.news | sort: "date" | reverse %}
+{% for new in news limit:5 %}
   <b>[{{ new.date }}]</b> {{ new.news }}
   {% if new.url %}
   (<a href="{{ new.url }}">{{ new.url }}</a>)
