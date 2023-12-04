@@ -260,8 +260,6 @@
   venues:
   - name: 20th Extended Semantic Web Conference (ESWC 2023)
     url: https://2023.eswc-conferences.org/
-  - name: 14th International Conference on Computational Creativity (ICCC'23)
-    url: http://computationalcreativity.net/iccc23/
   - name: 20th International Conference on Principles of Knowledge Representation and Reasoning (KR'23) 
     url: https://kr.org/KR2023/
     note: Area Chair
@@ -294,9 +292,23 @@
     url: https://iswc2023.semanticweb.org/
   - name: Formal Ontology in Information Systems Conference for 2023 (FOIS 2023)
     url: https://fois2023.griis.ca/
+  - name: 36th International Workshop on Description Logics (DL 2023)
+    url: https://dl2023.w.uib.no/
 
 - year: 2024
   venues:
   - name: 38th AAAI Conference on Artificial Intelligence (AAAI'24)
     url: https://aaai.org/Conferences/AAAI-24/
     note: Senior PC Member
+  - name: 15th International Conference on Computational Creativity (ICCC'24)
+    url: https://computationalcreativity.net/iccc24/
+  - name: 37th International FLAIRS Conference
+    url: https://www.flairs-37.info/
+  - name: International Joint Conference on Automated Reasoning (IJCAR 2024)
+    url: https://merz.gitlabpages.inria.fr/2024-ijcar/
+  - name: 21st Extended Semantic Web Conference (ESWC 2024)
+    url: https://2024.eswc-conferences.org/
+  - name: 37th International Workshop on Description Logics (DL 2024)
+    url: https://dl2024.w.uib.no/
+  - name: KRR@SAC 2024
+    url: https://www.sigapp.org/sac/sac2024/
