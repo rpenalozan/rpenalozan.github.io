@@ -37,6 +37,11 @@ talk:
   date: 2022/12/12
   url: https://www.youtube.com/watch?v=1zucufsussw
   note: In Italian
+- title: Mixing Time and Uncertainty. A Tale of Superpositions
+  date: 2024/02/14
+  venue: SIPTA Seminar
+  location: Virtual
+  url: https://www.youtube.com/watch?v=LG4trFXC53g
 
 tutorial:
 - title: Fuzzy Description Logics
@@ -85,3 +90,11 @@ keynote:
   date: 2016/11/03
   venue: 25emes Rencontres Francophones sur la Logique Floue et ses Applications
   location: La Rochelle (France)
+- title: Bringing Statistics Back to Probabilistic Reasoning
+  date: 2023/07/09
+  venue: 10th Workshop on Probabilistic Logic Programming
+  location: London (UK)
+- title: Mixing Time and Uncertainty. A Tale of Superpositions
+  date: 2023/09/20
+  venue: 17th European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty
+  location: Arras (France)
