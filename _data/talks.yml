@@ -1,8 +1,4 @@
 talk:
-- title: Semiring-based Provenance for Light-weight Description Logics 
-  date: 2021/04/13
-  venue: QuantLA Research Seminar
-  location: Virtual
 - title: Fuzzy DL Nation
   venue: Opening QuantLA Research Seminar
   location: Dresden (Germany)
@@ -31,6 +27,10 @@ talk:
   venue: Valda Seminar
   location: Paris (France)
   date: 2019/07/12
+- title: Semiring-based Provenance for Light-weight Description Logics 
+  date: 2021/04/13
+  venue: QuantLA Research Seminar
+  location: Virtual
 - title: "Rappresentazione della conoscenza: cos'è e a cosa serve?"
   venue: University of Milano-Bicocca
   location: Milano (Italy)
@@ -42,6 +42,10 @@ talk:
   venue: SIPTA Seminar
   location: Virtual
   url: https://www.youtube.com/watch?v=LG4trFXC53g
+- title: Data-hungry Machines
+  date: 2024/03/21
+  venue: Stellar Network Seminar
+  location: Virtual
 
 tutorial:
 - title: Fuzzy Description Logics
