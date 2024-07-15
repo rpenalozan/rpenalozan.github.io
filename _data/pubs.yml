@@ -1233,14 +1233,14 @@
       volume    = 846,
       editor    = {Yevgeny Kazakov and Domenico Lembo and Frank Wolter},
     }
-- key: DBLP:conf/c3gi/HedblomKPG18
+- key: HKPG18
   type: 3
   author: Maria M. Hedblom,  Oliver Kutz,  Rafael Peñaloza and Giancarlo Guizzardi
   title: "What's Cracking? How Image Schema Combinations Can Model Conceptualisations of Events"
   venue: "Joint Proceedings of the Workshops C3GI: The 7th International Workshop on Computational Creativity, Concept Invention, and General Intelligence ISD4: The 4th Image Schema Day, and SCORE: From Image Schemas to Cognitive Robotics"
   year: 2018
   bib: | 
-    @inproceedings{DBLP:conf/c3gi/HedblomKPG18,
+    @inproceedings{HKPG18,
       author    = {Maria M. Hedblom and
                    Oliver Kutz and
                    Rafael Pe{\~{n}}aloza and
@@ -1273,6 +1273,30 @@
       volume =	 189,
       series =	 {{CEUR-WS}},
       address =	 {The Lake District, UK},
+    }
+- key: HMPR23
+  type: 3
+  author: Ignacio Huitzil,  Giuseppe Mazzotta,  Rafael Peñaloza and Francesco Ricca
+  title: "ASP-based Axiom Pinpointing for Description Logics"
+  venue: "Proceedings of the 36th International Workshop on Description Logics (DL 2023)"
+  year: 2023
+  bib: | 
+    @inproceedings{HMPR23,
+      author       = {Ignacio Huitzil and
+                      Giuseppe Mazzotta and
+                      Rafael Pe{\~{n}}aloza and
+                      Francesco Ricca},
+      editor       = {Oliver Kutz and
+                      Carsten Lutz and
+                      Ana Ozaki},
+      title        = {ASP-based Axiom Pinpointing for Description Logics},
+      booktitle    = {Proceedings of the 36th International Workshop on Description Logics
+                      {(DL} 2023)},
+      series       = {{CEUR} Workshop Proceedings},
+      volume       = {3515},
+      publisher    = {CEUR-WS.org},
+      year         = {2023},
+      url          = {https://ceur-ws.org/Vol-3515/paper-14.pdf},
     }
 - key: IMMP17
   type: 3
@@ -1406,6 +1430,27 @@
       title = {Efficient Axiom Pinpointing in {EL} using {SAT} Technology},
       year = {2016},
     }
+- key: MePR-ISD-23
+  type: 3
+  author: Simone Melzi,  Rafael Peñaloza,  Alessandro Raganato
+  title: "Does Stable Diffusion Dream of Electric Sheep"
+  venue: "Proceedings of The Seventh Image Schema Day"
+  year: 2023
+  bib: | 
+    @inproceedings{MePR-ISD-23,
+      author       = {Simone Melzi and
+                      Rafael Pe{\~{n}}aloza and
+                      Alessandro Raganato},
+      editor       = {Maria M. Hedblom and
+                      Oliver Kutz},
+      title        = {Does Stable Diffusion Dream of Electric Sheep},
+      booktitle    = {Proceedings of The Seventh Image Schema Day},
+      series       = {{CEUR} Workshop Proceedings},
+      volume       = {3511},
+      publisher    = {CEUR-WS.org},
+      year         = {2023},
+      url          = {https://ceur-ws.org/Vol-3511/paper\_09.pdf},
+    }
 - key: OzPe-DL18
   type: 3
   author: Ana Ozaki and Rafael Peñaloza
@@ -1518,6 +1563,48 @@
       publisher = {CEUR-WS.org},
       year      = {2021},
       url       = {http://ceur-ws.org/Vol-2954/paper-25.pdf},
+    }
+- key: Pena-23
+  type: 3
+  author: Rafael Peñaloza
+  title: "Semiring Provenance in Expressive Description Logics"
+  venue: "Proceedings of the 36th International Workshop on Description Logics (DL 2023) "
+  year: 2023
+  bib: | 
+    @inproceedings{Pena-23,
+      author       = {Rafael Pe{\~{n}}aloza},
+      editor       = {Oliver Kutz and
+                      Carsten Lutz and
+                      Ana Ozaki},
+      title        = {Semiring Provenance in Expressive Description Logics},
+      booktitle    = {Proceedings of the 36th International Workshop on Description Logics
+                      {(DL} 2023) },
+      series       = {{CEUR} Workshop Proceedings},
+      volume       = {3515},
+      publisher    = {CEUR-WS.org},
+      year         = {2023},
+      url          = {https://ceur-ws.org/Vol-3515/paper-19.pdf},
+    }
+- key: PePi-ISD-23
+  type: 3
+  author: Rafael Peñaloza and Zuzana Pinkosova
+  title: "Walk Me to the Moon: Representing Image Schemas with Abstract Time Measures"
+  venue: "Proceedings of The Seventh Image Schema Day"
+  year: 2023
+  bib: | 
+    @inproceedings{PePi-ISD-23,
+      author       = {Rafael Pe{\~{n}}aloza and
+                      Zuzana Pinkosova},
+      editor       = {Maria M. Hedblom and
+                      Oliver Kutz},
+      title        = {Walk Me to the Moon: Representing Image Schemas with Abstract Time
+                      Measures},
+      booktitle    = {Proceedings of The Seventh Image Schema Day},
+      series       = {{CEUR} Workshop Proceedings},
+      volume       = {3511},
+      publisher    = {CEUR-WS.org},
+      year         = {2023},
+      url          = {https://ceur-ws.org/Vol-3511/paper\_06.pdf},
     }
 - key: PeSe09
   type: 3
@@ -2747,6 +2834,28 @@
       series    = {Lecture Notes in Computer Science},
       volume    = {10168},
     }
+- key: KMea-ICPM-23
+  type: 4
+  author: Jonghyeon Ko,  Fabrizio Maria Maggi,  Marco Montali,  Rafael Peñaloza and Ramon Fraga Pereira
+  title: "Plan Recognition as Probabilistic Trace Alignment"
+  venue: "5th International Conference on Process Mining, ICPM 2023"
+  year: 2023
+  doi: 10.1109/ICPM60904.2023.10271943
+  bib: | 
+    @inproceedings{KMea-ICPM-23,
+      author       = {Jonghyeon Ko and
+                      Fabrizio Maria Maggi and
+                      Marco Montali and
+                      Rafael Pe{\~{n}}aloza and
+                      Ramon Fraga Pereira},
+      title        = {Plan Recognition as Probabilistic Trace Alignment},
+      booktitle    = {5th International Conference on Process Mining, {ICPM} 2023},
+      pages        = {33--40},
+      publisher    = {{IEEE}},
+      year         = {2023},
+      url          = {https://doi.org/10.1109/ICPM60904.2023.10271943},
+      doi          = {10.1109/ICPM60904.2023.10271943},
+    }
 - key: KnPe-ESWC-10
   type: 4
   author: Martin Knechtel and Rafael Peñaloza
@@ -3449,6 +3558,33 @@
       doi       = {10.24963/ijcai.2018/268},
       editor    = {J{\'{e}}r{\^{o}}me Lang},
       publisher = {ijcai.org},
+    }
+- key: RSea-TD-24
+  type: 4
+  author: Mikel Robredo,  Nyyti Saarimäki,  Rafael Peñaloza,  Davide Taibi and Valentina Lenarduzzi
+  title: "Comparing Multivariate Time Series Analysis and Machine Learning Performance for Technical Debt Prediction: The SQALE Index Case"
+  venue: "Proceedings of the 7th ACM/IEEE International Conference on Technical Debt, TechDebt 2024"
+  year: 2024
+  doi: 10.1145/3644384.3644472
+  bib: | 
+    @inproceedings{RSea-TD-24,
+      author       = {Mikel Robredo and
+                      Nyyti Saarim{\"{a}}ki and
+                      Rafael Pe{\~{n}}aloza and
+                      Davide Taibi and
+                      Valentina Lenarduzzi},
+      editor       = {Matthias Galster and
+                      Zadia Codabux and
+                      Rodrigo O. Spinola},
+      title        = {Comparing Multivariate Time Series Analysis and Machine Learning Performance
+                      for Technical Debt Prediction: The {SQALE} Index Case},
+      booktitle    = {Proceedings of the 7th {ACM/IEEE} International Conference on Technical
+                      Debt, TechDebt 2024},
+      pages        = {45--46},
+      publisher    = {{ACM}},
+      year         = {2024},
+      url          = {https://doi.org/10.1145/3644384.3644472},
+      doi          = {10.1145/3644384.3644472},
     }
 - key: SMLPL-SAER22
   type: 4
@@ -4221,6 +4357,27 @@
       year      = {2020},
       url       = {https://ebooks.iospress.nl/volumearticle/56013},
       doi       = {10.3233/SSW200042},
+    }
+- key: MoPe-TPLP24
+  type: 7
+  author: Sotiris Moschoyiannis and Rafael Peñaloza
+  title: "Selected Papers from the 5th International Joint Conference on Rules and Reasoning (RuleML+RR 2021)"
+  venue: "Theory Pract. Log. Program."
+  year: 2024
+  doi: 10.1017/S1471068424000097
+  bib: | 
+    @article{MoPe-TPLP24,
+      author       = {Sotiris Moschoyiannis and
+                      Rafael Pe{\~{n}}aloza},
+      title        = {Selected Papers from the 5th International Joint Conference on Rules
+                      and Reasoning (RuleML+RR 2021)},
+      journal      = {Theory Pract. Log. Program.},
+      volume       = {24},
+      number       = {2},
+      pages        = {310--312},
+      year         = {2024},
+      url          = {https://doi.org/10.1017/s1471068424000097},
+      doi          = {10.1017/S1471068424000097},
     }
 - key: ScPe-AIC21
   type: 7
