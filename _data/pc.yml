@@ -294,6 +294,8 @@
     url: https://fois2023.griis.ca/
   - name: 36th International Workshop on Description Logics (DL 2023)
     url: https://dl2023.w.uib.no/
+  - name: 7th Image Schema Day (ISD7)
+    url: https://imageschema.net/the-image-schema-day/
   - name: 2nd International Workshop on Hybrid Models for Coupling Deductive and Inductive Reasoning (HYDRA 2023)
     url: https://sites.google.com/unical.it/hydra2023/
 
@@ -321,3 +323,14 @@
   - name: 21st International Conference on Principles of Knowledge Representation and Reasoning (KR'24) 
     url: https://kr.org/KR2024/
     note: Area Chair
+  - name: 2024 AAAI Fall Symposium Series
+    url: https://aaai.org/conference/fall-symposia/fss24/
+  - name: 1st International Workshop on Knowledge Aware Process Intelligence (EKAPI'24)
+    url: https://sites.google.com/unical.it/ekapi-2024/
+    note: General Chair
+  - name: International Joint Conference on Rules and Reasoning RuleML+RR 2024
+    url: https://2024.declarativeai.net/events/ruleml-rr
+  - name: 23rd International Semantic Web Conference (ISWC 2024)
+    url: https://iswc2024.semanticweb.org/
+  - name: 16th International Conference on Scalable Uncertainty Management (SUM 2024)
+    url: https://sum2024.unipa.it/
