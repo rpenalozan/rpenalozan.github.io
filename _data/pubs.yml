@@ -1687,6 +1687,20 @@
       series =	 {{CEUR-WS}},
       address =	 {Waterloo, Canada},
     }
+- key: PeTu-DL24
+  type: 3
+  author: Rafael Peñaloza and Anni-Yasmin Turhan
+  title: "Rough, Rougher, Roughest — Extending EL with a Hierarchy of Indiscernibility Relations"
+  venue: "Proceedings of the 37th International Workshop on Description Logics (DL'24)"
+  year: 2024
+  bib: | 
+    @InProceedings{PeTu-DL24,
+      author = 	 {Rafael Pe{\~n}aloza and Anni-Yasmin Turhan},
+      title = 	 {Rough, Rougher, Roughest — Extending EL with a Hierarchy of Indiscernibility Relations},
+      booktitle = 	 {Proceedings of the 37th International Workshop on Description Logics ({DL'24})},
+      year =	 2024,
+      note = {To appear},
+    }
 - key: PeTu-UniDL10
   type: 3
   author: Rafael Peñaloza and Anni-Yasmin Turhan
