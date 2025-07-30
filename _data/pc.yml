@@ -255,6 +255,8 @@
   - name: First Workshop on Formal Models of Knowledge Diversity (FMKD)
     url: https://sites.google.com/unimib.it/fmkd/
     note: PC Chair
+  - name: 36th AAAI Conference on Artificial Intelligence Special Programs and Tracks (AAAI'22)
+    url: https://aaai.org/Conferences/AAAI-22/
 
 - year: 2023
   venues:
@@ -336,3 +338,26 @@
     url: https://sum2024.unipa.it/
   - name: 10th Workshop on Formal and Cognitive Reasoning (FCR 2024)
     url: https://fcr.krportal.org/2024/
+  - name: 8th Image Schema Day (ISD8)
+    url: https://imageschema.net/the-image-schema-day/
+
+- year: 2025
+  venues:
+  - name: XVIII Seminar on Ontology Research in Brazil (ONTOBRAS 23)
+    url: https://www.inf.ufrgs.br/ontobras/en/18th-seminar-on-ontology-research-in-brazil-ontobras-2025/
+  - name: 25th IEEE International Conference on Data Mining (ICDM 25)
+    url: https://www3.cs.stonybrook.edu/~icdm2025/index.html
+  - name: International Joint Conference on Rules and Reasoning RuleML+RR 2025
+    url: https://2025.declarativeai.net/events/ruleml-rr
+  - name: 9th Image Schema Day (ISD9)
+    url: https://imageschema.net/the-image-schema-day/
+  - name: 38th International Workshop on Description Logics (DL 2025)
+    url: https://dl25.cs.uni.opole.pl/
+  - name: 19th European Conference on Logics in Artificial Intelligence (JELIA’25)
+    url: https://viam.science.tsu.ge/jelia2025/
+  - name: 22nd International Conference on Principles of Knowledge Representation and Reasoning (KR'25) 
+    url: https://kr.org/KR2025/
+  - name: 24th International Semantic Web Conference (ISWC 2025)
+    url: https://iswc2025.semanticweb.org/
+  - name: 16th International Conference on Computational Creativity (ICCC'25)
+    url: https://computationalcreativity.net/iccc25/
