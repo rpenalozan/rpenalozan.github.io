@@ -4330,7 +4330,7 @@
   type: 5
   author: Mikel Robredo,  Nyyti Saarimäki,  Matteo Esposito,  Davide Taibi,  Rafael Peñaloza and Valentina Lenarduzzi
   title: "Evaluating Time-Dependent Methods and Seasonal Effects in Code Technical Debt Prediction"
-  venue: "Journal of Systems \& Software"
+  venue: "Journal of Systems and Software"
   year: 2025
   bib: | 
     @article{RSET+25,
@@ -4341,7 +4341,7 @@
     			Rafael Pe{\~{n}}aloza and 
     			Valentina Lenarduzzi},
       title        = {Evaluating Time-Dependent Methods and Seasonal Effects in Code Technical Debt Prediction},
-      journal      = {Journal of Systems \& Software},
+      journal      = {Journal of Systems and Software},
       year         = {2025},
       note	 = {To appear},
     }
