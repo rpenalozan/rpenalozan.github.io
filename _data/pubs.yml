@@ -4187,6 +4187,26 @@
       month = {May},
       publisher = {Elsevier},
     }
+- key: MaMP25
+  type: 5
+  author: Fabrizio Maria Maggi,  Marco Montali and Rafael Peñaloza
+  title: "Probabilistic Temporal Reasoning Using Superposition Semantics"
+  venue: "ACM Trans. Comput. Log."
+  year: 2025
+  doi: 10.1145/3714427
+  bib: | 
+    @article{MaMP25,
+      author       = {Fabrizio Maria Maggi and
+                      Marco Montali and
+                      Rafael Pe{\~{n}}aloza},
+      title        = {Probabilistic Temporal Reasoning Using Superposition Semantics},
+      journal      = {{ACM} Trans. Comput. Log.},
+      volume       = {26},
+      number       = {2},
+      pages        = {9:1--9:26},
+      year         = {2025},
+      doi          = {10.1145/3714427},
+    }
 - key: MaPR-KI20
   type: 5
   author: Norbert Manthey,  Rafael Peñaloza and Sebastian Rudolph
@@ -4305,6 +4325,46 @@
       doi = {10.1016/j.colsurfb.2022.113070},
       journal = {Colloids and Surfaces B: Biointerfaces},	
       pages = {113070},
+    }
+- key: RSET+25
+  type: 5
+  author: Mikel Robredo,  Nyyti Saarimäki,  Matteo Esposito,  Davide Taibi,  Rafael Peñaloza and Valentina Lenarduzzi
+  title: "Evaluating Time-Dependent Methods and Seasonal Effects in Code Technical Debt Prediction"
+  venue: "Journal of Systems \& Software"
+  year: 2025
+  bib: | 
+    @article{RSET+25,
+      author       = {Mikel Robredo and
+      			Nyyti Saarim{\"{a}}ki and 
+    			Matteo Esposito and 
+    			Davide Taibi and 
+    			Rafael Pe{\~{n}}aloza and 
+    			Valentina Lenarduzzi},
+      title        = {Evaluating Time-Dependent Methods and Seasonal Effects in Code Technical Debt Prediction},
+      journal      = {Journal of Systems \& Software},
+      year         = {2025},
+      note	 = {To appear},
+    }
+- key: TTPP25
+  type: 5
+  author: Paolo Tenti,  James Thomas,  Rafael Peñaloza and Gabriella Pasi
+  title: "ContReviews: A content-based recommendation system for updating Living Evidences in health care"
+  venue: "Knowl. Based Syst."
+  year: 2025
+  doi: 10.1016/J.KNOSYS.2025.112981
+  bib: | 
+    @article{TTPP25,
+      author       = {Paolo Tenti and
+                      James Thomas and
+                      Rafael Pe{\~{n}}aloza and
+                      Gabriella Pasi},
+      title        = {ContReviews: {A} content-based recommendation system for updating
+                      Living Evidences in health care},
+      journal      = {Knowl. Based Syst.},
+      volume       = {311},
+      pages        = {112981},
+      year         = {2025},
+      doi          = {10.1016/J.KNOSYS.2025.112981},
     }
 - key: BCE+-15
   type: 6
