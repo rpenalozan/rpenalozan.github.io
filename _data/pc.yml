@@ -300,6 +300,10 @@
     url: https://imageschema.net/the-image-schema-day/
   - name: 2nd International Workshop on Hybrid Models for Coupling Deductive and Inductive Reasoning (HYDRA 2023)
     url: https://sites.google.com/unical.it/hydra2023/
+  - name: 26th European Conference on Artificial Intelligence (ECAI 2023)
+    url: https://ecai2023.eu/
+  - name: 39th Conference on Uncertainty in Artificial Intelligence (UAI'23)
+    url: https://www.auai.org/uai2023/
 
 - year: 2024
   venues:
@@ -361,3 +365,15 @@
     url: https://iswc2025.semanticweb.org/
   - name: 16th International Conference on Computational Creativity (ICCC'25)
     url: https://computationalcreativity.net/iccc25/
+  - name: 41st Conference on Uncertainty in Artificial Intelligence (UAI'25)
+    url: https://www.auai.org/uai2025/
+  - name: 38th International FLAIRS Conference
+    url: https://www.flairs-38.info/
+  - name: 28th European Conference on Artificial Intelligence (ECAI 2025)
+    url: https://ecai2025.org/
+  - name: 22nd Extended Semantic Web Conference (ESWC 2025)
+    url: https://2025.eswc-conferences.org/
+  - name: 31st International Joint Conference on Artificial Intelligence (IJCAI'22)
+    url: https://2025.ijcai.org/
+    note: Senior PC Member
+
