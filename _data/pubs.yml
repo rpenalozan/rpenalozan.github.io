@@ -1082,6 +1082,67 @@
       volume    = {1879},
       publisher = {CEUR-WS.org},
     }
+- key: CMPR24
+  type: 3
+  author: Andrea Cuteri,  Giuseppe Mazzotta,  Rafael Peñaloza and Francesco Ricca
+  title: "Automata-based LTLf Satisfiability Checking via ASP"
+  venue: "Joint Proceedings of the International Workshop on Artificial Intelligence for Climate Change, Italian Workshop on Planning and Scheduling, RCRA Workshop on Experimental evaluation of algorithms for solving problems with combinatorial explosion, and SPIRIT Workshop on Strategies"
+  bib: | 
+    @inproceedings{CMPR24,
+      author       = {Andrea Cuteri and
+                      Giuseppe Mazzotta and
+                      Rafael Pe{\~{n}}aloza and
+                      Francesco Ricca},
+      editor       = {Diego Aineto and
+                      Riccardo De Benedictis and
+                      Marco Maratea and
+                      Munyque Mittelmann and
+                      Gianpiero Monaco and
+                      Enrico Scala and
+                      Luciano Serafini and
+                      Ivan Serina and
+                      Francesco Spegni and
+                      Elisa Tosello and
+                      Alessandro Umbrico and
+                      Mauro Vallati},
+      title        = {Automata-based LTLf Satisfiability Checking via {ASP}},
+      booktitle    = {Joint Proceedings of the International Workshop on Artificial Intelligence
+                      for Climate Change, Italian Workshop on Planning and Scheduling, {RCRA}
+                      Workshop on Experimental evaluation of algorithms for solving problems
+                      with combinatorial explosion, and {SPIRIT} Workshop on Strategies,
+                      Prediction, Interaction, and Reasoning in Italy {(AI4CC-IPS-RCRA-SPIRIT}
+  year: 2024
+  bib: | 
+    @inproceedings{CMPR24,
+      author       = {Andrea Cuteri and
+                      Giuseppe Mazzotta and
+                      Rafael Pe{\~{n}}aloza and
+                      Francesco Ricca},
+      editor       = {Diego Aineto and
+                      Riccardo De Benedictis and
+                      Marco Maratea and
+                      Munyque Mittelmann and
+                      Gianpiero Monaco and
+                      Enrico Scala and
+                      Luciano Serafini and
+                      Ivan Serina and
+                      Francesco Spegni and
+                      Elisa Tosello and
+                      Alessandro Umbrico and
+                      Mauro Vallati},
+      title        = {Automata-based LTLf Satisfiability Checking via {ASP}},
+      booktitle    = {Joint Proceedings of the International Workshop on Artificial Intelligence
+                      for Climate Change, Italian Workshop on Planning and Scheduling, {RCRA}
+                      Workshop on Experimental evaluation of algorithms for solving problems
+                      with combinatorial explosion, and {SPIRIT} Workshop on Strategies,
+                      Prediction, Interaction, and Reasoning in Italy {(AI4CC-IPS-RCRA-SPIRIT}
+                      2024)},
+      series       = {{CEUR} Workshop Proceedings},
+      volume       = {3883},
+      publisher    = {CEUR-WS.org},
+      year         = {2024},
+      url          = {https://ceur-ws.org/Vol-3883/paper4\_RCRA2.pdf},
+    }
 - key: CPY-DL21
   type: 3
   author: Jieying Chen,  Rafael Peñaloza and Hui Yang
@@ -1321,6 +1382,32 @@
       volume    = {1879},
       publisher = {CEUR-WS.org},
     }
+- key: IMRP24
+  type: 3
+  author: Antonio Ielo,  Giuseppe Mazzotta,  Francesco Ricca and Rafael Peñaloza
+  title: "Towards ASP-based Minimal Unsatisfiable Cores Enumeration for LTLf"
+  venue: "Proceedings of the 6th International Workshop on Artificial Intelligence and Formal Verification, Logic, Automata, and Synthesis"
+  year: 2024
+  bib: | 
+    @inproceedings{IMRP24,
+      author       = {Antonio Ielo and
+                      Giuseppe Mazzotta and
+                      Francesco Ricca and
+                      Rafael Pe{\~{n}}aloza},
+      editor       = {Daniele Porello and
+                      Cosimo Vinci and
+                      Matteo Zavatteri},
+      title        = {Towards ASP-based Minimal Unsatisfiable Cores Enumeration for LTLf},
+      booktitle    = {Proceedings of the 6th International Workshop on Artificial
+                      Intelligence and Formal Verification, Logic, Automata, and Synthesis,
+                      {OVERLAY} 2024},
+      series       = {{CEUR} Workshop Proceedings},
+      volume       = {3904},
+      pages        = {49--55},
+      publisher    = {CEUR-WS.org},
+      year         = {2024},
+      url          = {https://ceur-ws.org/Vol-3904/paper6.pdf},
+    }
 - key: KnPe-DL10
   type: 3
   author: Martin Knechtel and Rafael Peñaloza
@@ -1450,6 +1537,29 @@
       publisher    = {CEUR-WS.org},
       year         = {2023},
       url          = {https://ceur-ws.org/Vol-3511/paper\_09.pdf},
+    }
+- key: OLMRP-ISD24
+  type: 3
+  author: Lorenzo Olearo,  Giorgio Longari,  Simone Melzi,  Alessandro Raganato,  Rafael Peñaloza
+  title: "How to Blend Concepts in Diffusion Models"
+  venue: "Proceedings of The Eighth Image Schema Day"
+  year: 2024
+  bib: | 
+    @inproceedings{OLMRP-ISD24,
+      author       = {Lorenzo Olearo and
+                      Giorgio Longari and
+                      Simone Melzi and
+                      Alessandro Raganato and
+                      Rafael Pe{\~{n}}aloza},
+      editor       = {Maria M. Hedblom and
+                      Oliver Kutz},
+      title        = {How to Blend Concepts in Diffusion Models},
+      booktitle    = {Proceedings of The Eighth Image Schema Day},
+      series       = {{CEUR} Workshop Proceedings},
+      volume       = {3888},
+      publisher    = {CEUR-WS.org},
+      year         = {2024},
+      url          = {https://ceur-ws.org/Vol-3888/Paper\_4.pdf},
     }
 - key: OzPe-DL18
   type: 3
@@ -1696,7 +1806,7 @@
   bib: | 
     @InProceedings{PeTu-DL24,
       author = 	 {Rafael Pe{\~n}aloza and Anni-Yasmin Turhan},
-      title = 	 {Rough, Rougher, Roughest — Extending EL with a Hierarchy of Indiscernibility Relations},
+      title = 	 {Rough, Rougher, Roughest — Extending {EL} with a Hierarchy of Indiscernibility Relations},
       booktitle = 	 {Proceedings of the 37th International Workshop on Description Logics ({DL'24})},
       year =	 2024,
       note = {To appear},
@@ -1959,7 +2069,7 @@
                    Norbert Manthey and
                    Rafael Pe{\~{n}}aloza and
                    Joao Marques{-}Silva},
-      title     = {{BEACON:} An Efficient SAT-Based Tool for Debugging \emph{EL}{\^{}}+
+      title     = {{BEACON:} An Efficient SAT-Based Tool for Debugging EL+
                    Ontologies},
       booktitle = {Proceedings of the 19th International Conference on Theory and 
                    Applications of Satisfiability Testing ({SAT} 2016)},
@@ -2564,6 +2674,21 @@
       address =	"Chillan, Chile",
       publisher =	"IEEE-Press",
       year =	2003,
+    }
+- key: CaPe-ECAI25
+  type: 4
+  author: Virginia Carugno and Rafael Peñaloza
+  title: "Possibilistic Reasoning on Finite-time Linear Temporal Logic"
+  venue: "Proceedings of the 28th European Conference on Artificial Intelligence (ECAI'25)"
+  year: 2025
+  bib: | 
+    @inproceedings{CaPe-ECAI25,
+      author    = {Virginia Carugno and
+                   Rafael Pe{\~{n}}aloza},
+      title     = {Possibilistic Reasoning on Finite-time Linear Temporal Logic},
+      booktitle = {Proceedings of the 28th European Conference on Artificial Intelligence (ECAI'25)},
+      year      = {2025},
+      note	= {To appear},
     }
 - key: CeLP-ECAI16
   type: 4
@@ -3468,6 +3593,32 @@
       number = 7123,
       pages = {80--98},
     }
+- key: PeTu-RR24
+  type: 4
+  author: Rafael Peñaloza and Anni-Yasmin Turhan
+  title: "Reasoning in Rough Description Logics with Multiple Indiscernibility Relations"
+  venue: "Proceedings of the 8th International Joint Conference on Rules and Reasoning (RuleML+RR 2024)"
+  year: 2024
+  doi: 10.1007/978-3-031-72407-7\_11
+  bib: | 
+    @inproceedings{PeTu-RR24,
+      author       = {Rafael Pe{\~{n}}aloza and
+                      Anni{-}Yasmin Turhan},
+      editor       = {Sabrina Kirrane and
+                      Mantas Simkus and
+                      Ahmet Soylu and
+                      Dumitru Roman},
+      title        = {Reasoning in Rough Description Logics with Multiple Indiscernibility
+                      Relations},
+      booktitle    = {Proceedings of the 8th International Joint Conference on Rules and Reasoning (RuleML+RR
+                      2024)},
+      series       = {Lecture Notes in Computer Science},
+      volume       = {15183},
+      pages        = {142--158},
+      publisher    = {Springer},
+      year         = {2024},
+      doi          = {10.1007/978-3-031-72407-7\_11},
+    }
 - key: PeZo-FroCoS13
   type: 4
   author: Rafael Peñaloza and Tingting Zou
@@ -3599,6 +3750,27 @@
       year         = {2024},
       url          = {https://doi.org/10.1145/3644384.3644472},
       doi          = {10.1145/3644384.3644472},
+    }
+- key: RPVP-WIIAT24
+  type: 4
+  author: Alessandro Raganato,  Rafael Peñaloza,  Marco Viviani,  Gabriella Pasi
+  title: "Reasoning Capabilities and Invariability of Large Language Models"
+  venue: "Proceedings of the IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology, WI-IAT 2024"
+  year: 2024
+  doi: 10.1109/WI-IAT62293.2024.00025
+  bib: | 
+    @inproceedings{RPVP-WIIAT24,
+      author       = {Alessandro Raganato and
+                      Rafael Pe{\~{n}}aloza and
+                      Marco Viviani and
+                      Gabriella Pasi},
+      title        = {Reasoning Capabilities and Invariability of Large Language Models},
+      booktitle    = {Proceedings of the {IEEE/WIC} International Conference on Web Intelligence and Intelligent
+                      Agent Technology, {WI-IAT} 2024},
+      pages        = {125--132},
+      publisher    = {{IEEE}},
+      year         = {2024},
+      doi          = {10.1109/WI-IAT62293.2024.00025},
     }
 - key: SMLPL-SAER22
   type: 4
