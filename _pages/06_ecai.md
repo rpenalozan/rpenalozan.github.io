@@ -7,8 +7,11 @@ exclude: true
 <h1> ECAI 2025 </h1>
 
 <p>
-  <a href="paper.pdf">Paper</a>
-  <br />
-  <a href="poster.pdf">Poster</a>
-  <br />
+  <b>Possibilistic Reasoning on Finite-time Linear Temporal Logic</b> by Virginia Carugno and Rafael Peñaloza
+</p>
+<p>
+  <a href="paper.pdf">Download the paper</a>
+</p>
+<p>
+  <a href="poster.pdf">Download the poster</a>
 </p>
