@@ -15,3 +15,5 @@ exclude: true
 <p>
   <a href="poster.pdf">Download the poster</a>
 </p>
+
+<iframe src="https://drive.google.com/file/d/1xzQ5RPzYgehlFU39mCiSLQyn5eJtLBGZ/preview" width="640" height="480" allow="autoplay"></iframe>
