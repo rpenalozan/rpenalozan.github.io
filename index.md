@@ -27,5 +27,5 @@ many different topics.</p>
   <br />
 {% endfor %}
 <br />
-<a href="/news/">Older news</a>
+<a href="/news/">All news</a>
 </p>
